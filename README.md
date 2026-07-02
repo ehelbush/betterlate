@@ -6,6 +6,10 @@ Pure Python 3 standard library. **No dependencies, no framework, no build step.*
 
 > Not medical advice. This is a personal analytics tool. Discuss any changes with your physician.
 
+![Betterlate demo dashboard](docs/dashboard.png)
+
+*Rendered entirely from the bundled synthetic demo data. Drop in your own and it takes over automatically.*
+
 ---
 
 ## Why
