@@ -1,0 +1,980 @@
+{
+  "generated": "2026-07-02",
+  "phase": "Wharf to Wharf build",
+  "week_of": "2026-06-29",
+  "overall_compliance": 20,
+  "compliance": [
+    {
+      "key": "active_days",
+      "label": "active days",
+      "done": 1,
+      "target": 8,
+      "pct": 21
+    },
+    {
+      "key": "runs",
+      "label": "runs",
+      "done": 1,
+      "target": 4,
+      "pct": 22
+    },
+    {
+      "key": "strength",
+      "label": "strength",
+      "done": 0,
+      "target": 1,
+      "pct": 0
+    },
+    {
+      "key": "rides",
+      "label": "rides",
+      "done": 1,
+      "target": 4,
+      "pct": 45
+    },
+    {
+      "key": "long_session",
+      "label": "long session",
+      "done": 1,
+      "target": 1,
+      "pct": 64
+    },
+    {
+      "key": "swim_or_surf",
+      "label": "swim or surf",
+      "done": 0,
+      "target": 1,
+      "pct": 0
+    }
+  ],
+  "this_week": {
+    "hours": 2.5,
+    "load": 97,
+    "sessions": 3
+  },
+  "streak_active_days": 1,
+  "weeks_run_target": 0,
+  "heatmap": [
+    {
+      "date": "2026-03-16",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-03-17",
+      "load": 17,
+      "min": 81,
+      "active": 1,
+      "kinds": [
+        "other",
+        "ride",
+        "strength"
+      ]
+    },
+    {
+      "date": "2026-03-18",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-03-19",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-03-20",
+      "load": 0,
+      "min": 32,
+      "active": 1,
+      "kinds": [
+        "other"
+      ]
+    },
+    {
+      "date": "2026-03-21",
+      "load": 18,
+      "min": 67,
+      "active": 1,
+      "kinds": [
+        "other"
+      ]
+    },
+    {
+      "date": "2026-03-22",
+      "load": 2,
+      "min": 28,
+      "active": 1,
+      "kinds": [
+        "swim"
+      ]
+    },
+    {
+      "date": "2026-03-23",
+      "load": 6,
+      "min": 67,
+      "active": 1,
+      "kinds": [
+        "other"
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "load": 4,
+      "min": 24,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-03-25",
+      "load": 118,
+      "min": 87,
+      "active": 1,
+      "kinds": [
+        "ride",
+        "strength"
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "load": 0,
+      "min": 82,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-03-27",
+      "load": 0,
+      "min": 28,
+      "active": 1,
+      "kinds": [
+        "other"
+      ]
+    },
+    {
+      "date": "2026-03-28",
+      "load": 0,
+      "min": 31,
+      "active": 1,
+      "kinds": [
+        "other"
+      ]
+    },
+    {
+      "date": "2026-03-29",
+      "load": 155,
+      "min": 190,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-03-30",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-03-31",
+      "load": 40,
+      "min": 36,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-04-01",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-02",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-03",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-04",
+      "load": 0,
+      "min": 63,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-04-05",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-06",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-07",
+      "load": 77,
+      "min": 852,
+      "active": 1,
+      "kinds": [
+        "other"
+      ]
+    },
+    {
+      "date": "2026-04-08",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-09",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-10",
+      "load": 2,
+      "min": 26,
+      "active": 1,
+      "kinds": [
+        "other"
+      ]
+    },
+    {
+      "date": "2026-04-11",
+      "load": 7,
+      "min": 122,
+      "active": 1,
+      "kinds": [
+        "other"
+      ]
+    },
+    {
+      "date": "2026-04-12",
+      "load": 9,
+      "min": 37,
+      "active": 1,
+      "kinds": [
+        "other"
+      ]
+    },
+    {
+      "date": "2026-04-13",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-14",
+      "load": 7,
+      "min": 26,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-04-15",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-16",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-17",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-18",
+      "load": 0,
+      "min": 63,
+      "active": 1,
+      "kinds": [
+        "other"
+      ]
+    },
+    {
+      "date": "2026-04-19",
+      "load": 81,
+      "min": 37,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-04-20",
+      "load": 0,
+      "min": 35,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-22",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-23",
+      "load": 109,
+      "min": 407,
+      "active": 1,
+      "kinds": [
+        "other"
+      ]
+    },
+    {
+      "date": "2026-04-24",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-25",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-26",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-27",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-28",
+      "load": 34,
+      "min": 31,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-04-30",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-05-01",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-05-02",
+      "load": 48,
+      "min": 131,
+      "active": 1,
+      "kinds": [
+        "other",
+        "ride",
+        "strength"
+      ]
+    },
+    {
+      "date": "2026-05-03",
+      "load": 93,
+      "min": 102,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "load": 10,
+      "min": 246,
+      "active": 1,
+      "kinds": [
+        "other",
+        "ride",
+        "strength"
+      ]
+    },
+    {
+      "date": "2026-05-05",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-05-06",
+      "load": 434,
+      "min": 98,
+      "active": 1,
+      "kinds": [
+        "other",
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "load": 0,
+      "min": 47,
+      "active": 1,
+      "kinds": [
+        "other",
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-05-08",
+      "load": 1127,
+      "min": 402,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-05-09",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-05-10",
+      "load": 0,
+      "min": 36,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "load": 14,
+      "min": 38,
+      "active": 1,
+      "kinds": [
+        "other"
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "load": 4,
+      "min": 76,
+      "active": 1,
+      "kinds": [
+        "other"
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-05-14",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-05-15",
+      "load": 179,
+      "min": 49,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-05-17",
+      "load": 0,
+      "min": 19,
+      "active": 1,
+      "kinds": [
+        "strength"
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-05-19",
+      "load": 811,
+      "min": 165,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "load": 183,
+      "min": 266,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "load": 349,
+      "min": 288,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "load": 423,
+      "min": 311,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "load": 0,
+      "min": 70,
+      "active": 1,
+      "kinds": [
+        "other"
+      ]
+    },
+    {
+      "date": "2026-05-24",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-05-25",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-05-26",
+      "load": 1,
+      "min": 12,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "load": 51,
+      "min": 71,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "load": 32,
+      "min": 150,
+      "active": 1,
+      "kinds": [
+        "other",
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "load": 5,
+      "min": 26,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-05-31",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-06-01",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-06-02",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-06-03",
+      "load": 171,
+      "min": 137,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "load": 4,
+      "min": 27,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "load": 19,
+      "min": 176,
+      "active": 1,
+      "kinds": [
+        "other",
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "load": 25,
+      "min": 92,
+      "active": 1,
+      "kinds": [
+        "other",
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-06-08",
+      "load": 22,
+      "min": 37,
+      "active": 1,
+      "kinds": [
+        "run",
+        "strength"
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "load": 28,
+      "min": 134,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "load": 34,
+      "min": 134,
+      "active": 1,
+      "kinds": [
+        "ride",
+        "run",
+        "strength"
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "load": 0,
+      "min": 389,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "load": 12,
+      "min": 73,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "load": 4,
+      "min": 86,
+      "active": 1,
+      "kinds": [
+        "other",
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-06-14",
+      "load": 12,
+      "min": 47,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-06-15",
+      "load": 3,
+      "min": 51,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-06-17",
+      "load": 4,
+      "min": 45,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "load": 85,
+      "min": 32,
+      "active": 1,
+      "kinds": [
+        "ride",
+        "swim"
+      ]
+    },
+    {
+      "date": "2026-06-19",
+      "load": 22,
+      "min": 94,
+      "active": 1,
+      "kinds": [
+        "ride",
+        "run"
+      ]
+    },
+    {
+      "date": "2026-06-20",
+      "load": 215,
+      "min": 336,
+      "active": 1,
+      "kinds": [
+        "other",
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-06-21",
+      "load": 8,
+      "min": 60,
+      "active": 1,
+      "kinds": [
+        "other"
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "load": 14,
+      "min": 93,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "load": 40,
+      "min": 78,
+      "active": 1,
+      "kinds": [
+        "ride",
+        "run"
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "load": 1,
+      "min": 12,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "load": 111,
+      "min": 110,
+      "active": 1,
+      "kinds": [
+        "ride",
+        "run"
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "load": 5,
+      "min": 72,
+      "active": 1,
+      "kinds": [
+        "other"
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "load": 108,
+      "min": 316,
+      "active": 1,
+      "kinds": [
+        "other",
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-06-29",
+      "load": 94,
+      "min": 60,
+      "active": 1,
+      "kinds": [
+        "run"
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    },
+    {
+      "date": "2026-07-01",
+      "load": 50,
+      "min": 102,
+      "active": 1,
+      "kinds": [
+        "ride"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "load": 0,
+      "min": 0,
+      "active": 0,
+      "kinds": []
+    }
+  ]
+}

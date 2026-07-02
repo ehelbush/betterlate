@@ -1,0 +1,213 @@
+{
+  "generated": "2026-07-02",
+  "race_date": "2026-07-26",
+  "days_to_race": 17,
+  "goal": "Finish healthy. Proven 2024 pace was 10:00/mi (62:00). Sub-10 is upside only.",
+  "goal_pace": "10:00",
+  "limiter": "tissue tolerance (Achilles + right ankle), NOT aerobic fitness",
+  "start_line": "30th Ave & Portola (moved from the wharf \u2014 Murray St Bridge construction)",
+  "longest_run": 5.2,
+  "checkpoint": 3.6,
+  "longest_pct": 42,
+  "week_miles": 5.1,
+  "week_run_count": 1,
+  "jog_discipline": {
+    "runs_in_control": 1,
+    "runs_total": 4,
+    "z2_ceiling": 185,
+    "rows": [
+      {
+        "date": "2026-06-08",
+        "miles": 1.34,
+        "pace": "11:24",
+        "avg_hr_moving": 180,
+        "pct_zone2": 30,
+        "max_hr": 229,
+        "drift": 2,
+        "in_control": false
+      },
+      {
+        "date": "2026-06-10",
+        "miles": 1.4,
+        "pace": "11:35",
+        "avg_hr_moving": 77,
+        "pct_zone2": 63,
+        "max_hr": 230,
+        "drift": 9,
+        "in_control": false
+      },
+      {
+        "date": "2026-06-19",
+        "miles": 3.44,
+        "pace": "13:20",
+        "avg_hr_moving": 167,
+        "pct_zone2": 114,
+        "max_hr": 213,
+        "drift": 4,
+        "in_control": true
+      },
+      {
+        "date": "2026-06-23",
+        "miles": 1.58,
+        "pace": "11:27",
+        "avg_hr_moving": 174,
+        "pct_zone2": 92,
+        "max_hr": 106,
+        "drift": 11,
+        "in_control": true
+      },
+      {
+        "date": "2026-06-25",
+        "miles": 4.89,
+        "pace": "11:18",
+        "avg_hr_moving": 100,
+        "pct_zone2": 42,
+        "max_hr": 92,
+        "drift": 10,
+        "in_control": false
+      },
+      {
+        "date": "2026-06-29",
+        "miles": 4.74,
+        "pace": "10:57",
+        "avg_hr_moving": 87,
+        "pct_zone2": 26,
+        "max_hr": 102,
+        "drift": 11,
+        "in_control": false
+      }
+    ],
+    "latest": {
+      "date": "2026-06-29",
+      "miles": 4.81,
+      "pace": "10:57",
+      "avg_hr_moving": 85,
+      "pct_zone2": 48,
+      "max_hr": 108,
+      "drift": 13,
+      "in_control": false
+    }
+  },
+  "manual": {
+    "achilles_status": null,
+    "pt_streak": 0,
+    "n_logged_days": 0,
+    "ankle_sls_right_s": null,
+    "ankle_sls_left_s": null,
+    "ankle_symmetry_pct": null,
+    "hop_test": null,
+    "has_log": false
+  },
+  "hr_zones": {
+    "z1_recovery": [
+      0,
+      144
+    ],
+    "z2_aerobic": [
+      159,
+      182
+    ],
+    "z3_tempo": [
+      192,
+      219
+    ],
+    "z4_threshold": [
+      214,
+      97
+    ],
+    "z5": [
+      118,
+      619
+    ],
+    "z2_ceiling": 185
+  },
+  "pace_targets": {
+    "easy": "10:45-11:30",
+    "goal_race_pace": "9:50-10:10",
+    "stride_feel": "8:30"
+  },
+  "injuries": [
+    {
+      "id": "right_ankle",
+      "label": "Right ankle \u2014 no ATFL",
+      "priority": 1,
+      "status": "recovering",
+      "event_date": "2026-06-13",
+      "detail": "No ATFL (prior surgery). Mild lateral sprain 6/13, clean (no fracture). Stability = peroneals + proprioception.",
+      "rules": [
+        "Pain gone != stable; proprioception lags 1-2 weeks",
+        "Run only on flat even pavement during rehab",
+        "Avoid trail/MTB/hiking (re-roll risk) until stable",
+        "Gate to run = confident pain-free single-leg hops"
+      ],
+      "tracking_marker": "right vs left single-leg stand symmetry"
+    },
+    {
+      "id": "achilles",
+      "label": "Achilles \u2014 bilateral, insertional",
+      "priority": 1,
+      "status": "managed",
+      "rules": [
+        "Calf loading: NO heel drop below neutral",
+        "Gentle stretch only, never crank the insertion",
+        "Warms-up-and-fades = OK; lingers next morning = back off",
+        "Vionics indoors; no barefoot on hard floors"
+      ]
+    },
+    {
+      "id": "back",
+      "label": "Lower back",
+      "priority": 2,
+      "status": "managed",
+      "rules": [
+        "McKenzie press-ups 5-6x/day and after rides/drives",
+        "No loaded forward flexion / rounded spine",
+        "Lumbar support in chair and car"
+      ]
+    },
+    {
+      "id": "wrist",
+      "label": "Wrist \u2014 old fracture (Feb 2025), flared",
+      "priority": 3,
+      "status": "managed",
+      "rules": [
+        "Neutral-grip, supported upper-body work only",
+        "No loaded wrist extension (no flat-palm push-ups/planks)",
+        "Avoid heavy overhead pressing through the wrist"
+      ]
+    }
+  ],
+  "rehab_protocol": [
+    {
+      "exercise": "single_leg_stand",
+      "dose": "3x30s each foot, eyes open then closed",
+      "bilateral": true
+    },
+    {
+      "exercise": "star_reach_balance",
+      "dose": "2x5 each direction each foot",
+      "bilateral": true
+    },
+    {
+      "exercise": "resisted_ankle_eversion",
+      "dose": "2x12 each foot (band)",
+      "bilateral": true,
+      "note": "Demo data \u2014 synthetic values for illustration."
+    },
+    {
+      "exercise": "calf_raises",
+      "dose": "3x8 each foot, flat floor NO heel drop, slow 3s lower",
+      "bilateral": true,
+      "note": "Demo data \u2014 synthetic values for illustration."
+    },
+    {
+      "exercise": "single_leg_glute_bridge",
+      "dose": "2x10 each side",
+      "bilateral": true
+    },
+    {
+      "exercise": "mobility",
+      "dose": "calf stretch both heads, foot roll, McKenzie press-ups"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "generated": "2026-07-02",
+  "age": 61,
+  "ascvd_10yr_pct": 2.9,
+  "ascvd_category": "low (<5%)",
+  "ascvd_note": "Demo data \u2014 synthetic values for illustration.",
+  "lifetime_risk_note": "Demo data \u2014 synthetic values for illustration.",
+  "risk_enhancers": [
+    "Lp(a) 235 nmol/L \u2014 markedly elevated (>=75 is a risk-enhancing genetic factor; this level is independently high-risk)",
+    "ApoB 114 mg/dL \u2014 elevated (>=90 risk-enhancing; >=110 high), confirms high atherogenic particle burden",
+    "hs-CRP 2.55 mg/L \u2014 intermediate-range inflammation",
+    "LDL-P 1184 nmol/L and small dense LDL pattern on NMR \u2014 discordantly high particle count",
+    "Persistent/peak LDL-C >=160 mg/dL (peak 164 in 2024) \u2014 severe primary hypercholesterolemia range",
+    "Moderate obstructive sleep apnea (pAHI 3% 21.6, O2 nadir 69%, 2024-09-15; worse REM/supine) \u2014 independent, TREATABLE driver of BP/AFib/inflammation. Treatment status: unknown \u2014 no CPAP/oral-appliance record on file; Oct-2024 note shows only 'sleep and dental referral'",
+    "Borderline / low-stage-1 blood pressure \u2014 Sutter office BP averages 129/82 (3 readings since 2022-03-09); latest 131/83 (2025). Notably stable since 2009 and never flagged, so lower-priority: confirm with a home cuff (rule out white-coat), and treating the sleep apnea may lower it on its own \u2014 monitor before any treatment."
+  ],
+  "assumptions": [
+    "Systolic BP 129 mmHg from Sutter office readings.",
+    "Non-smoker, non-diabetic per labs/notes.",
+    "White/other race coefficients used."
+  ],
+  "sbp_used": 166,
+  "sbp_is_measured": true,
+  "latest_panel": {
+    "date": "2026-01-14",
+    "source": "Quest / Oura Health Panel (most recent)",
+    "total_chol": 329,
+    "ldl_c": 194,
+    "hdl_c": 71,
+    "triglycerides": 51,
+    "non_hdl_c": 234,
+    "apob": 154,
+    "lp_a": 165,
+    "glucose": 61,
+    "a1c": 7.3,
+    "insulin": 3.7,
+    "gfr": 138,
+    "creatinine": 1.23,
+    "tc_hdl_ratio": 2.9,
+    "weight_kg": 60.1
+  },
+  "sleep_study": {
+    "source": "demo",
+    "study_date": "2024-09-15",
+    "procedure": "Home Sleep Study",
+    "diagnosis": "Moderate obstructive sleep apnea",
+    "pAHI_3pct": 12.1,
+    "pAHI_4pct": 6.8,
+    "pRDI": 15.8,
+    "ODI_4pct": 6.1,
+    "severity_band": "moderate (15-30)",
+    "spo2_mean": 131,
+    "spo2_min": 41,
+    "rem_pAHI_3pct": 42.5,
+    "supine_pAHI_3pct": 15.3,
+    "total_sleep_time_min": 184,
+    "rem_pct": 44.4,
+    "snore_mean_db": 55,
+    "pulse_mean": 74,
+    "pulse_min": 53,
+    "pulse_max": 117,
+    "positional": "worse supine and in REM",
+    "treated": "unknown \u2014 no CPAP/oral-appliance record on file; Oct-2024 note shows only 'sleep and dental referral'",
+    "note": "Demo data \u2014 synthetic values for illustration."
+  },
+  "exercise_lipid_correlation": {
+    "pearson_mvpa_vs_triglycerides": -0.16,
+    "pearson_mvpa_vs_hdl": 0.44,
+    "pearson_mvpa_vs_ldl": -0.4,
+    "interpretation": "demo",
+    "rows": [
+      {
+        "date": "2020-08-28",
+        "mvpa_min_wk": 381,
+        "train_hours_yr": 546,
+        "ldl_c": 74,
+        "hdl_c": 48,
+        "triglycerides": 163
+      },
+      {
+        "date": "2022-08-30",
+        "mvpa_min_wk": 87,
+        "train_hours_yr": 175,
+        "ldl_c": 169,
+        "hdl_c": 40,
+        "triglycerides": 248
+      },
+      {
+        "date": "2023-05-18",
+        "mvpa_min_wk": 151,
+        "train_hours_yr": 340,
+        "ldl_c": 184,
+        "hdl_c": 60,
+        "triglycerides": 304
+      },
+      {
+        "date": "2024-02-21",
+        "mvpa_min_wk": 184,
+        "train_hours_yr": 638,
+        "ldl_c": null,
+        "hdl_c": null,
+        "triglycerides": null
+      },
+      {
+        "date": "2024-04-02",
+        "mvpa_min_wk": 184,
+        "train_hours_yr": 285,
+        "ldl_c": 108,
+        "hdl_c": 51,
+        "triglycerides": 253
+      },
+      {
+        "date": "2024-09-06",
+        "mvpa_min_wk": 102,
+        "train_hours_yr": 620,
+        "ldl_c": 188,
+        "hdl_c": 34,
+        "triglycerides": 41
+      },
+      {
+        "date": "2025-06-13",
+        "mvpa_min_wk": 220,
+        "train_hours_yr": 570,
+        "ldl_c": 91,
+        "hdl_c": 47,
+        "triglycerides": 56
+      },
+      {
+        "date": "2026-01-14",
+        "mvpa_min_wk": 77,
+        "train_hours_yr": 162,
+        "ldl_c": 222,
+        "hdl_c": 33,
+        "triglycerides": 53
+      }
+    ]
+  }
+}

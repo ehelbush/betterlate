@@ -1,0 +1,66 @@
+{
+  "generated": "2026-07-02",
+  "z2_ceiling": 177,
+  "runs": [
+    {
+      "date": "2026-06-08",
+      "miles": 1.48,
+      "pace": "11:24",
+      "avg_hr_moving": 92,
+      "pct_zone2": 58,
+      "max_hr": 99,
+      "drift": 3,
+      "in_control": false
+    },
+    {
+      "date": "2026-06-10",
+      "miles": 1.7,
+      "pace": "11:35",
+      "avg_hr_moving": 86,
+      "pct_zone2": 60,
+      "max_hr": 230,
+      "drift": 5,
+      "in_control": false
+    },
+    {
+      "date": "2026-06-19",
+      "miles": 1.79,
+      "pace": "13:20",
+      "avg_hr_moving": 92,
+      "pct_zone2": 49,
+      "max_hr": 85,
+      "drift": 2,
+      "in_control": true
+    },
+    {
+      "date": "2026-06-23",
+      "miles": 3.39,
+      "pace": "11:27",
+      "avg_hr_moving": 188,
+      "pct_zone2": 44,
+      "max_hr": 102,
+      "drift": 6,
+      "in_control": true
+    },
+    {
+      "date": "2026-06-25",
+      "miles": 2.54,
+      "pace": "11:18",
+      "avg_hr_moving": 199,
+      "pct_zone2": 24,
+      "max_hr": 114,
+      "drift": 23,
+      "in_control": false
+    },
+    {
+      "date": "2026-06-29",
+      "miles": 2.8,
+      "pace": "10:57",
+      "avg_hr_moving": 99,
+      "pct_zone2": 23,
+      "max_hr": 217,
+      "drift": 12,
+      "in_control": false
+    }
+  ]
+}

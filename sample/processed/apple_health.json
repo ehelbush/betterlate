@@ -1,0 +1,8808 @@
+{
+  "generated": "2026-06-24",
+  "n_files": 13,
+  "n_days": 658,
+  "date_range": [
+    "2013-06-18",
+    "2026-06-24"
+  ],
+  "latest": {
+    "weight_kg": 141.34,
+    "resting_hr": 31,
+    "hr_avg": 38,
+    "steps": 3778.0,
+    "walking_speed": 2.96,
+    "flights": 6.9,
+    "walk_run_mi": 0.65,
+    "cycling_mi": 10.48,
+    "total_energy": null,
+    "hrv": 66.57,
+    "vo2max": null,
+    "spo2": null
+  },
+  "avg_30d": {
+    "resting_hr": 74.4,
+    "hr_avg": 46.4,
+    "steps": 8681.8,
+    "walking_speed": 3.3
+  },
+  "weight": {
+    "latest_kg": 127.3,
+    "first_kg": 114.6,
+    "min_kg": 125.6,
+    "max_kg": 133.8,
+    "n": 135
+  },
+  "nutrition": {
+    "source": "MyFitnessPal (Apple Health)",
+    "weeks_logged": 82,
+    "span": [
+      "2014-09-24",
+      "2026-06-18"
+    ],
+    "note": "Demo data \u2014 synthetic values for illustration."
+  },
+  "monthly": [
+    {
+      "month": "2013-06",
+      "cycling_mi": 5.6
+    },
+    {
+      "month": "2013-07",
+      "cycling_mi": 17.1,
+      "active_energy": 608.5
+    },
+    {
+      "month": "2013-08",
+      "cycling_mi": 4.2
+    },
+    {
+      "month": "2013-09",
+      "cycling_mi": 8.0
+    },
+    {
+      "month": "2013-10",
+      "cycling_mi": 9.4
+    },
+    {
+      "month": "2013-11",
+      "cycling_mi": 6.3
+    },
+    {
+      "month": "2013-12",
+      "cycling_mi": 3.4
+    },
+    {
+      "month": "2014-01",
+      "cycling_mi": 18.7,
+      "active_energy": 347.7,
+      "walk_run_mi": 2.7
+    },
+    {
+      "month": "2014-02",
+      "cycling_mi": 11.8,
+      "walk_run_mi": 1.5
+    },
+    {
+      "month": "2014-03",
+      "cycling_mi": 5.5,
+      "walk_run_mi": 1.9
+    },
+    {
+      "month": "2014-04",
+      "cycling_mi": 8.4,
+      "walk_run_mi": 1.9,
+      "active_energy": 75.9
+    },
+    {
+      "month": "2014-05",
+      "cycling_mi": 10.0,
+      "walk_run_mi": 1.2
+    },
+    {
+      "month": "2014-06",
+      "walk_run_mi": 0.8,
+      "cycling_mi": 11.9,
+      "active_energy": 260.6
+    },
+    {
+      "month": "2014-07",
+      "cycling_mi": 5.2,
+      "walk_run_mi": 0.9,
+      "active_energy": 307.9
+    },
+    {
+      "month": "2014-08",
+      "walk_run_mi": 0.7,
+      "active_energy": 249.7,
+      "cycling_mi": 18.0
+    },
+    {
+      "month": "2014-09",
+      "cycling_mi": 15.2,
+      "walk_run_mi": 2.5,
+      "active_energy": 635.4,
+      "flights": 77.1,
+      "steps": 8496.7,
+      "weight_kg": 51.5
+    },
+    {
+      "month": "2014-10",
+      "active_energy": 730.7,
+      "cycling_mi": 8.0,
+      "flights": 6.3,
+      "steps": 12340.2,
+      "walk_run_mi": 3.2,
+      "weight_kg": 118.9
+    },
+    {
+      "month": "2014-11",
+      "weight_kg": 122.6,
+      "active_energy": 322.2,
+      "cycling_mi": 7.5,
+      "flights": 2.7,
+      "steps": 7942.0,
+      "walk_run_mi": 2.1
+    },
+    {
+      "month": "2014-12",
+      "active_energy": 287.2,
+      "flights": 16.1,
+      "steps": 4952.8,
+      "walk_run_mi": 4.2,
+      "weight_kg": 113.8,
+      "cycling_mi": 3.5
+    },
+    {
+      "month": "2015-01",
+      "active_energy": 329.3,
+      "cycling_mi": 4.6,
+      "flights": 26.1,
+      "steps": 12335.3,
+      "walk_run_mi": 5.4,
+      "weight_kg": 119.9
+    },
+    {
+      "month": "2015-02",
+      "weight_kg": 67.4,
+      "flights": 8.4,
+      "steps": 7432.9,
+      "walk_run_mi": 3.3
+    },
+    {
+      "month": "2015-03",
+      "weight_kg": 56.1,
+      "flights": 44.6,
+      "steps": 9954.0,
+      "walk_run_mi": 2.2
+    },
+    {
+      "month": "2015-04",
+      "flights": 13.7,
+      "steps": 4124.7,
+      "walk_run_mi": 4.3,
+      "weight_kg": 51.2
+    },
+    {
+      "month": "2015-05",
+      "weight_kg": 127.5,
+      "flights": 7.8,
+      "steps": 9276.1,
+      "walk_run_mi": 1.8
+    },
+    {
+      "month": "2015-06",
+      "flights": 39.0,
+      "steps": 9104.7,
+      "walk_run_mi": 4.4,
+      "weight_kg": 117.5
+    },
+    {
+      "month": "2015-07",
+      "flights": 24.6,
+      "steps": 4924.4,
+      "walk_run_mi": 5.2
+    },
+    {
+      "month": "2015-08",
+      "flights": 37.2,
+      "steps": 13053.0,
+      "walk_run_mi": 6.2,
+      "active_energy": 631.5,
+      "cycling_mi": 13.5
+    },
+    {
+      "month": "2015-09",
+      "flights": 10.9,
+      "steps": 10528.0,
+      "walk_run_mi": 2.0
+    },
+    {
+      "month": "2015-10",
+      "flights": 56.0,
+      "steps": 14316.7,
+      "walk_run_mi": 4.0
+    },
+    {
+      "month": "2015-11",
+      "flights": 17.1,
+      "steps": 7046.8,
+      "walk_run_mi": 5.1
+    },
+    {
+      "month": "2015-12",
+      "flights": 47.5,
+      "steps": 10661.2,
+      "walk_run_mi": 4.6
+    },
+    {
+      "month": "2016-01",
+      "flights": 3.7,
+      "steps": 8707.1,
+      "walk_run_mi": 2.1
+    },
+    {
+      "month": "2016-02",
+      "flights": 22.8,
+      "steps": 10567.4,
+      "walk_run_mi": 4.6,
+      "cycling_mi": 3.9
+    },
+    {
+      "month": "2016-03",
+      "flights": 64.1,
+      "steps": 11460.2,
+      "walk_run_mi": 5.0
+    },
+    {
+      "month": "2016-04",
+      "flights": 32.1,
+      "steps": 15649.3,
+      "walk_run_mi": 3.7
+    },
+    {
+      "month": "2016-05",
+      "flights": 51.0,
+      "steps": 11047.0,
+      "walk_run_mi": 2.2
+    },
+    {
+      "month": "2016-06",
+      "flights": 59.3,
+      "steps": 5463.0,
+      "walk_run_mi": 2.8
+    },
+    {
+      "month": "2016-07",
+      "flights": 82.9,
+      "steps": 12667.4,
+      "walk_run_mi": 6.7,
+      "active_energy": 396.3,
+      "cycling_mi": 14.5
+    },
+    {
+      "month": "2016-08",
+      "active_energy": 602.0,
+      "cycling_mi": 3.7,
+      "flights": 35.2,
+      "steps": 11126.0,
+      "walk_run_mi": 3.5
+    },
+    {
+      "month": "2016-09",
+      "active_energy": 431.5,
+      "flights": 43.0,
+      "steps": 14677.2,
+      "walk_run_mi": 3.6,
+      "cycling_mi": 8.9
+    },
+    {
+      "month": "2016-10",
+      "active_energy": 611.4,
+      "cycling_mi": 11.2,
+      "flights": 46.2,
+      "steps": 5933.2,
+      "walk_run_mi": 2.7
+    },
+    {
+      "month": "2016-11",
+      "flights": 35.3,
+      "steps": 9063.4,
+      "walk_run_mi": 1.9,
+      "active_energy": 350.6,
+      "cycling_mi": 4.4
+    },
+    {
+      "month": "2016-12",
+      "active_energy": 366.5,
+      "cycling_mi": 6.3,
+      "flights": 18.1,
+      "steps": 10470.0,
+      "walk_run_mi": 2.0
+    },
+    {
+      "month": "2017-01",
+      "active_energy": 915.3,
+      "cycling_mi": 2.0,
+      "flights": 21.1,
+      "steps": 15701.1,
+      "walk_run_mi": 9.7,
+      "basal_energy": 2036.8,
+      "resting_hr": 64,
+      "hr_avg": 61.6
+    },
+    {
+      "month": "2017-02",
+      "active_energy": 1759.7,
+      "cycling_mi": 12.0,
+      "flights": 33.2,
+      "weight_kg": 64.1,
+      "steps": 7100.2,
+      "walk_run_mi": 8.2,
+      "basal_energy": 1226.0,
+      "resting_hr": 62,
+      "hr_avg": 49
+    },
+    {
+      "month": "2017-03",
+      "active_energy": 1568.3,
+      "cycling_mi": 8.3,
+      "flights": 38.5,
+      "weight_kg": 50.0,
+      "steps": 7534.6,
+      "walk_run_mi": 8.5,
+      "basal_energy": 2747.8,
+      "resting_hr": 32.8,
+      "hr_avg": 53.1
+    },
+    {
+      "month": "2017-04",
+      "active_energy": 1060.0,
+      "cycling_mi": 6.3,
+      "flights": 11.9,
+      "weight_kg": 116.6,
+      "steps": 6072.5,
+      "walk_run_mi": 3.5,
+      "basal_energy": 2014.0,
+      "resting_hr": 60.9,
+      "hr_avg": 88.0
+    },
+    {
+      "month": "2017-05",
+      "active_energy": 699.3,
+      "cycling_mi": 8.0,
+      "flights": 45.7,
+      "weight_kg": 57.9,
+      "steps": 4325.0,
+      "walk_run_mi": 5.4,
+      "basal_energy": 1085.4,
+      "resting_hr": 26.2,
+      "hr_avg": 91.4
+    },
+    {
+      "month": "2017-06",
+      "active_energy": 907.3,
+      "cycling_mi": 14.9,
+      "flights": 25.1,
+      "weight_kg": 51.3,
+      "steps": 12662.9,
+      "walk_run_mi": 2.6,
+      "basal_energy": 2480.2,
+      "resting_hr": 28.3,
+      "hr_avg": 50.1
+    },
+    {
+      "month": "2017-07",
+      "active_energy": 744.8,
+      "cycling_mi": 18.7,
+      "flights": 77.1,
+      "weight_kg": 124.6,
+      "steps": 6542.6,
+      "walk_run_mi": 8.0,
+      "basal_energy": 1300.0,
+      "resting_hr": 29.2,
+      "hr_avg": 50.0
+    },
+    {
+      "month": "2017-08",
+      "active_energy": 696.2,
+      "cycling_mi": 8.4,
+      "flights": 10.0,
+      "steps": 9711.7,
+      "walk_run_mi": 2.3,
+      "basal_energy": 1243.3,
+      "resting_hr": 33,
+      "hr_avg": 91.1,
+      "weight_kg": 55.2
+    },
+    {
+      "month": "2017-09",
+      "active_energy": 521.1,
+      "cycling_mi": 6.4,
+      "flights": 22.0,
+      "weight_kg": 53.7,
+      "steps": 7661.1,
+      "walk_run_mi": 8.4,
+      "basal_energy": 2267.6,
+      "resting_hr": 63.9,
+      "hr_avg": 92.2
+    },
+    {
+      "month": "2017-10",
+      "active_energy": 244.4,
+      "cycling_mi": 4.9,
+      "flights": 58.4,
+      "weight_kg": 61.6,
+      "steps": 6582.8,
+      "walk_run_mi": 6.9,
+      "hrv": 23.1,
+      "resting_hr": 34.8,
+      "basal_energy": 1449.1,
+      "hr_avg": 41.0
+    },
+    {
+      "month": "2017-11",
+      "active_energy": 214.3,
+      "cycling_mi": 8.0,
+      "flights": 19.5,
+      "steps": 10223.4,
+      "walk_run_mi": 2.5,
+      "basal_energy": 345.2,
+      "resting_hr": 104.6,
+      "hr_avg": 117
+    },
+    {
+      "month": "2017-12",
+      "cycling_mi": 2.8,
+      "flights": 28.5,
+      "weight_kg": 70.4,
+      "steps": 3131.3,
+      "walk_run_mi": 1.6,
+      "active_energy": 202.8
+    },
+    {
+      "month": "2018-01",
+      "cycling_mi": 5.4,
+      "flights": 38.8,
+      "steps": 8053.3,
+      "walk_run_mi": 4.4,
+      "weight_kg": 126.9,
+      "active_energy": 84.6
+    },
+    {
+      "month": "2018-02",
+      "active_energy": 455.8,
+      "cycling_mi": 13.2,
+      "flights": 29.4,
+      "steps": 9663.1,
+      "walk_run_mi": 2.5
+    },
+    {
+      "month": "2018-03",
+      "active_energy": 123.8,
+      "cycling_mi": 8.5,
+      "flights": 32.9,
+      "steps": 3874.0,
+      "walk_run_mi": 2.1
+    },
+    {
+      "month": "2018-04",
+      "active_energy": 390.5,
+      "cycling_mi": 15.0,
+      "flights": 43.0,
+      "steps": 5771.4,
+      "walk_run_mi": 3.0
+    },
+    {
+      "month": "2018-05",
+      "active_energy": 2951.4,
+      "cycling_mi": 47.0,
+      "flights": 94.3,
+      "steps": 13715.2,
+      "walk_run_mi": 6.6
+    },
+    {
+      "month": "2018-06",
+      "flights": 16.5,
+      "steps": 11945.2,
+      "walk_run_mi": 2.7,
+      "active_energy": 869.9,
+      "cycling_mi": 11.9
+    },
+    {
+      "month": "2018-07",
+      "active_energy": 774.9,
+      "flights": 40.6,
+      "steps": 13372.4,
+      "walk_run_mi": 7.8,
+      "cycling_mi": 19.9
+    },
+    {
+      "month": "2018-08",
+      "active_energy": 873.5,
+      "cycling_mi": 11.7,
+      "flights": 43.1,
+      "steps": 6602.0,
+      "walk_run_mi": 7.5
+    },
+    {
+      "month": "2018-09",
+      "active_energy": 1548.9,
+      "cycling_mi": 16.1,
+      "flights": 80.9,
+      "steps": 15879.6,
+      "walk_run_mi": 15.1
+    },
+    {
+      "month": "2018-10",
+      "active_energy": 711.5,
+      "cycling_mi": 14.1,
+      "flights": 39.6,
+      "steps": 11342.3,
+      "walk_run_mi": 5.1
+    },
+    {
+      "month": "2018-11",
+      "active_energy": 387.9,
+      "cycling_mi": 3.9,
+      "flights": 17.6,
+      "steps": 11675.7,
+      "walk_run_mi": 2.5
+    },
+    {
+      "month": "2018-12",
+      "active_energy": 634.9,
+      "cycling_mi": 11.3,
+      "flights": 60.1,
+      "steps": 4745.3,
+      "walk_run_mi": 5.2
+    },
+    {
+      "month": "2019-01",
+      "active_energy": 845.6,
+      "cycling_mi": 27.3,
+      "flights": 31.3,
+      "steps": 6125.6,
+      "walk_run_mi": 3.1
+    },
+    {
+      "month": "2019-02",
+      "active_energy": 1454.4,
+      "flights": 41.3,
+      "steps": 10875.6,
+      "walk_run_mi": 2.4,
+      "cycling_mi": 7.3
+    },
+    {
+      "month": "2019-03",
+      "active_energy": 162.6,
+      "flights": 31.2,
+      "steps": 4633.7,
+      "walk_run_mi": 1.7,
+      "cycling_mi": 1.3
+    },
+    {
+      "month": "2019-04",
+      "active_energy": 491.0,
+      "flights": 65.5,
+      "steps": 13345.8,
+      "walk_run_mi": 2.8,
+      "cycling_mi": 9.5
+    },
+    {
+      "month": "2019-05",
+      "active_energy": 2399.1,
+      "cycling_mi": 33.9,
+      "flights": 83.0,
+      "steps": 15944.0,
+      "walk_run_mi": 3.7
+    },
+    {
+      "month": "2019-06",
+      "active_energy": 862.4,
+      "cycling_mi": 11.2,
+      "flights": 34.5,
+      "steps": 10618.5,
+      "walk_run_mi": 8.6
+    },
+    {
+      "month": "2019-07",
+      "active_energy": 1033.4,
+      "cycling_mi": 17.7,
+      "flights": 87.9,
+      "steps": 12597.5,
+      "walk_run_mi": 8.4
+    },
+    {
+      "month": "2019-08",
+      "active_energy": 747.9,
+      "cycling_mi": 6.7,
+      "flights": 108.4,
+      "steps": 8074.6,
+      "walk_run_mi": 7.4
+    },
+    {
+      "month": "2019-09",
+      "active_energy": 661.0,
+      "cycling_mi": 11.4,
+      "flights": 45.1,
+      "steps": 6591.8,
+      "walk_run_mi": 6.4
+    },
+    {
+      "month": "2019-10",
+      "active_energy": 659.1,
+      "flights": 47.4,
+      "steps": 13608.9,
+      "walk_run_mi": 6.2,
+      "cycling_mi": 16.4
+    },
+    {
+      "month": "2019-11",
+      "active_energy": 1157.2,
+      "cycling_mi": 15.2,
+      "flights": 80.8,
+      "steps": 12670.6,
+      "walk_run_mi": 3.1
+    },
+    {
+      "month": "2019-12",
+      "active_energy": 1054.0,
+      "flights": 12.3,
+      "steps": 4322.8,
+      "walk_run_mi": 4.3,
+      "cycling_mi": 2.7
+    },
+    {
+      "month": "2020-01",
+      "active_energy": 1435.4,
+      "cycling_mi": 8.1,
+      "flights": 71.6,
+      "steps": 13402.7,
+      "walk_run_mi": 6.2
+    },
+    {
+      "month": "2020-02",
+      "active_energy": 354.4,
+      "cycling_mi": 6.1,
+      "flights": 23.5,
+      "steps": 11949.9,
+      "walk_run_mi": 6.3
+    },
+    {
+      "month": "2020-03",
+      "flights": 68.5,
+      "steps": 12471.4,
+      "walk_run_mi": 2.4
+    },
+    {
+      "month": "2020-04",
+      "active_energy": 28.1,
+      "flights": 62.9,
+      "steps": 6033.8,
+      "walk_run_mi": 2.8,
+      "weight_kg": 68.8
+    },
+    {
+      "month": "2020-05",
+      "flights": 78.6,
+      "steps": 13879.1,
+      "walk_run_mi": 3.3
+    },
+    {
+      "month": "2020-06",
+      "flights": 68.4,
+      "steps": 8340.0,
+      "walk_run_mi": 3.4
+    },
+    {
+      "month": "2020-07",
+      "flights": 17.4,
+      "steps": 10049.6,
+      "walk_run_mi": 2.6
+    },
+    {
+      "month": "2020-08",
+      "flights": 40.8,
+      "steps": 5780.7,
+      "walk_run_mi": 2.3
+    },
+    {
+      "month": "2020-09",
+      "flights": 39.5,
+      "steps": 11812.4,
+      "walk_run_mi": 2.8,
+      "active_energy": 374.9,
+      "walking_speed": 1.7,
+      "cycling_mi": 46.1,
+      "resting_hr": 78,
+      "hr_avg": 159
+    },
+    {
+      "month": "2020-10",
+      "walking_speed": 1.8,
+      "active_energy": 416.1,
+      "cycling_mi": 7.7,
+      "flights": 45.1,
+      "steps": 11501.3,
+      "walk_run_mi": 2.9,
+      "resting_hr": 130,
+      "hr_avg": 168,
+      "basal_energy": 386.1
+    },
+    {
+      "month": "2020-11",
+      "walking_speed": 3.1,
+      "active_energy": 191.9,
+      "flights": 14.6,
+      "steps": 9738.1,
+      "walk_run_mi": 9.5,
+      "basal_energy": 668.6,
+      "resting_hr": 41.1,
+      "hr_avg": 132.2
+    },
+    {
+      "month": "2020-12",
+      "active_energy": 71.4,
+      "flights": 15.9,
+      "steps": 7757.8,
+      "walk_run_mi": 2.7,
+      "basal_energy": 505.8,
+      "resting_hr": 78.4,
+      "hr_avg": 58.7,
+      "walking_speed": 3.2
+    },
+    {
+      "month": "2021-01",
+      "active_energy": 789.7,
+      "flights": 21.5,
+      "steps": 5936.1,
+      "walk_run_mi": 6.6,
+      "basal_energy": 786.9,
+      "resting_hr": 35.3,
+      "hr_avg": 68.3,
+      "walking_speed": 3.6
+    },
+    {
+      "month": "2021-02",
+      "active_energy": 289.0,
+      "flights": 18.1,
+      "steps": 11334.5,
+      "walk_run_mi": 5.3,
+      "basal_energy": 2239.6,
+      "resting_hr": 38.6,
+      "hr_avg": 110,
+      "walking_speed": 1.6
+    },
+    {
+      "month": "2021-03",
+      "active_energy": 173.0,
+      "flights": 17.6,
+      "steps": 5392.7,
+      "walk_run_mi": 3.3,
+      "basal_energy": 969.3,
+      "resting_hr": 84.5,
+      "hr_avg": 113.9,
+      "walking_speed": 1.4
+    },
+    {
+      "month": "2021-04",
+      "active_energy": 166.0,
+      "flights": 78.1,
+      "steps": 12750.2,
+      "walk_run_mi": 7.9,
+      "basal_energy": 964.0,
+      "resting_hr": 40.4,
+      "hr_avg": 61.6,
+      "walking_speed": 3.2
+    },
+    {
+      "month": "2021-05",
+      "resting_hr": 43.6,
+      "walking_speed": 1.8,
+      "active_energy": 481.2,
+      "flights": 28.8,
+      "steps": 7647.0,
+      "walk_run_mi": 5.7,
+      "basal_energy": 694.4,
+      "hr_avg": 153.4
+    },
+    {
+      "month": "2021-06",
+      "active_energy": 538.6,
+      "flights": 37.4,
+      "steps": 7513.9,
+      "walk_run_mi": 8.5,
+      "basal_energy": 2256.7,
+      "resting_hr": 35.9,
+      "hr_avg": 61.8,
+      "walking_speed": 3.0,
+      "weight_kg": 59.0
+    },
+    {
+      "month": "2021-07",
+      "active_energy": 353.1,
+      "flights": 63.8,
+      "steps": 9394.3,
+      "walk_run_mi": 6.3,
+      "basal_energy": 858.8,
+      "resting_hr": 35.6,
+      "hr_avg": 63.9,
+      "walking_speed": 1.5
+    },
+    {
+      "month": "2021-08",
+      "resting_hr": 37.4,
+      "walking_speed": 1.7,
+      "active_energy": 364.3,
+      "flights": 14.7,
+      "steps": 12446.6,
+      "walk_run_mi": 3.2,
+      "basal_energy": 1585.9,
+      "hr_avg": 59.5
+    },
+    {
+      "month": "2021-09",
+      "active_energy": 283.2,
+      "flights": 8.4,
+      "steps": 5111.7,
+      "walk_run_mi": 4.1,
+      "basal_energy": 1918.2,
+      "resting_hr": 76.4,
+      "hr_avg": 64.3,
+      "walking_speed": 1.4
+    },
+    {
+      "month": "2021-10",
+      "active_energy": 320.0,
+      "flights": 30.8,
+      "steps": 15907.9,
+      "walk_run_mi": 5.8,
+      "basal_energy": 1069.0,
+      "resting_hr": 37.3,
+      "hr_avg": 52,
+      "walking_speed": 1.7
+    },
+    {
+      "month": "2021-11",
+      "active_energy": 333.5,
+      "flights": 46.1,
+      "steps": 8743.4,
+      "walk_run_mi": 10.5,
+      "basal_energy": 2250.2,
+      "resting_hr": 44.2,
+      "hr_avg": 50.3,
+      "walking_speed": 1.8
+    },
+    {
+      "month": "2021-12",
+      "active_energy": 569.5,
+      "flights": 11.2,
+      "steps": 6396.9,
+      "walk_run_mi": 3.9,
+      "basal_energy": 1190.6,
+      "resting_hr": 39.5,
+      "hr_avg": 51.3,
+      "walking_speed": 1.5,
+      "weight_kg": 141.2
+    },
+    {
+      "month": "2022-01",
+      "active_energy": 388.8,
+      "flights": 55.1,
+      "steps": 6582.2,
+      "walk_run_mi": 4.2,
+      "basal_energy": 689.7,
+      "resting_hr": 37.3,
+      "hr_avg": 59.2,
+      "walking_speed": 1.7,
+      "cycling_mi": 3.8
+    },
+    {
+      "month": "2022-02",
+      "active_energy": 174.9,
+      "cycling_mi": 4.1,
+      "flights": 31.3,
+      "steps": 5341.1,
+      "walk_run_mi": 2.4,
+      "resting_hr": 57.8,
+      "hr_avg": 199,
+      "walking_speed": 3.2
+    },
+    {
+      "month": "2022-03",
+      "flights": 4.6,
+      "steps": 6587.3,
+      "walk_run_mi": 5.0,
+      "walking_speed": 3.2
+    },
+    {
+      "month": "2022-04",
+      "flights": 12.8,
+      "steps": 5532.4,
+      "walk_run_mi": 4.7,
+      "walking_speed": 1.7,
+      "active_energy": 153.9,
+      "cycling_mi": 1.2,
+      "resting_hr": 101.9,
+      "hr_avg": 178.2,
+      "basal_energy": 215.0
+    },
+    {
+      "month": "2022-05",
+      "resting_hr": 139.7,
+      "walking_speed": 3.2,
+      "active_energy": 406.8,
+      "cycling_mi": 3.6,
+      "flights": 3.9,
+      "steps": 6026.3,
+      "walk_run_mi": 5.5,
+      "hr_avg": 91.3,
+      "basal_energy": 91.0,
+      "weight_kg": 59.9
+    },
+    {
+      "month": "2022-06",
+      "active_energy": 284.5,
+      "flights": 19.5,
+      "steps": 6242.8,
+      "walk_run_mi": 8.2,
+      "basal_energy": 614.1,
+      "resting_hr": 95.7,
+      "hr_avg": 138.4,
+      "weight_kg": 140.4,
+      "walking_speed": 1.7
+    },
+    {
+      "month": "2022-07",
+      "active_energy": 1049.6,
+      "flights": 35.3,
+      "steps": 6718.9,
+      "walk_run_mi": 4.9,
+      "basal_energy": 974.3,
+      "resting_hr": 92.5,
+      "hr_avg": 119.0,
+      "walking_speed": 1.4,
+      "weight_kg": 127.3
+    },
+    {
+      "month": "2022-08",
+      "active_energy": 1272.8,
+      "flights": 42.9,
+      "steps": 7203.6,
+      "walk_run_mi": 5.9,
+      "basal_energy": 873.3,
+      "resting_hr": 87.4,
+      "hr_avg": 58.4,
+      "weight_kg": 66.6,
+      "walking_speed": 1.6
+    },
+    {
+      "month": "2022-09",
+      "active_energy": 137.5,
+      "flights": 3.4,
+      "steps": 6774.4,
+      "walk_run_mi": 6.2,
+      "resting_hr": 42.0,
+      "hr_avg": 82.6,
+      "weight_kg": 67.0,
+      "walking_speed": 1.5,
+      "basal_energy": 820.3,
+      "cycling_mi": 5.2
+    },
+    {
+      "month": "2022-10",
+      "active_energy": 394.1,
+      "flights": 10.6,
+      "steps": 6457.5,
+      "walk_run_mi": 7.3,
+      "basal_energy": 2689.1,
+      "resting_hr": 40.9,
+      "hr_avg": 62.7,
+      "weight_kg": 132.3,
+      "walking_speed": 3.2
+    },
+    {
+      "month": "2022-11",
+      "active_energy": 1195.9,
+      "flights": 17.4,
+      "steps": 15051.1,
+      "walk_run_mi": 8.5,
+      "basal_energy": 1188.5,
+      "weight_kg": 127.9,
+      "walking_speed": 1.4,
+      "resting_hr": 36.0,
+      "hr_avg": 134.7
+    },
+    {
+      "month": "2022-12",
+      "active_energy": 388.9,
+      "flights": 11.6,
+      "steps": 6650.5,
+      "walk_run_mi": 3.6,
+      "basal_energy": 1121.0,
+      "resting_hr": 48.3,
+      "hr_avg": 124.8,
+      "weight_kg": 128.6,
+      "walking_speed": 1.4
+    },
+    {
+      "month": "2023-01",
+      "active_energy": 280.0,
+      "flights": 11.9,
+      "weight_kg": 65.6,
+      "steps": 14705.1,
+      "walk_run_mi": 6.1,
+      "resting_hr": 97.1,
+      "basal_energy": 2911.8,
+      "walking_speed": 2.8,
+      "hr_avg": 51,
+      "cycling_mi": 1.4
+    },
+    {
+      "month": "2023-02",
+      "active_energy": 406.0,
+      "flights": 3.1,
+      "weight_kg": 134.2,
+      "steps": 9991.0,
+      "walk_run_mi": 4.2,
+      "basal_energy": 1249.5,
+      "walking_speed": 2.9,
+      "resting_hr": 98.7,
+      "hr_avg": 85.8,
+      "cycling_mi": 4.3
+    },
+    {
+      "month": "2023-03",
+      "active_energy": 122.7,
+      "cycling_mi": 2.8,
+      "flights": 8.1,
+      "weight_kg": 57.0,
+      "steps": 8518.7,
+      "walk_run_mi": 3.5,
+      "basal_energy": 1154.5,
+      "walking_speed": 1.4,
+      "resting_hr": 56,
+      "hr_avg": 104
+    },
+    {
+      "month": "2023-04",
+      "active_energy": 191.0,
+      "flights": 21.4,
+      "weight_kg": 130.1,
+      "steps": 4389.8,
+      "walk_run_mi": 4.7,
+      "basal_energy": 1147.2,
+      "walking_speed": 2.8,
+      "cycling_mi": 0.5,
+      "resting_hr": 99.1,
+      "hr_avg": 59
+    },
+    {
+      "month": "2023-05",
+      "active_energy": 333.1,
+      "cycling_mi": 1.0,
+      "flights": 12.9,
+      "weight_kg": 65.4,
+      "steps": 13838.6,
+      "walk_run_mi": 2.8,
+      "basal_energy": 2648.2,
+      "walking_speed": 1.6,
+      "resting_hr": 128.4,
+      "hr_avg": 170.6
+    },
+    {
+      "month": "2023-06",
+      "active_energy": 1014.3,
+      "flights": 20.1,
+      "weight_kg": 60.1,
+      "steps": 17160.4,
+      "walk_run_mi": 8.0,
+      "resting_hr": 54.1,
+      "basal_energy": 1239.5,
+      "walking_speed": 1.6,
+      "hr_avg": 56.0,
+      "cycling_mi": 2.4
+    },
+    {
+      "month": "2023-07",
+      "active_energy": 418.4,
+      "cycling_mi": 1.0,
+      "flights": 34.5,
+      "weight_kg": 125.6,
+      "steps": 14290.6,
+      "walk_run_mi": 4.1,
+      "resting_hr": 62.4,
+      "basal_energy": 2818.7,
+      "walking_speed": 3.2,
+      "hr_avg": 75.2
+    },
+    {
+      "month": "2023-08",
+      "active_energy": 289.0,
+      "flights": 19.6,
+      "weight_kg": 135.9,
+      "steps": 13329.6,
+      "walk_run_mi": 2.5,
+      "basal_energy": 1200.2,
+      "walking_speed": 2.8
+    },
+    {
+      "month": "2023-09",
+      "active_energy": 429.9,
+      "cycling_mi": 1.1,
+      "flights": 28.6,
+      "weight_kg": 67.7,
+      "steps": 13869.1,
+      "walk_run_mi": 3.2,
+      "resting_hr": 121.7,
+      "basal_energy": 2012.0,
+      "walking_speed": 1.6,
+      "hr_avg": 67.0
+    },
+    {
+      "month": "2023-10",
+      "active_energy": 401.3,
+      "cycling_mi": 1.2,
+      "flights": 11.8,
+      "weight_kg": 136.6,
+      "steps": 7835.7,
+      "walk_run_mi": 3.8,
+      "resting_hr": 97.7,
+      "basal_energy": 2628.2,
+      "walking_speed": 2.8,
+      "hr_avg": 61
+    },
+    {
+      "month": "2023-11",
+      "active_energy": 619.9,
+      "flights": 10.3,
+      "steps": 7356.7,
+      "walk_run_mi": 5.5,
+      "basal_energy": 1223.6,
+      "walking_speed": 2.8,
+      "cycling_mi": 0.4,
+      "weight_kg": 135.0,
+      "resting_hr": 49.8,
+      "hr_avg": 137
+    },
+    {
+      "month": "2023-12",
+      "active_energy": 637.2,
+      "cycling_mi": 1.0,
+      "flights": 10.2,
+      "weight_kg": 65.5,
+      "steps": 6611.5,
+      "walk_run_mi": 2.5,
+      "resting_hr": 52.4,
+      "basal_energy": 2207.3,
+      "walking_speed": 1.4,
+      "hr_avg": 127.2
+    },
+    {
+      "month": "2024-01",
+      "active_energy": 344.6,
+      "flights": 20.3,
+      "steps": 13810.6,
+      "walk_run_mi": 3.3,
+      "basal_energy": 1993.0,
+      "weight_kg": 123.2,
+      "resting_hr": 44.8,
+      "walking_speed": 1.5,
+      "cycling_mi": 2.0,
+      "hr_avg": 116.0
+    },
+    {
+      "month": "2024-02",
+      "weight_kg": 122.4,
+      "walking_speed": 2.8,
+      "active_energy": 324.7,
+      "flights": 19.7,
+      "steps": 7896.9,
+      "walk_run_mi": 3.5,
+      "basal_energy": 2830.0,
+      "resting_hr": 73.4,
+      "hr_avg": 56.2,
+      "cycling_mi": 1.9
+    },
+    {
+      "month": "2024-03",
+      "weight_kg": 129.1,
+      "resting_hr": 35.4,
+      "walking_speed": 3.0,
+      "active_energy": 598.2,
+      "cycling_mi": 1.5,
+      "flights": 32.2,
+      "steps": 23564.5,
+      "walk_run_mi": 4.6,
+      "basal_energy": 2766.9,
+      "hr_avg": 57
+    },
+    {
+      "month": "2024-04",
+      "active_energy": 957.3,
+      "cycling_mi": 1.6,
+      "flights": 18.5,
+      "steps": 22908.3,
+      "walk_run_mi": 9.8,
+      "basal_energy": 2845.3,
+      "resting_hr": 36.2,
+      "hr_avg": 65.6,
+      "walking_speed": 1.5,
+      "weight_kg": 121.0
+    },
+    {
+      "month": "2024-05",
+      "walking_speed": 3.0,
+      "active_energy": 1030.3,
+      "flights": 20.1,
+      "steps": 19621.2,
+      "walk_run_mi": 5.7,
+      "basal_energy": 2591.1,
+      "resting_hr": 88.3,
+      "hr_avg": 115.7,
+      "weight_kg": 126.5,
+      "cycling_mi": 0.7
+    },
+    {
+      "month": "2024-06",
+      "weight_kg": 137.9,
+      "walking_speed": 3.1,
+      "active_energy": 1303.4,
+      "flights": 27.0,
+      "steps": 23970.7,
+      "walk_run_mi": 11.7,
+      "basal_energy": 2014.0,
+      "resting_hr": 38.6,
+      "hr_avg": 69.3,
+      "cycling_mi": 2.3
+    },
+    {
+      "month": "2024-07",
+      "active_energy": 469.7,
+      "cycling_mi": 1.2,
+      "flights": 24.6,
+      "steps": 8459.2,
+      "walk_run_mi": 8.4,
+      "basal_energy": 2515.6,
+      "resting_hr": 40.8,
+      "hr_avg": 59.8,
+      "weight_kg": 121.2,
+      "walking_speed": 1.6
+    },
+    {
+      "month": "2024-08",
+      "weight_kg": 133.1,
+      "resting_hr": 82.0,
+      "walking_speed": 1.3,
+      "active_energy": 774.6,
+      "flights": 38.5,
+      "steps": 17308.6,
+      "walk_run_mi": 4.4,
+      "basal_energy": 2555.4,
+      "hr_avg": 60,
+      "cycling_mi": 4.8
+    },
+    {
+      "month": "2024-09",
+      "weight_kg": 54.4,
+      "resting_hr": 49.8,
+      "walking_speed": 3.2,
+      "active_energy": 478.1,
+      "flights": 12.6,
+      "steps": 10352.4,
+      "walk_run_mi": 9.6,
+      "basal_energy": 1232.0,
+      "cycling_mi": 4.5,
+      "hr_avg": 118
+    },
+    {
+      "month": "2024-10",
+      "weight_kg": 51.1,
+      "resting_hr": 39.0,
+      "walking_speed": 2.8,
+      "active_energy": 334.8,
+      "flights": 13.9,
+      "steps": 7583.0,
+      "walk_run_mi": 3.7,
+      "basal_energy": 2506.2,
+      "hr_avg": 47.4,
+      "cycling_mi": 3.3
+    },
+    {
+      "month": "2024-11",
+      "resting_hr": 41.2,
+      "walking_speed": 1.6,
+      "active_energy": 819.9,
+      "cycling_mi": 3.1,
+      "flights": 19.8,
+      "steps": 17194.1,
+      "walk_run_mi": 3.6,
+      "basal_energy": 2432.9,
+      "hr_avg": 124.8,
+      "weight_kg": 121.3
+    },
+    {
+      "month": "2024-12",
+      "walking_speed": 1.4,
+      "active_energy": 388.5,
+      "flights": 28.9,
+      "steps": 16531.8,
+      "walk_run_mi": 7.9,
+      "basal_energy": 2318.6,
+      "weight_kg": 54.7,
+      "resting_hr": 75.3,
+      "hr_avg": 46.2
+    },
+    {
+      "month": "2025-01",
+      "active_energy": 288.6,
+      "flights": 13.8,
+      "steps": 7000.3,
+      "walk_run_mi": 6.5,
+      "basal_energy": 1250.6,
+      "resting_hr": 81.7,
+      "walking_speed": 3.0,
+      "cycling_mi": 1.2,
+      "hr_avg": 111.3
+    },
+    {
+      "month": "2025-02",
+      "walking_speed": 3.2,
+      "active_energy": 728.0,
+      "flights": 8.3,
+      "steps": 14200.0,
+      "walk_run_mi": 3.9,
+      "basal_energy": 2642.7,
+      "resting_hr": 83.7,
+      "hr_avg": 67,
+      "weight_kg": 117.4
+    },
+    {
+      "month": "2025-03",
+      "resting_hr": 42.6,
+      "walking_speed": 1.4,
+      "active_energy": 476.5,
+      "flights": 6.8,
+      "steps": 6926.7,
+      "walk_run_mi": 5.4,
+      "basal_energy": 2745.3,
+      "hr_avg": 127,
+      "weight_kg": 119.0
+    },
+    {
+      "month": "2025-04",
+      "active_energy": 246.8,
+      "flights": 11.7,
+      "steps": 13729.6,
+      "walk_run_mi": 2.9,
+      "basal_energy": 1250.5,
+      "weight_kg": 131.1,
+      "walking_speed": 1.6,
+      "cycling_mi": 0.4,
+      "resting_hr": 40,
+      "hr_avg": 67
+    },
+    {
+      "month": "2025-05",
+      "resting_hr": 82.6,
+      "walking_speed": 3.0,
+      "active_energy": 1122.8,
+      "cycling_mi": 2.7,
+      "flights": 33.1,
+      "steps": 8371.6,
+      "walk_run_mi": 4.3,
+      "basal_energy": 1373.5,
+      "hr_avg": 131.6
+    },
+    {
+      "month": "2025-06",
+      "walking_speed": 1.4,
+      "active_energy": 1470.9,
+      "flights": 74.2,
+      "steps": 23490.0,
+      "walk_run_mi": 5.2,
+      "basal_energy": 2587.0,
+      "resting_hr": 94.7,
+      "hr_avg": 133.2,
+      "cycling_mi": 6.3
+    },
+    {
+      "month": "2025-07",
+      "active_energy": 1440.1,
+      "cycling_mi": 5.1,
+      "flights": 82.1,
+      "steps": 11289.0,
+      "walk_run_mi": 5.5,
+      "basal_energy": 1418.8,
+      "resting_hr": 85.2,
+      "hr_avg": 127,
+      "walking_speed": 1.4
+    },
+    {
+      "month": "2025-08",
+      "resting_hr": 41.4,
+      "walking_speed": 3.2,
+      "active_energy": 1422.9,
+      "cycling_mi": 12.2,
+      "flights": 94.9,
+      "steps": 12054.4,
+      "walk_run_mi": 5.2,
+      "basal_energy": 1456.2,
+      "hr_avg": 118.6
+    },
+    {
+      "month": "2025-09",
+      "active_energy": 1391.8,
+      "cycling_mi": 17.3,
+      "flights": 74.8,
+      "steps": 20599.9,
+      "walk_run_mi": 5.6,
+      "basal_energy": 1219.0,
+      "resting_hr": 43.2,
+      "hr_avg": 49.1,
+      "walking_speed": 1.7,
+      "respiratory": 9.4
+    },
+    {
+      "month": "2025-10",
+      "active_energy": 1083.3,
+      "cycling_mi": 2.1,
+      "flights": 54.3,
+      "steps": 10040.8,
+      "walk_run_mi": 8.6,
+      "basal_energy": 1453.7,
+      "resting_hr": 79.7,
+      "hr_avg": 46.7,
+      "walking_speed": 3.1,
+      "respiratory": 9.4
+    },
+    {
+      "month": "2025-11",
+      "walking_speed": 3.2,
+      "respiratory": 10.0,
+      "active_energy": 937.8,
+      "flights": 47.3,
+      "steps": 8015.3,
+      "walk_run_mi": 3.5,
+      "basal_energy": 2466.9,
+      "resting_hr": 35.0,
+      "hr_avg": 88,
+      "cycling_mi": 6.4,
+      "weight_kg": 64.4
+    },
+    {
+      "month": "2025-12",
+      "active_energy": 371.5,
+      "cycling_mi": 2.4,
+      "flights": 20.5,
+      "steps": 6938.3,
+      "walk_run_mi": 3.2,
+      "basal_energy": 2353.9,
+      "resting_hr": 38.5,
+      "hr_avg": 88.8,
+      "walking_speed": 3.1,
+      "respiratory": 9.7,
+      "weight_kg": 135.3
+    },
+    {
+      "month": "2026-01",
+      "active_energy": 944.2,
+      "flights": 44.4,
+      "steps": 15528.5,
+      "walk_run_mi": 6.6,
+      "basal_energy": 1206.1,
+      "resting_hr": 41.2,
+      "hr_avg": 35,
+      "walking_speed": 3.1,
+      "respiratory": 20.4,
+      "cycling_mi": 9.4
+    },
+    {
+      "month": "2026-02",
+      "walking_speed": 3.1,
+      "respiratory": 19.1,
+      "active_energy": 802.5,
+      "flights": 13.2,
+      "steps": 7673.4,
+      "walk_run_mi": 6.2,
+      "basal_energy": 2725.9,
+      "resting_hr": 67.5,
+      "hr_avg": 88,
+      "cycling_mi": 1.0
+    },
+    {
+      "month": "2026-03",
+      "resting_hr": 31.5,
+      "walking_speed": 1.3,
+      "respiratory": 8.9,
+      "active_energy": 517.6,
+      "cycling_mi": 8.6,
+      "flights": 21.1,
+      "steps": 10057.8,
+      "walk_run_mi": 8.5,
+      "basal_energy": 2035.0,
+      "hr_avg": 39.8
+    },
+    {
+      "month": "2026-04",
+      "active_energy": 1207.6,
+      "cycling_mi": 1.3,
+      "flights": 33.9,
+      "steps": 20164.3,
+      "walk_run_mi": 4.9,
+      "basal_energy": 2047.0,
+      "resting_hr": 72.1,
+      "hr_avg": 45.0,
+      "walking_speed": 3.0,
+      "respiratory": 10.0
+    },
+    {
+      "month": "2026-05",
+      "walking_speed": 1.7,
+      "respiratory": 8.5,
+      "active_energy": 607.0,
+      "cycling_mi": 1.6,
+      "flights": 38.6,
+      "steps": 9429.8,
+      "walk_run_mi": 7.3,
+      "basal_energy": 2561.2,
+      "resting_hr": 39.1,
+      "hr_avg": 46.4
+    },
+    {
+      "month": "2026-06",
+      "active_energy": 1172.5,
+      "cycling_mi": 6.4,
+      "flights": 32.6,
+      "steps": 6973.7,
+      "walk_run_mi": 3.6,
+      "basal_energy": 2541.9,
+      "resting_hr": 32.5,
+      "hr_avg": 83.3,
+      "walking_speed": 3.0,
+      "respiratory": 20.4
+    }
+  ],
+  "daily": [
+    {
+      "date": "2013-06-18",
+      "cycling_mi": 3.71
+    },
+    {
+      "date": "2013-06-25",
+      "cycling_mi": 17.57
+    },
+    {
+      "date": "2013-07-02",
+      "cycling_mi": 10.7
+    },
+    {
+      "date": "2013-07-09",
+      "active_energy": 573.48,
+      "cycling_mi": 10.11
+    },
+    {
+      "date": "2013-07-16",
+      "cycling_mi": 23.18
+    },
+    {
+      "date": "2013-07-23",
+      "cycling_mi": 9.78
+    },
+    {
+      "date": "2013-07-30",
+      "cycling_mi": 4.48
+    },
+    {
+      "date": "2013-08-06",
+      "cycling_mi": 2.38
+    },
+    {
+      "date": "2013-08-13",
+      "cycling_mi": 4.1
+    },
+    {
+      "date": "2013-09-17",
+      "cycling_mi": 4.38
+    },
+    {
+      "date": "2013-09-24",
+      "cycling_mi": 8.25
+    },
+    {
+      "date": "2013-10-01",
+      "cycling_mi": 1.91
+    },
+    {
+      "date": "2013-10-15",
+      "cycling_mi": 13.94
+    },
+    {
+      "date": "2013-10-22",
+      "cycling_mi": 7.83
+    },
+    {
+      "date": "2013-10-29",
+      "cycling_mi": 11.85
+    },
+    {
+      "date": "2013-11-05",
+      "cycling_mi": 2.0
+    },
+    {
+      "date": "2013-11-19",
+      "cycling_mi": 2.98
+    },
+    {
+      "date": "2013-11-26",
+      "cycling_mi": 13.07
+    },
+    {
+      "date": "2013-12-10",
+      "cycling_mi": 3.96
+    },
+    {
+      "date": "2013-12-17",
+      "cycling_mi": 8.42
+    },
+    {
+      "date": "2013-12-24",
+      "cycling_mi": 3.6
+    },
+    {
+      "date": "2013-12-31",
+      "cycling_mi": 2.71
+    },
+    {
+      "date": "2014-01-01",
+      "cycling_mi": 18.44
+    },
+    {
+      "date": "2014-01-08",
+      "active_energy": 711.68,
+      "cycling_mi": 19.04,
+      "walk_run_mi": 2.09
+    },
+    {
+      "date": "2014-01-15",
+      "cycling_mi": 15.5,
+      "walk_run_mi": 4.47
+    },
+    {
+      "date": "2014-01-22",
+      "cycling_mi": 12.79,
+      "walk_run_mi": 1.19
+    },
+    {
+      "date": "2014-01-29",
+      "walk_run_mi": 2.04
+    },
+    {
+      "date": "2014-02-05",
+      "cycling_mi": 4.01,
+      "walk_run_mi": 1.03
+    },
+    {
+      "date": "2014-02-12",
+      "cycling_mi": 12.27,
+      "walk_run_mi": 1.24
+    },
+    {
+      "date": "2014-02-19",
+      "cycling_mi": 2.18,
+      "walk_run_mi": 1.0
+    },
+    {
+      "date": "2014-02-26",
+      "walk_run_mi": 0.48
+    },
+    {
+      "date": "2014-03-05",
+      "cycling_mi": 12.71,
+      "walk_run_mi": 0.95
+    },
+    {
+      "date": "2014-03-12",
+      "cycling_mi": 5.63,
+      "walk_run_mi": 1.53
+    },
+    {
+      "date": "2014-03-19",
+      "cycling_mi": 1.97,
+      "walk_run_mi": 0.67
+    },
+    {
+      "date": "2014-04-02",
+      "cycling_mi": 4.42,
+      "walk_run_mi": 1.45
+    },
+    {
+      "date": "2014-04-09",
+      "cycling_mi": 12.46,
+      "walk_run_mi": 2.32
+    },
+    {
+      "date": "2014-04-16",
+      "walk_run_mi": 2.06
+    },
+    {
+      "date": "2014-04-23",
+      "active_energy": 96.8,
+      "walk_run_mi": 0.94
+    },
+    {
+      "date": "2014-04-30",
+      "walk_run_mi": 1.8
+    },
+    {
+      "date": "2014-05-07",
+      "cycling_mi": 5.74,
+      "walk_run_mi": 0.54
+    },
+    {
+      "date": "2014-05-14",
+      "cycling_mi": 6.08,
+      "walk_run_mi": 0.56
+    },
+    {
+      "date": "2014-05-21",
+      "walk_run_mi": 0.84
+    },
+    {
+      "date": "2014-05-28",
+      "walk_run_mi": 1.3
+    },
+    {
+      "date": "2014-06-04",
+      "walk_run_mi": 0.22
+    },
+    {
+      "date": "2014-06-11",
+      "cycling_mi": 7.54,
+      "walk_run_mi": 1.16
+    },
+    {
+      "date": "2014-06-18",
+      "cycling_mi": 2.83
+    },
+    {
+      "date": "2014-06-25",
+      "active_energy": 202.64,
+      "cycling_mi": 7.2,
+      "walk_run_mi": 3.22
+    },
+    {
+      "date": "2014-07-02",
+      "cycling_mi": 10.0,
+      "walk_run_mi": 2.14
+    },
+    {
+      "date": "2014-07-09",
+      "cycling_mi": 11.23
+    },
+    {
+      "date": "2014-07-16",
+      "cycling_mi": 4.04
+    },
+    {
+      "date": "2014-07-23",
+      "cycling_mi": 8.19,
+      "walk_run_mi": 0.08
+    },
+    {
+      "date": "2014-07-30",
+      "active_energy": 611.47,
+      "cycling_mi": 19.0,
+      "walk_run_mi": 1.9
+    },
+    {
+      "date": "2014-08-06",
+      "walk_run_mi": 0.93
+    },
+    {
+      "date": "2014-08-13",
+      "walk_run_mi": 0.94
+    },
+    {
+      "date": "2014-08-20",
+      "active_energy": 108.27,
+      "cycling_mi": 9.23,
+      "walk_run_mi": 0.59
+    },
+    {
+      "date": "2014-08-27",
+      "walk_run_mi": 0.88
+    },
+    {
+      "date": "2014-09-03",
+      "cycling_mi": 4.38,
+      "walk_run_mi": 2.81
+    },
+    {
+      "date": "2014-09-10",
+      "active_energy": 295.18,
+      "cycling_mi": 14.2,
+      "walk_run_mi": 1.01
+    },
+    {
+      "date": "2014-09-17",
+      "active_energy": 959.06,
+      "cycling_mi": 10.51,
+      "flights": 25.07,
+      "steps": 5687.9,
+      "walk_run_mi": 2.71
+    },
+    {
+      "date": "2014-09-24",
+      "active_energy": 404.67,
+      "cycling_mi": 4.55,
+      "flights": 105.41,
+      "steps": 19080.2,
+      "walk_run_mi": 10.38
+    },
+    {
+      "date": "2014-09-28",
+      "weight_kg": 58.59
+    },
+    {
+      "date": "2014-10-01",
+      "active_energy": 972.35,
+      "cycling_mi": 8.28,
+      "flights": 7.35,
+      "steps": 4215.6,
+      "walk_run_mi": 2.46
+    },
+    {
+      "date": "2014-10-05",
+      "weight_kg": 50.49
+    },
+    {
+      "date": "2014-10-08",
+      "active_energy": 560.69,
+      "cycling_mi": 3.9,
+      "flights": 14.7,
+      "steps": 15364.2,
+      "walk_run_mi": 12.7
+    },
+    {
+      "date": "2014-10-12",
+      "weight_kg": 51.53
+    },
+    {
+      "date": "2014-10-15",
+      "active_energy": 187.8,
+      "cycling_mi": 2.0,
+      "flights": 5.32,
+      "steps": 12061.92,
+      "walk_run_mi": 7.26
+    },
+    {
+      "date": "2014-10-19",
+      "weight_kg": 125.26
+    },
+    {
+      "date": "2014-10-22",
+      "active_energy": 417.19,
+      "cycling_mi": 1.9,
+      "flights": 4.4,
+      "steps": 9675.28,
+      "walk_run_mi": 5.99
+    },
+    {
+      "date": "2014-10-26",
+      "weight_kg": 124.84
+    },
+    {
+      "date": "2014-10-29",
+      "flights": 5.71,
+      "steps": 4933.12,
+      "walk_run_mi": 2.37
+    },
+    {
+      "date": "2014-11-02",
+      "weight_kg": 117.44
+    },
+    {
+      "date": "2014-11-05",
+      "active_energy": 180.62,
+      "cycling_mi": 4.14,
+      "flights": 6.13,
+      "steps": 6366.99,
+      "walk_run_mi": 1.4
+    },
+    {
+      "date": "2014-11-12",
+      "active_energy": 78.71,
+      "flights": 2.2,
+      "steps": 7524.1,
+      "walk_run_mi": 2.2
+    },
+    {
+      "date": "2014-11-16",
+      "weight_kg": 63.19
+    },
+    {
+      "date": "2014-11-19",
+      "active_energy": 356.55,
+      "flights": 2.92,
+      "steps": 5018.7,
+      "walk_run_mi": 2.65
+    },
+    {
+      "date": "2014-11-23",
+      "weight_kg": 56.46
+    },
+    {
+      "date": "2014-11-26",
+      "flights": 1.84,
+      "steps": 7245.64,
+      "walk_run_mi": 3.07
+    },
+    {
+      "date": "2014-11-30",
+      "weight_kg": 115.54
+    },
+    {
+      "date": "2014-12-03",
+      "active_energy": 71.89,
+      "flights": 3.3,
+      "steps": 4780.35,
+      "walk_run_mi": 2.5
+    },
+    {
+      "date": "2014-12-07",
+      "weight_kg": 56.44
+    },
+    {
+      "date": "2014-12-10",
+      "flights": 8.71,
+      "steps": 8492.12,
+      "walk_run_mi": 1.75
+    },
+    {
+      "date": "2014-12-14",
+      "weight_kg": 114.86
+    },
+    {
+      "date": "2014-12-17",
+      "active_energy": 157.2,
+      "cycling_mi": 2.82,
+      "flights": 16.78,
+      "steps": 4088.68,
+      "walk_run_mi": 4.02
+    },
+    {
+      "date": "2014-12-21",
+      "weight_kg": 128.9
+    },
+    {
+      "date": "2014-12-24",
+      "active_energy": 546.53,
+      "cycling_mi": 5.2,
+      "flights": 21.79,
+      "steps": 12998.75,
+      "walk_run_mi": 6.77
+    },
+    {
+      "date": "2014-12-28",
+      "weight_kg": 130.37
+    },
+    {
+      "date": "2014-12-31",
+      "cycling_mi": 3.72,
+      "flights": 10.36,
+      "steps": 5537.68,
+      "walk_run_mi": 1.09
+    },
+    {
+      "date": "2015-01-01",
+      "active_energy": 244.83,
+      "cycling_mi": 11.88,
+      "flights": 80.02,
+      "steps": 14030.36,
+      "walk_run_mi": 2.62
+    },
+    {
+      "date": "2015-01-04",
+      "weight_kg": 54.74
+    },
+    {
+      "date": "2015-01-08",
+      "active_energy": 387.1,
+      "cycling_mi": 11.2,
+      "flights": 34.04,
+      "steps": 14969.7,
+      "walk_run_mi": 7.4
+    },
+    {
+      "date": "2015-01-11",
+      "weight_kg": 117.79
+    },
+    {
+      "date": "2015-01-15",
+      "cycling_mi": 1.9,
+      "flights": 5.14,
+      "steps": 7035.08,
+      "walk_run_mi": 3.16
+    },
+    {
+      "date": "2015-01-22",
+      "flights": 10.72,
+      "steps": 10945.14,
+      "walk_run_mi": 2.14
+    },
+    {
+      "date": "2015-01-25",
+      "weight_kg": 57.06
+    },
+    {
+      "date": "2015-01-29",
+      "flights": 2.26,
+      "steps": 4241.2,
+      "walk_run_mi": 0.95
+    },
+    {
+      "date": "2015-02-01",
+      "weight_kg": 56.44
+    },
+    {
+      "date": "2015-02-05",
+      "flights": 3.88,
+      "steps": 3499.1,
+      "walk_run_mi": 1.89
+    },
+    {
+      "date": "2015-02-08",
+      "weight_kg": 58.66
+    },
+    {
+      "date": "2015-02-12",
+      "flights": 51.56,
+      "steps": 10711.09,
+      "walk_run_mi": 4.89
+    },
+    {
+      "date": "2015-02-15",
+      "weight_kg": 59.3
+    },
+    {
+      "date": "2015-02-19",
+      "flights": 6.5,
+      "steps": 7214.79,
+      "walk_run_mi": 1.39
+    },
+    {
+      "date": "2015-02-22",
+      "weight_kg": 127.37
+    },
+    {
+      "date": "2015-02-26",
+      "flights": 1.6,
+      "steps": 4772.24,
+      "walk_run_mi": 1.99
+    },
+    {
+      "date": "2015-03-01",
+      "weight_kg": 57.8
+    },
+    {
+      "date": "2015-03-05",
+      "flights": 3.01,
+      "steps": 6944.45,
+      "walk_run_mi": 2.7
+    },
+    {
+      "date": "2015-03-08",
+      "weight_kg": 52.57
+    },
+    {
+      "date": "2015-03-12",
+      "flights": 48.01,
+      "steps": 9124.35,
+      "walk_run_mi": 2.46
+    },
+    {
+      "date": "2015-03-15",
+      "weight_kg": 127.37
+    },
+    {
+      "date": "2015-03-19",
+      "flights": 87.87,
+      "steps": 5724.43,
+      "walk_run_mi": 2.94
+    },
+    {
+      "date": "2015-03-22",
+      "weight_kg": 52.62
+    },
+    {
+      "date": "2015-03-26",
+      "flights": 15.0,
+      "steps": 3694.93,
+      "walk_run_mi": 3.96
+    },
+    {
+      "date": "2015-03-29",
+      "weight_kg": 67.03
+    },
+    {
+      "date": "2015-04-02",
+      "flights": 18.26,
+      "steps": 3644.22,
+      "walk_run_mi": 1.81
+    },
+    {
+      "date": "2015-04-05",
+      "weight_kg": 64.9
+    },
+    {
+      "date": "2015-04-09",
+      "flights": 9.21,
+      "steps": 4085.06,
+      "walk_run_mi": 2.07
+    },
+    {
+      "date": "2015-04-16",
+      "flights": 4.52,
+      "steps": 4413.9,
+      "walk_run_mi": 1.9
+    },
+    {
+      "date": "2015-04-19",
+      "weight_kg": 63.48
+    },
+    {
+      "date": "2015-04-23",
+      "flights": 7.14,
+      "steps": 5859.6,
+      "walk_run_mi": 1.24
+    },
+    {
+      "date": "2015-04-26",
+      "weight_kg": 122.93
+    },
+    {
+      "date": "2015-04-30",
+      "flights": 60.26,
+      "steps": 11515.64,
+      "walk_run_mi": 2.91
+    },
+    {
+      "date": "2015-05-03",
+      "weight_kg": 56.48
+    },
+    {
+      "date": "2015-05-07",
+      "flights": 19.01,
+      "steps": 11273.27,
+      "walk_run_mi": 5.3
+    },
+    {
+      "date": "2015-05-10",
+      "weight_kg": 58.5
+    },
+    {
+      "date": "2015-05-14",
+      "flights": 14.03,
+      "steps": 12507.71,
+      "walk_run_mi": 2.63
+    },
+    {
+      "date": "2015-05-21",
+      "flights": 7.14,
+      "steps": 3973.5,
+      "walk_run_mi": 1.45
+    },
+    {
+      "date": "2015-05-24",
+      "weight_kg": 54.13
+    },
+    {
+      "date": "2015-05-28",
+      "flights": 11.24,
+      "steps": 3131.33,
+      "walk_run_mi": 3.11
+    },
+    {
+      "date": "2015-05-31",
+      "weight_kg": 117.47
+    },
+    {
+      "date": "2015-06-04",
+      "flights": 1.54,
+      "steps": 5384.82,
+      "walk_run_mi": 1.21
+    },
+    {
+      "date": "2015-06-07",
+      "weight_kg": 52.0
+    },
+    {
+      "date": "2015-06-11",
+      "flights": 40.5,
+      "steps": 6580.39,
+      "walk_run_mi": 2.8
+    },
+    {
+      "date": "2015-06-14",
+      "weight_kg": 53.85
+    },
+    {
+      "date": "2015-06-18",
+      "flights": 13.46,
+      "steps": 4977.1,
+      "walk_run_mi": 1.95
+    },
+    {
+      "date": "2015-06-21",
+      "weight_kg": 118.37
+    },
+    {
+      "date": "2015-06-25",
+      "flights": 77.5,
+      "steps": 4780.57,
+      "walk_run_mi": 2.41
+    },
+    {
+      "date": "2015-07-02",
+      "flights": 4.86,
+      "steps": 2741.0,
+      "walk_run_mi": 1.18
+    },
+    {
+      "date": "2015-07-09",
+      "flights": 1.75,
+      "steps": 5355.9,
+      "walk_run_mi": 2.64
+    },
+    {
+      "date": "2015-07-16",
+      "flights": 67.56,
+      "steps": 5969.27,
+      "walk_run_mi": 6.36
+    },
+    {
+      "date": "2015-07-23",
+      "flights": 61.35,
+      "steps": 16404.56,
+      "walk_run_mi": 4.42
+    },
+    {
+      "date": "2015-07-30",
+      "flights": 46.33,
+      "steps": 10235.65,
+      "walk_run_mi": 2.33
+    },
+    {
+      "date": "2015-08-06",
+      "flights": 86.5,
+      "steps": 8479.56,
+      "walk_run_mi": 8.15
+    },
+    {
+      "date": "2015-08-13",
+      "flights": 111.58,
+      "steps": 5410.9,
+      "walk_run_mi": 6.66
+    },
+    {
+      "date": "2015-08-20",
+      "active_energy": 650.49,
+      "cycling_mi": 14.73,
+      "flights": 68.71,
+      "steps": 5697.46,
+      "walk_run_mi": 5.0
+    },
+    {
+      "date": "2015-08-27",
+      "flights": 38.1,
+      "steps": 10388.6,
+      "walk_run_mi": 4.52
+    },
+    {
+      "date": "2015-09-03",
+      "flights": 7.46,
+      "steps": 4348.1,
+      "walk_run_mi": 3.74
+    },
+    {
+      "date": "2015-09-10",
+      "flights": 2.83,
+      "steps": 6362.88,
+      "walk_run_mi": 1.66
+    },
+    {
+      "date": "2015-09-17",
+      "flights": 27.68,
+      "steps": 13581.59,
+      "walk_run_mi": 6.09
+    },
+    {
+      "date": "2015-09-24",
+      "flights": 10.94,
+      "steps": 5377.92,
+      "walk_run_mi": 2.42
+    },
+    {
+      "date": "2015-10-01",
+      "flights": 29.58,
+      "steps": 15635.34,
+      "walk_run_mi": 7.62
+    },
+    {
+      "date": "2015-10-08",
+      "flights": 87.87,
+      "steps": 7554.77,
+      "walk_run_mi": 7.66
+    },
+    {
+      "date": "2015-10-15",
+      "flights": 36.49,
+      "steps": 17219.3,
+      "walk_run_mi": 7.59
+    },
+    {
+      "date": "2015-10-22",
+      "flights": 65.57,
+      "steps": 10599.38,
+      "walk_run_mi": 5.38
+    },
+    {
+      "date": "2015-11-26",
+      "flights": 15.74,
+      "steps": 12583.58,
+      "walk_run_mi": 2.73
+    },
+    {
+      "date": "2015-12-03",
+      "flights": 24.77,
+      "steps": 13590.22,
+      "walk_run_mi": 6.62
+    },
+    {
+      "date": "2015-12-10",
+      "flights": 4.52,
+      "steps": 4427.21,
+      "walk_run_mi": 3.68
+    },
+    {
+      "date": "2015-12-17",
+      "flights": 16.5,
+      "steps": 12201.58,
+      "walk_run_mi": 4.8
+    },
+    {
+      "date": "2015-12-24",
+      "flights": 128.3,
+      "steps": 7870.91,
+      "walk_run_mi": 4.42
+    },
+    {
+      "date": "2015-12-31",
+      "flights": 9.0,
+      "steps": 1664.36,
+      "walk_run_mi": 0.35
+    },
+    {
+      "date": "2016-01-01",
+      "flights": 11.58,
+      "steps": 12426.48,
+      "walk_run_mi": 2.38
+    },
+    {
+      "date": "2016-01-08",
+      "flights": 7.41,
+      "steps": 3510.8,
+      "walk_run_mi": 3.73
+    },
+    {
+      "date": "2016-01-15",
+      "flights": 2.8,
+      "steps": 8610.07,
+      "walk_run_mi": 1.72
+    },
+    {
+      "date": "2016-01-22",
+      "flights": 2.82,
+      "steps": 7317.86,
+      "walk_run_mi": 1.72
+    },
+    {
+      "date": "2016-01-29",
+      "flights": 4.18,
+      "steps": 3111.07,
+      "walk_run_mi": 1.19
+    },
+    {
+      "date": "2016-02-05",
+      "flights": 2.7,
+      "steps": 4231.02,
+      "walk_run_mi": 2.23
+    },
+    {
+      "date": "2016-02-12",
+      "flights": 45.7,
+      "steps": 8930.01,
+      "walk_run_mi": 2.53
+    },
+    {
+      "date": "2016-02-19",
+      "cycling_mi": 4.2,
+      "flights": 137.3,
+      "steps": 14507.4,
+      "walk_run_mi": 6.4
+    },
+    {
+      "date": "2016-02-26",
+      "flights": 12.24,
+      "steps": 7800.73,
+      "walk_run_mi": 3.58
+    },
+    {
+      "date": "2016-03-04",
+      "flights": 46.98,
+      "steps": 10074.01,
+      "walk_run_mi": 4.8
+    },
+    {
+      "date": "2016-03-11",
+      "flights": 35.03,
+      "steps": 10395.0,
+      "walk_run_mi": 5.0
+    },
+    {
+      "date": "2016-03-18",
+      "flights": 42.63,
+      "steps": 10308.1,
+      "walk_run_mi": 2.33
+    },
+    {
+      "date": "2016-03-25",
+      "flights": 63.6,
+      "steps": 13567.3,
+      "walk_run_mi": 6.0
+    },
+    {
+      "date": "2016-04-01",
+      "flights": 106.27,
+      "steps": 20095.0,
+      "walk_run_mi": 10.68
+    },
+    {
+      "date": "2016-04-08",
+      "flights": 27.2,
+      "steps": 10421.9,
+      "walk_run_mi": 2.32
+    },
+    {
+      "date": "2016-04-15",
+      "flights": 102.86,
+      "steps": 9618.19,
+      "walk_run_mi": 10.11
+    },
+    {
+      "date": "2016-04-22",
+      "flights": 70.97,
+      "steps": 7553.29,
+      "walk_run_mi": 3.4
+    },
+    {
+      "date": "2016-04-29",
+      "flights": 34.6,
+      "steps": 10614.07,
+      "walk_run_mi": 4.41
+    },
+    {
+      "date": "2016-05-06",
+      "flights": 19.5,
+      "steps": 3934.08,
+      "walk_run_mi": 3.74
+    },
+    {
+      "date": "2016-05-13",
+      "flights": 31.76,
+      "steps": 6454.3,
+      "walk_run_mi": 5.98
+    },
+    {
+      "date": "2016-05-20",
+      "flights": 11.19,
+      "steps": 5293.75,
+      "walk_run_mi": 2.0
+    },
+    {
+      "date": "2016-05-27",
+      "flights": 36.82,
+      "steps": 7562.9,
+      "walk_run_mi": 6.02
+    },
+    {
+      "date": "2016-06-03",
+      "flights": 20.18,
+      "steps": 11002.5,
+      "walk_run_mi": 4.45
+    },
+    {
+      "date": "2016-06-10",
+      "flights": 32.5,
+      "steps": 14878.77,
+      "walk_run_mi": 7.14
+    },
+    {
+      "date": "2016-06-17",
+      "flights": 52.6,
+      "steps": 13800.0,
+      "walk_run_mi": 6.6
+    },
+    {
+      "date": "2016-06-24",
+      "flights": 8.23,
+      "steps": 5636.81,
+      "walk_run_mi": 5.11
+    },
+    {
+      "date": "2016-07-01",
+      "flights": 156.79,
+      "steps": 15591.07,
+      "walk_run_mi": 3.41
+    },
+    {
+      "date": "2016-07-08",
+      "active_energy": 110.3,
+      "flights": 66.96,
+      "steps": 14716.24,
+      "walk_run_mi": 7.18
+    },
+    {
+      "date": "2016-07-15",
+      "active_energy": 1267.24,
+      "cycling_mi": 22.27,
+      "flights": 46.3,
+      "steps": 12315.36,
+      "walk_run_mi": 7.73
+    },
+    {
+      "date": "2016-07-22",
+      "active_energy": 472.89,
+      "cycling_mi": 16.23,
+      "flights": 46.2,
+      "steps": 14496.11,
+      "walk_run_mi": 6.36
+    },
+    {
+      "date": "2016-07-29",
+      "active_energy": 140.94,
+      "cycling_mi": 4.0,
+      "flights": 29.76,
+      "steps": 8605.01,
+      "walk_run_mi": 4.5
+    },
+    {
+      "date": "2016-08-05",
+      "active_energy": 388.0,
+      "cycling_mi": 6.66,
+      "flights": 23.66,
+      "steps": 8050.1,
+      "walk_run_mi": 2.6
+    },
+    {
+      "date": "2016-08-12",
+      "active_energy": 603.53,
+      "cycling_mi": 7.41,
+      "flights": 38.47,
+      "steps": 8739.93,
+      "walk_run_mi": 10.4
+    },
+    {
+      "date": "2016-08-19",
+      "active_energy": 182.75,
+      "flights": 3.29,
+      "steps": 7173.0,
+      "walk_run_mi": 3.54
+    },
+    {
+      "date": "2016-08-26",
+      "active_energy": 220.16,
+      "flights": 11.23,
+      "steps": 8935.0,
+      "walk_run_mi": 2.25
+    },
+    {
+      "date": "2016-09-02",
+      "active_energy": 499.53,
+      "flights": 12.52,
+      "steps": 9089.05,
+      "walk_run_mi": 5.77
+    },
+    {
+      "date": "2016-09-09",
+      "active_energy": 341.56,
+      "flights": 2.17,
+      "steps": 4573.22,
+      "walk_run_mi": 4.02
+    },
+    {
+      "date": "2016-09-16",
+      "active_energy": 1195.5,
+      "cycling_mi": 11.76,
+      "flights": 83.6,
+      "steps": 8702.5,
+      "walk_run_mi": 5.16
+    },
+    {
+      "date": "2016-09-23",
+      "active_energy": 1176.56,
+      "cycling_mi": 2.28,
+      "flights": 27.2,
+      "steps": 8726.8,
+      "walk_run_mi": 4.77
+    },
+    {
+      "date": "2016-09-30",
+      "active_energy": 404.41,
+      "flights": 24.2,
+      "steps": 15517.58,
+      "walk_run_mi": 9.33
+    },
+    {
+      "date": "2016-10-07",
+      "active_energy": 505.38,
+      "cycling_mi": 5.81,
+      "flights": 65.57,
+      "steps": 12876.23,
+      "walk_run_mi": 5.98
+    },
+    {
+      "date": "2016-10-14",
+      "active_energy": 878.4,
+      "cycling_mi": 13.82,
+      "flights": 38.23,
+      "steps": 14434.68,
+      "walk_run_mi": 3.1
+    },
+    {
+      "date": "2016-10-21",
+      "active_energy": 543.78,
+      "cycling_mi": 4.95,
+      "flights": 15.5,
+      "steps": 4279.28,
+      "walk_run_mi": 2.27
+    },
+    {
+      "date": "2016-10-28",
+      "flights": 2.75,
+      "steps": 6639.64,
+      "walk_run_mi": 1.4
+    },
+    {
+      "date": "2016-11-04",
+      "flights": 1.58,
+      "steps": 1582.4,
+      "walk_run_mi": 0.67
+    },
+    {
+      "date": "2016-11-11",
+      "flights": 16.15,
+      "steps": 5031.03,
+      "walk_run_mi": 1.99
+    },
+    {
+      "date": "2016-11-18",
+      "active_energy": 196.3,
+      "cycling_mi": 6.87,
+      "flights": 20.84,
+      "steps": 5407.46,
+      "walk_run_mi": 5.15
+    },
+    {
+      "date": "2016-11-25",
+      "active_energy": 814.0,
+      "cycling_mi": 4.8,
+      "flights": 41.35,
+      "steps": 6276.79,
+      "walk_run_mi": 2.61
+    },
+    {
+      "date": "2016-12-02",
+      "active_energy": 363.09,
+      "cycling_mi": 2.14,
+      "flights": 38.0,
+      "steps": 5785.74,
+      "walk_run_mi": 2.39
+    },
+    {
+      "date": "2016-12-09",
+      "active_energy": 113.97,
+      "cycling_mi": 2.49,
+      "flights": 15.5,
+      "steps": 5920.97,
+      "walk_run_mi": 2.43
+    },
+    {
+      "date": "2016-12-16",
+      "active_energy": 434.28,
+      "cycling_mi": 8.64,
+      "flights": 25.6,
+      "steps": 14000.02,
+      "walk_run_mi": 5.89
+    },
+    {
+      "date": "2016-12-23",
+      "active_energy": 299.15,
+      "cycling_mi": 1.2,
+      "flights": 17.3,
+      "steps": 12686.3,
+      "walk_run_mi": 2.63
+    },
+    {
+      "date": "2016-12-30",
+      "active_energy": 143.3,
+      "cycling_mi": 0.9,
+      "flights": 1.72,
+      "steps": 3097.58,
+      "walk_run_mi": 3.05
+    },
+    {
+      "date": "2017-01-01",
+      "active_energy": 580.03,
+      "cycling_mi": 1.42,
+      "flights": 57.7,
+      "steps": 28479.75,
+      "walk_run_mi": 15.0
+    },
+    {
+      "date": "2017-01-08",
+      "active_energy": 917.78,
+      "cycling_mi": 7.86,
+      "flights": 52.71,
+      "steps": 6863.17,
+      "walk_run_mi": 7.51
+    },
+    {
+      "date": "2017-01-15",
+      "active_energy": 895.19,
+      "cycling_mi": 1.66,
+      "flights": 14.2,
+      "steps": 7239.69,
+      "walk_run_mi": 4.3,
+      "basal_energy": 437.5,
+      "resting_hr": 73,
+      "hr_avg": 51
+    },
+    {
+      "date": "2017-01-22",
+      "active_energy": 506.27,
+      "flights": 4.81,
+      "steps": 6943.71,
+      "walk_run_mi": 4.56,
+      "basal_energy": 1348.47,
+      "resting_hr": 53,
+      "hr_avg": 112
+    },
+    {
+      "date": "2017-01-29",
+      "active_energy": 344.02,
+      "cycling_mi": 3.46,
+      "flights": 31.82,
+      "steps": 12367.24,
+      "walk_run_mi": 3.28,
+      "basal_energy": 1222.88,
+      "resting_hr": 62,
+      "hr_avg": 52
+    },
+    {
+      "date": "2017-02-05",
+      "active_energy": 622.56,
+      "cycling_mi": 3.67,
+      "flights": 58.42,
+      "weight_kg": 55.27,
+      "steps": 8430.3,
+      "walk_run_mi": 8.42,
+      "basal_energy": 2875.99,
+      "resting_hr": 29,
+      "hr_avg": 56
+    },
+    {
+      "date": "2017-02-12",
+      "active_energy": 2405.93,
+      "cycling_mi": 2.12,
+      "flights": 25.69,
+      "weight_kg": 56.92,
+      "steps": 6294.2,
+      "walk_run_mi": 9.45,
+      "basal_energy": 1295.22,
+      "resting_hr": 37,
+      "hr_avg": 54
+    },
+    {
+      "date": "2017-02-19",
+      "active_energy": 853.4,
+      "cycling_mi": 10.35,
+      "flights": 81.7,
+      "weight_kg": 111.35,
+      "steps": 14812.42,
+      "walk_run_mi": 5.18,
+      "basal_energy": 1325.82,
+      "resting_hr": 29,
+      "hr_avg": 127
+    },
+    {
+      "date": "2017-02-26",
+      "active_energy": 695.68,
+      "cycling_mi": 12.15,
+      "flights": 71.12,
+      "weight_kg": 126.77,
+      "steps": 10914.14,
+      "walk_run_mi": 2.97,
+      "basal_energy": 1325.86,
+      "resting_hr": 63,
+      "hr_avg": 118
+    },
+    {
+      "date": "2017-03-05",
+      "active_energy": 823.92,
+      "cycling_mi": 14.48,
+      "flights": 62.0,
+      "weight_kg": 62.99,
+      "steps": 12147.27,
+      "walk_run_mi": 7.49,
+      "basal_energy": 2916.11,
+      "resting_hr": 28,
+      "hr_avg": 141
+    },
+    {
+      "date": "2017-03-12",
+      "active_energy": 982.93,
+      "cycling_mi": 12.03,
+      "flights": 45.3,
+      "weight_kg": 125.38,
+      "steps": 7009.85,
+      "walk_run_mi": 4.37,
+      "basal_energy": 1181.84,
+      "resting_hr": 66,
+      "hr_avg": 133
+    },
+    {
+      "date": "2017-03-19",
+      "active_energy": 982.5,
+      "cycling_mi": 4.25,
+      "flights": 10.49,
+      "weight_kg": 125.48,
+      "steps": 11117.0,
+      "walk_run_mi": 7.31,
+      "basal_energy": 2761.09,
+      "resting_hr": 61,
+      "hr_avg": 86
+    },
+    {
+      "date": "2017-03-26",
+      "active_energy": 1636.49,
+      "cycling_mi": 4.64,
+      "flights": 31.2,
+      "steps": 13238.14,
+      "walk_run_mi": 9.06,
+      "basal_energy": 1413.56,
+      "resting_hr": 66,
+      "hr_avg": 57
+    },
+    {
+      "date": "2017-04-02",
+      "active_energy": 1576.73,
+      "cycling_mi": 0.48,
+      "flights": 14.8,
+      "weight_kg": 58.06,
+      "steps": 4628.19,
+      "walk_run_mi": 8.98,
+      "basal_energy": 1118.42,
+      "resting_hr": 50,
+      "hr_avg": 39
+    },
+    {
+      "date": "2017-04-09",
+      "active_energy": 1354.29,
+      "cycling_mi": 18.53,
+      "flights": 24.23,
+      "weight_kg": 119.69,
+      "steps": 5681.31,
+      "walk_run_mi": 3.43,
+      "basal_energy": 1218.61,
+      "resting_hr": 60,
+      "hr_avg": 84
+    },
+    {
+      "date": "2017-04-16",
+      "active_energy": 314.08,
+      "flights": 22.56,
+      "steps": 11780.88,
+      "walk_run_mi": 7.18,
+      "basal_energy": 2760.65,
+      "resting_hr": 61,
+      "hr_avg": 48
+    },
+    {
+      "date": "2017-04-23",
+      "active_energy": 1114.3,
+      "flights": 8.2,
+      "steps": 5066.87,
+      "walk_run_mi": 8.84,
+      "basal_energy": 1146.18,
+      "resting_hr": 28,
+      "hr_avg": 46
+    },
+    {
+      "date": "2017-04-30",
+      "active_energy": 957.7,
+      "cycling_mi": 17.22,
+      "flights": 52.26,
+      "steps": 5915.0,
+      "walk_run_mi": 5.64,
+      "basal_energy": 1263.07,
+      "resting_hr": 62,
+      "hr_avg": 51
+    },
+    {
+      "date": "2017-05-07",
+      "active_energy": 569.74,
+      "cycling_mi": 25.7,
+      "flights": 95.47,
+      "weight_kg": 54.49,
+      "steps": 12307.13,
+      "walk_run_mi": 3.04,
+      "basal_energy": 1139.61,
+      "resting_hr": 49,
+      "hr_avg": 43
+    },
+    {
+      "date": "2017-05-14",
+      "active_energy": 1049.32,
+      "cycling_mi": 10.64,
+      "flights": 35.5,
+      "steps": 13856.16,
+      "walk_run_mi": 3.9,
+      "basal_energy": 2351.94,
+      "resting_hr": 28,
+      "hr_avg": 50
+    },
+    {
+      "date": "2017-05-21",
+      "active_energy": 47.6,
+      "flights": 4.0,
+      "weight_kg": 54.59,
+      "steps": 4659.6,
+      "walk_run_mi": 2.3,
+      "basal_energy": 2633.04,
+      "resting_hr": 69,
+      "hr_avg": 93
+    },
+    {
+      "date": "2017-05-28",
+      "active_energy": 200.3,
+      "cycling_mi": 2.4,
+      "flights": 16.9,
+      "weight_kg": 126.25,
+      "steps": 4771.38,
+      "walk_run_mi": 1.86,
+      "basal_energy": 1394.12,
+      "resting_hr": 61,
+      "hr_avg": 50
+    },
+    {
+      "date": "2017-06-04",
+      "active_energy": 535.49,
+      "cycling_mi": 10.51,
+      "flights": 50.23,
+      "weight_kg": 120.44,
+      "steps": 13578.98,
+      "walk_run_mi": 6.92,
+      "basal_energy": 2325.93,
+      "resting_hr": 32,
+      "hr_avg": 93
+    },
+    {
+      "date": "2017-06-11",
+      "active_energy": 569.35,
+      "cycling_mi": 3.21,
+      "flights": 60.36,
+      "weight_kg": 52.05,
+      "steps": 7357.49,
+      "walk_run_mi": 3.28,
+      "basal_energy": 2499.96,
+      "resting_hr": 69,
+      "hr_avg": 94
+    },
+    {
+      "date": "2017-06-18",
+      "active_energy": 676.32,
+      "flights": 5.24,
+      "weight_kg": 125.0,
+      "steps": 9590.48,
+      "walk_run_mi": 2.12,
+      "basal_energy": 1247.48,
+      "resting_hr": 24,
+      "hr_avg": 52
+    },
+    {
+      "date": "2017-06-25",
+      "active_energy": 1100.18,
+      "cycling_mi": 25.64,
+      "flights": 42.2,
+      "steps": 6017.7,
+      "walk_run_mi": 2.64,
+      "basal_energy": 1177.84,
+      "resting_hr": 33,
+      "hr_avg": 47
+    },
+    {
+      "date": "2017-07-02",
+      "active_energy": 919.9,
+      "cycling_mi": 36.92,
+      "flights": 129.77,
+      "weight_kg": 59.05,
+      "steps": 9984.54,
+      "walk_run_mi": 4.89,
+      "basal_energy": 1439.16,
+      "resting_hr": 63,
+      "hr_avg": 96
+    },
+    {
+      "date": "2017-07-09",
+      "active_energy": 1518.39,
+      "cycling_mi": 17.84,
+      "flights": 20.96,
+      "steps": 7459.1,
+      "walk_run_mi": 3.29,
+      "basal_energy": 2479.16,
+      "resting_hr": 29,
+      "hr_avg": 89
+    },
+    {
+      "date": "2017-07-16",
+      "active_energy": 1033.33,
+      "flights": 85.74,
+      "steps": 22612.86,
+      "walk_run_mi": 14.58,
+      "basal_energy": 1119.93
+    },
+    {
+      "date": "2017-07-23",
+      "active_energy": 295.81,
+      "cycling_mi": 1.43,
+      "flights": 17.2,
+      "steps": 5149.02,
+      "walk_run_mi": 4.6,
+      "basal_energy": 2733.71,
+      "resting_hr": 24,
+      "hr_avg": 42
+    },
+    {
+      "date": "2017-07-30",
+      "active_energy": 399.51,
+      "flights": 4.34,
+      "steps": 3725.59,
+      "walk_run_mi": 3.41,
+      "basal_energy": 2431.26,
+      "resting_hr": 19,
+      "hr_avg": 88
+    },
+    {
+      "date": "2017-08-06",
+      "active_energy": 575.81,
+      "cycling_mi": 10.7,
+      "flights": 47.33,
+      "steps": 4728.3,
+      "walk_run_mi": 6.26,
+      "basal_energy": 1114.32,
+      "resting_hr": 28,
+      "hr_avg": 44
+    },
+    {
+      "date": "2017-08-13",
+      "active_energy": 567.69,
+      "flights": 6.37,
+      "weight_kg": 64.87,
+      "steps": 4049.63,
+      "walk_run_mi": 2.26,
+      "basal_energy": 2875.6,
+      "resting_hr": 63,
+      "hr_avg": 36
+    },
+    {
+      "date": "2017-08-20",
+      "active_energy": 459.59,
+      "cycling_mi": 1.15,
+      "flights": 3.0,
+      "weight_kg": 121.38,
+      "steps": 6927.6,
+      "walk_run_mi": 1.83,
+      "basal_energy": 2830.97,
+      "resting_hr": 30,
+      "hr_avg": 90
+    },
+    {
+      "date": "2017-08-27",
+      "active_energy": 610.9,
+      "cycling_mi": 3.35,
+      "flights": 20.26,
+      "weight_kg": 116.74,
+      "steps": 5581.71,
+      "walk_run_mi": 2.9,
+      "basal_energy": 2559.54,
+      "resting_hr": 27,
+      "hr_avg": 55
+    },
+    {
+      "date": "2017-09-03",
+      "active_energy": 175.8,
+      "cycling_mi": 6.39,
+      "flights": 33.85,
+      "weight_kg": 66.68,
+      "steps": 15682.61,
+      "walk_run_mi": 10.07,
+      "basal_energy": 1183.78,
+      "resting_hr": 24,
+      "hr_avg": 89
+    },
+    {
+      "date": "2017-09-10",
+      "active_energy": 201.08,
+      "cycling_mi": 1.51,
+      "flights": 5.08,
+      "weight_kg": 55.6,
+      "steps": 8960.4,
+      "walk_run_mi": 2.5,
+      "basal_energy": 2184.69,
+      "resting_hr": 35,
+      "hr_avg": 53
+    },
+    {
+      "date": "2017-09-17",
+      "active_energy": 603.71,
+      "cycling_mi": 4.92,
+      "flights": 86.0,
+      "steps": 24299.88,
+      "walk_run_mi": 5.92,
+      "basal_energy": 627.89
+    },
+    {
+      "date": "2017-09-24",
+      "active_energy": 485.36,
+      "cycling_mi": 2.66,
+      "flights": 46.78,
+      "steps": 9202.34,
+      "walk_run_mi": 2.49,
+      "basal_energy": 2543.26,
+      "resting_hr": 58,
+      "hr_avg": 88
+    },
+    {
+      "date": "2017-10-01",
+      "active_energy": 441.44,
+      "cycling_mi": 23.98,
+      "flights": 111.66,
+      "weight_kg": 63.55,
+      "steps": 6558.58,
+      "walk_run_mi": 7.45,
+      "hrv": 22.31,
+      "resting_hr": 38.8,
+      "basal_energy": 1174.4,
+      "hr_avg": 95
+    },
+    {
+      "date": "2017-10-08",
+      "active_energy": 648.84,
+      "cycling_mi": 8.9,
+      "flights": 85.21,
+      "weight_kg": 133.46,
+      "steps": 4560.46,
+      "walk_run_mi": 3.04,
+      "resting_hr": 64.73,
+      "basal_energy": 1385.84,
+      "hr_avg": 74
+    },
+    {
+      "date": "2017-10-15",
+      "active_energy": 628.82,
+      "cycling_mi": 6.77,
+      "flights": 25.9,
+      "steps": 6971.42,
+      "walk_run_mi": 4.24,
+      "hrv": 46.25,
+      "resting_hr": 29.9,
+      "basal_energy": 1437.88,
+      "hr_avg": 38
+    },
+    {
+      "date": "2017-10-22",
+      "active_energy": 549.7,
+      "cycling_mi": 5.89,
+      "flights": 16.88,
+      "steps": 7475.85,
+      "walk_run_mi": 7.41,
+      "hrv": 42.42,
+      "resting_hr": 85.7,
+      "basal_energy": 1474.35,
+      "hr_avg": 94
+    },
+    {
+      "date": "2017-10-29",
+      "active_energy": 210.5,
+      "cycling_mi": 1.5,
+      "flights": 22.18,
+      "steps": 8008.13,
+      "walk_run_mi": 1.98,
+      "hrv": 61.78,
+      "resting_hr": 35.8,
+      "basal_energy": 1095.69,
+      "hr_avg": 85
+    },
+    {
+      "date": "2017-11-05",
+      "active_energy": 165.4,
+      "cycling_mi": 3.68,
+      "flights": 50.36,
+      "steps": 5327.57,
+      "walk_run_mi": 6.75,
+      "basal_energy": 31.12
+    },
+    {
+      "date": "2017-11-12",
+      "active_energy": 138.99,
+      "flights": 15.54,
+      "steps": 7974.64,
+      "walk_run_mi": 5.11,
+      "basal_energy": 905.36,
+      "resting_hr": 113,
+      "hr_avg": 108
+    },
+    {
+      "date": "2017-11-19",
+      "active_energy": 1.83,
+      "cycling_mi": 7.82,
+      "flights": 33.62,
+      "steps": 14003.01,
+      "walk_run_mi": 3.4,
+      "basal_energy": 129.51,
+      "resting_hr": 53,
+      "hr_avg": 67
+    },
+    {
+      "date": "2017-11-26",
+      "flights": 10.52,
+      "steps": 3470.92,
+      "walk_run_mi": 2.9
+    },
+    {
+      "date": "2017-12-03",
+      "cycling_mi": 3.32,
+      "flights": 14.14,
+      "weight_kg": 132.34,
+      "steps": 4001.81,
+      "walk_run_mi": 3.56
+    },
+    {
+      "date": "2017-12-10",
+      "cycling_mi": 1.94,
+      "flights": 15.36,
+      "steps": 8173.17,
+      "walk_run_mi": 4.46
+    },
+    {
+      "date": "2017-12-17",
+      "active_energy": 15.05,
+      "cycling_mi": 1.41,
+      "flights": 6.63,
+      "weight_kg": 131.72,
+      "steps": 2623.76,
+      "walk_run_mi": 1.37
+    },
+    {
+      "date": "2017-12-24",
+      "active_energy": 192.2,
+      "cycling_mi": 9.0,
+      "flights": 24.0,
+      "steps": 5285.0,
+      "walk_run_mi": 3.35
+    },
+    {
+      "date": "2017-12-31",
+      "cycling_mi": 0.26,
+      "flights": 4.38,
+      "weight_kg": 123.29,
+      "steps": 576.6,
+      "walk_run_mi": 0.28
+    },
+    {
+      "date": "2018-01-01",
+      "cycling_mi": 0.4,
+      "flights": 6.34,
+      "steps": 4036.93,
+      "walk_run_mi": 5.62
+    },
+    {
+      "date": "2018-01-07",
+      "weight_kg": 59.17
+    },
+    {
+      "date": "2018-01-08",
+      "cycling_mi": 10.44,
+      "flights": 66.73,
+      "steps": 9737.35,
+      "walk_run_mi": 5.12
+    },
+    {
+      "date": "2018-01-15",
+      "cycling_mi": 2.67,
+      "flights": 54.19,
+      "steps": 7020.93,
+      "walk_run_mi": 1.7
+    },
+    {
+      "date": "2018-01-22",
+      "active_energy": 47.97,
+      "cycling_mi": 3.66,
+      "flights": 15.6,
+      "steps": 2901.91,
+      "walk_run_mi": 3.28
+    },
+    {
+      "date": "2018-01-28",
+      "weight_kg": 119.3
+    },
+    {
+      "date": "2018-01-29",
+      "cycling_mi": 7.28,
+      "flights": 11.12,
+      "steps": 3948.31,
+      "walk_run_mi": 1.95
+    },
+    {
+      "date": "2018-02-05",
+      "active_energy": 144.98,
+      "cycling_mi": 18.27,
+      "flights": 96.22,
+      "steps": 11776.87,
+      "walk_run_mi": 2.5
+    },
+    {
+      "date": "2018-02-12",
+      "active_energy": 394.17,
+      "cycling_mi": 7.36,
+      "flights": 88.04,
+      "steps": 13526.02,
+      "walk_run_mi": 4.0
+    },
+    {
+      "date": "2018-02-19",
+      "active_energy": 836.02,
+      "cycling_mi": 6.51,
+      "flights": 13.26,
+      "steps": 4119.63,
+      "walk_run_mi": 2.02
+    },
+    {
+      "date": "2018-02-26",
+      "flights": 4.84,
+      "steps": 3089.14,
+      "walk_run_mi": 1.61
+    },
+    {
+      "date": "2018-03-05",
+      "active_energy": 105.94,
+      "cycling_mi": 6.59,
+      "flights": 36.21,
+      "steps": 4128.5,
+      "walk_run_mi": 3.35
+    },
+    {
+      "date": "2018-03-12",
+      "flights": 10.88,
+      "steps": 2388.9,
+      "walk_run_mi": 1.03
+    },
+    {
+      "date": "2018-03-19",
+      "active_energy": 192.36,
+      "cycling_mi": 1.79,
+      "flights": 34.81,
+      "steps": 3935.42,
+      "walk_run_mi": 3.44
+    },
+    {
+      "date": "2018-03-26",
+      "active_energy": 406.01,
+      "cycling_mi": 7.42,
+      "flights": 48.1,
+      "steps": 6351.01,
+      "walk_run_mi": 3.08
+    },
+    {
+      "date": "2018-04-02",
+      "active_energy": 1129.6,
+      "cycling_mi": 12.9,
+      "flights": 42.75,
+      "steps": 5170.37,
+      "walk_run_mi": 6.19
+    },
+    {
+      "date": "2018-04-09",
+      "active_energy": 604.35,
+      "cycling_mi": 11.56,
+      "flights": 51.96,
+      "steps": 10459.87,
+      "walk_run_mi": 5.58
+    },
+    {
+      "date": "2018-04-16",
+      "active_energy": 82.55,
+      "flights": 5.97,
+      "steps": 9357.62,
+      "walk_run_mi": 2.13
+    },
+    {
+      "date": "2018-04-23",
+      "active_energy": 431.18,
+      "cycling_mi": 4.9,
+      "flights": 36.77,
+      "steps": 4900.29,
+      "walk_run_mi": 2.48
+    },
+    {
+      "date": "2018-04-30",
+      "active_energy": 1612.19,
+      "cycling_mi": 7.77,
+      "flights": 31.5,
+      "steps": 15480.77,
+      "walk_run_mi": 3.65
+    },
+    {
+      "date": "2018-05-07",
+      "active_energy": 395.1,
+      "cycling_mi": 12.22,
+      "flights": 81.89,
+      "steps": 12253.64,
+      "walk_run_mi": 2.24
+    },
+    {
+      "date": "2018-05-14",
+      "active_energy": 1251.9,
+      "cycling_mi": 12.81,
+      "flights": 80.6,
+      "steps": 6754.64,
+      "walk_run_mi": 6.66
+    },
+    {
+      "date": "2018-05-21",
+      "active_energy": 935.6,
+      "cycling_mi": 23.96,
+      "flights": 43.79,
+      "steps": 5929.42,
+      "walk_run_mi": 6.1
+    },
+    {
+      "date": "2018-05-28",
+      "active_energy": 3661.81,
+      "cycling_mi": 51.91,
+      "flights": 161.74,
+      "steps": 17883.94,
+      "walk_run_mi": 8.92
+    },
+    {
+      "date": "2018-06-04",
+      "flights": 9.0,
+      "steps": 8476.66,
+      "walk_run_mi": 1.5
+    },
+    {
+      "date": "2018-06-11",
+      "active_energy": 745.5,
+      "cycling_mi": 31.27,
+      "flights": 21.56,
+      "steps": 4762.7,
+      "walk_run_mi": 4.62
+    },
+    {
+      "date": "2018-06-18",
+      "active_energy": 1191.73,
+      "cycling_mi": 18.18,
+      "flights": 27.69,
+      "steps": 6200.47,
+      "walk_run_mi": 3.1
+    },
+    {
+      "date": "2018-06-25",
+      "active_energy": 1892.76,
+      "cycling_mi": 34.23,
+      "flights": 78.32,
+      "steps": 7952.14,
+      "walk_run_mi": 3.39
+    },
+    {
+      "date": "2018-07-02",
+      "active_energy": 1582.65,
+      "flights": 36.93,
+      "steps": 7877.62,
+      "walk_run_mi": 5.42
+    },
+    {
+      "date": "2018-07-09",
+      "active_energy": 362.84,
+      "cycling_mi": 16.86,
+      "flights": 43.2,
+      "steps": 11783.4,
+      "walk_run_mi": 5.58
+    },
+    {
+      "date": "2018-07-16",
+      "active_energy": 466.06,
+      "cycling_mi": 6.34,
+      "flights": 58.19,
+      "steps": 4786.7,
+      "walk_run_mi": 2.15
+    },
+    {
+      "date": "2018-07-23",
+      "active_energy": 387.46,
+      "cycling_mi": 7.87,
+      "flights": 37.75,
+      "steps": 6785.14,
+      "walk_run_mi": 3.27
+    },
+    {
+      "date": "2018-07-30",
+      "active_energy": 935.49,
+      "cycling_mi": 15.73,
+      "flights": 56.92,
+      "steps": 7931.16,
+      "walk_run_mi": 9.16
+    },
+    {
+      "date": "2018-08-06",
+      "active_energy": 472.1,
+      "cycling_mi": 6.86,
+      "flights": 51.3,
+      "steps": 4143.27,
+      "walk_run_mi": 1.99
+    },
+    {
+      "date": "2018-08-13",
+      "active_energy": 1510.16,
+      "cycling_mi": 6.28,
+      "flights": 46.59,
+      "steps": 7456.65,
+      "walk_run_mi": 13.16
+    },
+    {
+      "date": "2018-08-20",
+      "flights": 14.1,
+      "steps": 7653.6,
+      "walk_run_mi": 2.99
+    },
+    {
+      "date": "2018-08-27",
+      "active_energy": 1084.2,
+      "cycling_mi": 4.91,
+      "flights": 13.6,
+      "steps": 6776.25,
+      "walk_run_mi": 7.81
+    },
+    {
+      "date": "2018-09-03",
+      "active_energy": 2377.89,
+      "cycling_mi": 13.8,
+      "flights": 40.7,
+      "steps": 13859.8,
+      "walk_run_mi": 3.6
+    },
+    {
+      "date": "2018-09-10",
+      "active_energy": 1434.27,
+      "cycling_mi": 7.42,
+      "flights": 27.26,
+      "steps": 6760.96,
+      "walk_run_mi": 6.2
+    },
+    {
+      "date": "2018-09-17",
+      "active_energy": 966.04,
+      "cycling_mi": 12.74,
+      "flights": 8.6,
+      "steps": 10772.4,
+      "walk_run_mi": 3.47
+    },
+    {
+      "date": "2018-09-24",
+      "active_energy": 3003.37,
+      "cycling_mi": 23.8,
+      "flights": 74.72,
+      "steps": 22469.03,
+      "walk_run_mi": 17.3
+    },
+    {
+      "date": "2018-10-01",
+      "active_energy": 871.12,
+      "cycling_mi": 25.44,
+      "flights": 21.7,
+      "steps": 12239.38,
+      "walk_run_mi": 5.64
+    },
+    {
+      "date": "2018-10-08",
+      "active_energy": 912.63,
+      "cycling_mi": 8.26,
+      "flights": 22.1,
+      "steps": 4647.11,
+      "walk_run_mi": 4.63
+    },
+    {
+      "date": "2018-10-15",
+      "active_energy": 480.41,
+      "cycling_mi": 18.0,
+      "flights": 29.04,
+      "steps": 5339.2,
+      "walk_run_mi": 2.53
+    },
+    {
+      "date": "2018-10-22",
+      "active_energy": 680.27,
+      "flights": 9.0,
+      "steps": 4798.58,
+      "walk_run_mi": 2.44
+    },
+    {
+      "date": "2018-10-29",
+      "active_energy": 312.56,
+      "cycling_mi": 5.73,
+      "flights": 12.6,
+      "steps": 3800.97,
+      "walk_run_mi": 3.64
+    },
+    {
+      "date": "2018-11-05",
+      "active_energy": 631.1,
+      "cycling_mi": 7.7,
+      "flights": 34.2,
+      "steps": 6862.01,
+      "walk_run_mi": 2.74
+    },
+    {
+      "date": "2018-11-12",
+      "flights": 4.8,
+      "steps": 3985.6,
+      "walk_run_mi": 1.29
+    },
+    {
+      "date": "2018-11-19",
+      "active_energy": 575.08,
+      "cycling_mi": 1.51,
+      "flights": 33.07,
+      "steps": 17063.24,
+      "walk_run_mi": 7.56
+    },
+    {
+      "date": "2018-11-26",
+      "active_energy": 649.42,
+      "cycling_mi": 0.5,
+      "flights": 9.94,
+      "steps": 4902.59,
+      "walk_run_mi": 4.79
+    },
+    {
+      "date": "2018-12-03",
+      "active_energy": 145.6,
+      "cycling_mi": 2.69,
+      "flights": 13.28,
+      "steps": 3297.6,
+      "walk_run_mi": 2.8
+    },
+    {
+      "date": "2018-12-10",
+      "active_energy": 645.34,
+      "cycling_mi": 3.71,
+      "flights": 32.91,
+      "steps": 13015.86,
+      "walk_run_mi": 3.03
+    },
+    {
+      "date": "2018-12-17",
+      "active_energy": 169.28,
+      "cycling_mi": 3.17,
+      "flights": 20.39,
+      "steps": 13015.7,
+      "walk_run_mi": 2.39
+    },
+    {
+      "date": "2018-12-24",
+      "active_energy": 3988.31,
+      "cycling_mi": 33.84,
+      "flights": 65.53,
+      "steps": 17672.77,
+      "walk_run_mi": 8.55
+    },
+    {
+      "date": "2018-12-31",
+      "active_energy": 340.6,
+      "cycling_mi": 20.19,
+      "flights": 12.24,
+      "steps": 941.14,
+      "walk_run_mi": 0.53
+    },
+    {
+      "date": "2019-01-01",
+      "active_energy": 1157.9,
+      "cycling_mi": 10.16,
+      "flights": 54.46,
+      "steps": 11144.03,
+      "walk_run_mi": 5.0
+    },
+    {
+      "date": "2019-01-08",
+      "active_energy": 1531.02,
+      "cycling_mi": 17.86,
+      "flights": 40.04,
+      "steps": 5077.97,
+      "walk_run_mi": 6.02
+    },
+    {
+      "date": "2019-01-15",
+      "active_energy": 1496.48,
+      "cycling_mi": 55.2,
+      "flights": 39.04,
+      "steps": 6779.52,
+      "walk_run_mi": 4.43
+    },
+    {
+      "date": "2019-01-22",
+      "active_energy": 1609.8,
+      "cycling_mi": 9.34,
+      "flights": 101.64,
+      "steps": 14048.54,
+      "walk_run_mi": 7.78
+    },
+    {
+      "date": "2019-01-29",
+      "flights": 7.1,
+      "steps": 7399.84,
+      "walk_run_mi": 2.8
+    },
+    {
+      "date": "2019-02-05",
+      "active_energy": 1014.52,
+      "flights": 14.8,
+      "steps": 10815.6,
+      "walk_run_mi": 4.66
+    },
+    {
+      "date": "2019-02-12",
+      "active_energy": 2275.76,
+      "cycling_mi": 29.03,
+      "flights": 30.47,
+      "steps": 5815.87,
+      "walk_run_mi": 5.37
+    },
+    {
+      "date": "2019-02-19",
+      "active_energy": 923.37,
+      "cycling_mi": 6.24,
+      "flights": 37.2,
+      "steps": 4914.94,
+      "walk_run_mi": 2.26
+    },
+    {
+      "date": "2019-02-26",
+      "active_energy": 1111.16,
+      "cycling_mi": 5.32,
+      "flights": 18.95,
+      "steps": 10965.37,
+      "walk_run_mi": 5.57
+    },
+    {
+      "date": "2019-03-05",
+      "active_energy": 182.47,
+      "flights": 8.57,
+      "steps": 7762.64,
+      "walk_run_mi": 3.6
+    },
+    {
+      "date": "2019-03-12",
+      "active_energy": 157.7,
+      "cycling_mi": 1.09,
+      "flights": 15.75,
+      "steps": 4421.75,
+      "walk_run_mi": 4.6
+    },
+    {
+      "date": "2019-03-19",
+      "active_energy": 253.17,
+      "cycling_mi": 1.64,
+      "flights": 13.55,
+      "steps": 3818.38,
+      "walk_run_mi": 1.4
+    },
+    {
+      "date": "2019-03-26",
+      "active_energy": 140.77,
+      "cycling_mi": 1.52,
+      "flights": 37.24,
+      "steps": 4339.54,
+      "walk_run_mi": 2.46
+    },
+    {
+      "date": "2019-04-02",
+      "active_energy": 429.95,
+      "flights": 34.8,
+      "steps": 4716.64,
+      "walk_run_mi": 2.41
+    },
+    {
+      "date": "2019-04-09",
+      "active_energy": 515.73,
+      "cycling_mi": 5.99,
+      "flights": 94.2,
+      "steps": 14161.09,
+      "walk_run_mi": 3.05
+    },
+    {
+      "date": "2019-04-16",
+      "flights": 12.67,
+      "steps": 3983.64,
+      "walk_run_mi": 1.66
+    },
+    {
+      "date": "2019-04-23",
+      "active_energy": 315.18,
+      "cycling_mi": 2.06,
+      "flights": 16.21,
+      "steps": 13200.0,
+      "walk_run_mi": 3.4
+    },
+    {
+      "date": "2019-04-30",
+      "active_energy": 2438.86,
+      "cycling_mi": 21.88,
+      "flights": 126.5,
+      "steps": 8504.28,
+      "walk_run_mi": 9.16
+    },
+    {
+      "date": "2019-05-07",
+      "active_energy": 5054.19,
+      "cycling_mi": 25.59,
+      "flights": 43.49,
+      "steps": 17048.51,
+      "walk_run_mi": 8.44
+    },
+    {
+      "date": "2019-05-14",
+      "active_energy": 437.84,
+      "cycling_mi": 5.16,
+      "flights": 98.43,
+      "steps": 17752.09,
+      "walk_run_mi": 3.62
+    },
+    {
+      "date": "2019-05-21",
+      "active_energy": 1975.4,
+      "flights": 18.29,
+      "steps": 14247.67,
+      "walk_run_mi": 10.69
+    },
+    {
+      "date": "2019-05-28",
+      "active_energy": 2020.43,
+      "cycling_mi": 26.14,
+      "flights": 99.28,
+      "steps": 14848.12,
+      "walk_run_mi": 3.5
+    },
+    {
+      "date": "2019-06-04",
+      "active_energy": 637.71,
+      "cycling_mi": 18.46,
+      "flights": 34.93,
+      "steps": 3069.44,
+      "walk_run_mi": 1.47
+    },
+    {
+      "date": "2019-06-11",
+      "active_energy": 404.4,
+      "cycling_mi": 8.98,
+      "flights": 46.73,
+      "steps": 11453.4,
+      "walk_run_mi": 2.8
+    },
+    {
+      "date": "2019-06-18",
+      "active_energy": 1119.7,
+      "cycling_mi": 14.83,
+      "flights": 33.75,
+      "steps": 13507.97,
+      "walk_run_mi": 3.07
+    },
+    {
+      "date": "2019-06-25",
+      "active_energy": 3698.28,
+      "flights": 45.08,
+      "steps": 12322.09,
+      "walk_run_mi": 9.35
+    },
+    {
+      "date": "2019-07-02",
+      "active_energy": 2006.6,
+      "cycling_mi": 3.68,
+      "flights": 54.02,
+      "steps": 6215.6,
+      "walk_run_mi": 12.95
+    },
+    {
+      "date": "2019-07-09",
+      "active_energy": 587.85,
+      "cycling_mi": 32.4,
+      "flights": 48.8,
+      "steps": 10583.38,
+      "walk_run_mi": 2.27
+    },
+    {
+      "date": "2019-07-16",
+      "active_energy": 2957.6,
+      "cycling_mi": 11.39,
+      "flights": 66.47,
+      "steps": 7234.56,
+      "walk_run_mi": 4.57
+    },
+    {
+      "date": "2019-07-23",
+      "active_energy": 1205.32,
+      "cycling_mi": 3.76,
+      "flights": 125.41,
+      "steps": 6115.44,
+      "walk_run_mi": 3.46
+    },
+    {
+      "date": "2019-07-30",
+      "active_energy": 384.99,
+      "cycling_mi": 10.05,
+      "flights": 74.12,
+      "steps": 5890.09,
+      "walk_run_mi": 3.02
+    },
+    {
+      "date": "2019-08-06",
+      "active_energy": 597.03,
+      "cycling_mi": 2.53,
+      "flights": 49.09,
+      "steps": 7435.04,
+      "walk_run_mi": 8.17
+    },
+    {
+      "date": "2019-08-13",
+      "active_energy": 529.04,
+      "cycling_mi": 7.6,
+      "flights": 67.56,
+      "steps": 6466.0,
+      "walk_run_mi": 2.77
+    },
+    {
+      "date": "2019-08-20",
+      "active_energy": 1775.99,
+      "cycling_mi": 10.78,
+      "flights": 63.15,
+      "steps": 6940.88,
+      "walk_run_mi": 7.0
+    },
+    {
+      "date": "2019-08-27",
+      "active_energy": 1416.29,
+      "cycling_mi": 9.3,
+      "flights": 74.42,
+      "steps": 7129.4,
+      "walk_run_mi": 8.12
+    },
+    {
+      "date": "2019-09-03",
+      "active_energy": 700.79,
+      "cycling_mi": 17.26,
+      "flights": 83.35,
+      "steps": 6795.9,
+      "walk_run_mi": 3.71
+    },
+    {
+      "date": "2019-09-10",
+      "active_energy": 1209.1,
+      "cycling_mi": 18.35,
+      "flights": 70.33,
+      "steps": 10038.79,
+      "walk_run_mi": 4.98
+    },
+    {
+      "date": "2019-09-17",
+      "active_energy": 967.94,
+      "cycling_mi": 5.98,
+      "flights": 15.44,
+      "steps": 4846.4,
+      "walk_run_mi": 6.68
+    },
+    {
+      "date": "2019-09-24",
+      "active_energy": 1696.19,
+      "cycling_mi": 3.06,
+      "flights": 21.3,
+      "steps": 6934.43,
+      "walk_run_mi": 3.37
+    },
+    {
+      "date": "2019-10-01",
+      "active_energy": 1247.1,
+      "flights": 29.12,
+      "steps": 6743.75,
+      "walk_run_mi": 3.42
+    },
+    {
+      "date": "2019-10-08",
+      "active_energy": 1696.35,
+      "flights": 29.91,
+      "steps": 8583.35,
+      "walk_run_mi": 4.16
+    },
+    {
+      "date": "2019-10-15",
+      "active_energy": 433.03,
+      "cycling_mi": 13.87,
+      "flights": 54.0,
+      "steps": 5893.1,
+      "walk_run_mi": 2.6
+    },
+    {
+      "date": "2019-10-22",
+      "active_energy": 378.83,
+      "cycling_mi": 4.28,
+      "flights": 29.11,
+      "steps": 11076.64,
+      "walk_run_mi": 2.69
+    },
+    {
+      "date": "2019-10-29",
+      "active_energy": 2101.9,
+      "cycling_mi": 22.82,
+      "flights": 10.01,
+      "steps": 12303.21,
+      "walk_run_mi": 6.43
+    },
+    {
+      "date": "2019-11-05",
+      "active_energy": 1920.73,
+      "cycling_mi": 29.98,
+      "flights": 106.7,
+      "steps": 6314.97,
+      "walk_run_mi": 6.24
+    },
+    {
+      "date": "2019-11-12",
+      "active_energy": 3389.21,
+      "cycling_mi": 44.91,
+      "flights": 51.2,
+      "steps": 6168.91,
+      "walk_run_mi": 6.49
+    },
+    {
+      "date": "2019-11-19",
+      "active_energy": 713.86,
+      "cycling_mi": 7.09,
+      "flights": 53.06,
+      "steps": 13516.17,
+      "walk_run_mi": 5.95
+    },
+    {
+      "date": "2019-11-26",
+      "active_energy": 3093.7,
+      "flights": 13.5,
+      "steps": 7923.6,
+      "walk_run_mi": 10.78
+    },
+    {
+      "date": "2019-12-03",
+      "active_energy": 1630.57,
+      "flights": 11.42,
+      "steps": 11919.3,
+      "walk_run_mi": 5.02
+    },
+    {
+      "date": "2019-12-10",
+      "active_energy": 1203.24,
+      "flights": 20.58,
+      "steps": 4625.64,
+      "walk_run_mi": 4.99
+    },
+    {
+      "date": "2019-12-17",
+      "active_energy": 378.28,
+      "flights": 10.0,
+      "steps": 12106.11,
+      "walk_run_mi": 2.4
+    },
+    {
+      "date": "2019-12-24",
+      "active_energy": 946.93,
+      "cycling_mi": 4.3,
+      "flights": 18.88,
+      "steps": 6177.41,
+      "walk_run_mi": 5.7
+    },
+    {
+      "date": "2019-12-31",
+      "active_energy": 66.61,
+      "cycling_mi": 0.55,
+      "flights": 2.78,
+      "steps": 1381.58,
+      "walk_run_mi": 0.64
+    },
+    {
+      "date": "2020-01-01",
+      "active_energy": 1939.84,
+      "cycling_mi": 3.64,
+      "flights": 46.62,
+      "steps": 7506.93,
+      "walk_run_mi": 6.18
+    },
+    {
+      "date": "2020-01-08",
+      "active_energy": 377.31,
+      "cycling_mi": 4.69,
+      "flights": 42.52,
+      "steps": 10476.98,
+      "walk_run_mi": 4.3
+    },
+    {
+      "date": "2020-01-15",
+      "active_energy": 2717.35,
+      "cycling_mi": 22.51,
+      "flights": 45.35,
+      "steps": 7544.6,
+      "walk_run_mi": 6.67
+    },
+    {
+      "date": "2020-01-22",
+      "active_energy": 480.57,
+      "cycling_mi": 5.84,
+      "flights": 60.64,
+      "steps": 3515.84,
+      "walk_run_mi": 3.87
+    },
+    {
+      "date": "2020-01-29",
+      "active_energy": 869.28,
+      "cycling_mi": 2.44,
+      "flights": 43.3,
+      "steps": 15667.5,
+      "walk_run_mi": 4.87
+    },
+    {
+      "date": "2020-02-05",
+      "active_energy": 904.99,
+      "cycling_mi": 6.18,
+      "flights": 24.48,
+      "steps": 10881.04,
+      "walk_run_mi": 5.89
+    },
+    {
+      "date": "2020-02-12",
+      "flights": 59.89,
+      "steps": 7378.86,
+      "walk_run_mi": 5.9
+    },
+    {
+      "date": "2020-02-19",
+      "flights": 18.07,
+      "steps": 11729.96,
+      "walk_run_mi": 2.48
+    },
+    {
+      "date": "2020-02-26",
+      "flights": 53.8,
+      "steps": 6402.6,
+      "walk_run_mi": 7.69
+    },
+    {
+      "date": "2020-03-04",
+      "flights": 38.75,
+      "steps": 6557.98,
+      "walk_run_mi": 7.4
+    },
+    {
+      "date": "2020-03-11",
+      "flights": 26.21,
+      "steps": 9337.94,
+      "walk_run_mi": 2.26
+    },
+    {
+      "date": "2020-03-18",
+      "flights": 58.33,
+      "steps": 12578.9,
+      "walk_run_mi": 2.65
+    },
+    {
+      "date": "2020-03-25",
+      "flights": 42.51,
+      "steps": 12445.38,
+      "walk_run_mi": 2.61
+    },
+    {
+      "date": "2020-04-01",
+      "active_energy": 0.8,
+      "flights": 36.11,
+      "steps": 9681.8,
+      "walk_run_mi": 2.19
+    },
+    {
+      "date": "2020-04-05",
+      "weight_kg": 123.68
+    },
+    {
+      "date": "2020-04-08",
+      "active_energy": 29.99,
+      "flights": 51.42,
+      "steps": 6284.9,
+      "walk_run_mi": 2.65
+    },
+    {
+      "date": "2020-04-15",
+      "active_energy": 29.19,
+      "flights": 43.87,
+      "steps": 10936.52,
+      "walk_run_mi": 2.7
+    },
+    {
+      "date": "2020-04-22",
+      "flights": 71.49,
+      "steps": 10890.91,
+      "walk_run_mi": 2.56
+    },
+    {
+      "date": "2020-04-29",
+      "flights": 76.57,
+      "steps": 15731.8,
+      "walk_run_mi": 4.16
+    },
+    {
+      "date": "2020-05-06",
+      "flights": 47.71,
+      "steps": 14344.3,
+      "walk_run_mi": 8.0
+    },
+    {
+      "date": "2020-05-13",
+      "flights": 68.55,
+      "steps": 17337.87,
+      "walk_run_mi": 3.55
+    },
+    {
+      "date": "2020-05-20",
+      "flights": 73.54,
+      "steps": 6109.6,
+      "walk_run_mi": 6.35
+    },
+    {
+      "date": "2020-05-27",
+      "flights": 37.34,
+      "steps": 5363.8,
+      "walk_run_mi": 4.9
+    },
+    {
+      "date": "2020-06-03",
+      "flights": 115.97,
+      "steps": 7905.5,
+      "walk_run_mi": 4.23
+    },
+    {
+      "date": "2020-06-10",
+      "flights": 15.0,
+      "steps": 9396.96,
+      "walk_run_mi": 5.6
+    },
+    {
+      "date": "2020-06-17",
+      "flights": 30.81,
+      "steps": 21107.29,
+      "walk_run_mi": 4.19
+    },
+    {
+      "date": "2020-06-24",
+      "flights": 62.41,
+      "steps": 9518.32,
+      "walk_run_mi": 9.94
+    },
+    {
+      "date": "2020-07-01",
+      "flights": 6.22,
+      "steps": 8184.43,
+      "walk_run_mi": 1.57
+    },
+    {
+      "date": "2020-07-08",
+      "flights": 18.46,
+      "steps": 8695.73,
+      "walk_run_mi": 1.98
+    },
+    {
+      "date": "2020-07-15",
+      "flights": 17.1,
+      "steps": 3842.5,
+      "walk_run_mi": 1.8
+    },
+    {
+      "date": "2020-07-22",
+      "flights": 28.49,
+      "steps": 13678.77,
+      "walk_run_mi": 3.33
+    },
+    {
+      "date": "2020-07-29",
+      "flights": 44.6,
+      "steps": 6406.77,
+      "walk_run_mi": 5.1
+    },
+    {
+      "date": "2020-08-05",
+      "flights": 39.77,
+      "steps": 13842.25,
+      "walk_run_mi": 7.5
+    },
+    {
+      "date": "2020-08-12",
+      "flights": 24.77,
+      "steps": 6778.59,
+      "walk_run_mi": 2.82
+    },
+    {
+      "date": "2020-08-19",
+      "flights": 3.68,
+      "steps": 4517.07,
+      "walk_run_mi": 3.59
+    },
+    {
+      "date": "2020-08-26",
+      "flights": 26.61,
+      "steps": 8399.23,
+      "walk_run_mi": 3.9
+    },
+    {
+      "date": "2020-09-02",
+      "flights": 21.41,
+      "steps": 7466.3,
+      "walk_run_mi": 3.63
+    },
+    {
+      "date": "2020-09-09",
+      "active_energy": 28.06,
+      "flights": 9.46,
+      "steps": 7719.96,
+      "walk_run_mi": 4.01
+    },
+    {
+      "date": "2020-09-13",
+      "walking_speed": 3.37
+    },
+    {
+      "date": "2020-09-16",
+      "flights": 52.7,
+      "steps": 6394.1,
+      "walk_run_mi": 7.8
+    },
+    {
+      "date": "2020-09-20",
+      "walking_speed": 3.29
+    },
+    {
+      "date": "2020-09-23",
+      "flights": 51.7,
+      "steps": 16935.69,
+      "walk_run_mi": 3.96
+    },
+    {
+      "date": "2020-09-27",
+      "walking_speed": 3.47
+    },
+    {
+      "date": "2020-09-30",
+      "active_energy": 1300.95,
+      "cycling_mi": 42.14,
+      "flights": 28.93,
+      "steps": 9671.19,
+      "walk_run_mi": 2.4,
+      "resting_hr": 74,
+      "hr_avg": 173
+    },
+    {
+      "date": "2020-10-04",
+      "walking_speed": 1.54
+    },
+    {
+      "date": "2020-10-07",
+      "active_energy": 539.41,
+      "cycling_mi": 9.97,
+      "flights": 12.34,
+      "steps": 5706.52,
+      "walk_run_mi": 3.41,
+      "resting_hr": 121,
+      "hr_avg": 189
+    },
+    {
+      "date": "2020-10-11",
+      "walking_speed": 3.21
+    },
+    {
+      "date": "2020-10-14",
+      "flights": 71.3,
+      "steps": 13532.46,
+      "walk_run_mi": 3.23
+    },
+    {
+      "date": "2020-10-18",
+      "walking_speed": 1.82
+    },
+    {
+      "date": "2020-10-21",
+      "flights": 74.66,
+      "steps": 12228.82,
+      "walk_run_mi": 6.0
+    },
+    {
+      "date": "2020-10-25",
+      "walking_speed": 1.64
+    },
+    {
+      "date": "2020-10-28",
+      "active_energy": 137.21,
+      "flights": 7.19,
+      "steps": 3770.79,
+      "walk_run_mi": 5.8,
+      "basal_energy": 422.3
+    },
+    {
+      "date": "2020-11-01",
+      "walking_speed": 1.57
+    },
+    {
+      "date": "2020-11-04",
+      "active_energy": 278.8,
+      "flights": 22.09,
+      "steps": 4713.9,
+      "walk_run_mi": 4.09,
+      "basal_energy": 1196.79
+    },
+    {
+      "date": "2020-11-08",
+      "walking_speed": 1.56
+    },
+    {
+      "date": "2020-11-11",
+      "active_energy": 369.2,
+      "flights": 28.47,
+      "steps": 3157.44,
+      "walk_run_mi": 3.73,
+      "basal_energy": 598.9
+    },
+    {
+      "date": "2020-11-15",
+      "resting_hr": 51.24,
+      "walking_speed": 1.72
+    },
+    {
+      "date": "2020-11-18",
+      "active_energy": 510.31,
+      "flights": 12.6,
+      "steps": 5750.75,
+      "walk_run_mi": 12.93,
+      "basal_energy": 1523.56,
+      "resting_hr": 38,
+      "hr_avg": 75
+    },
+    {
+      "date": "2020-11-22",
+      "resting_hr": 46.56,
+      "walking_speed": 3.6
+    },
+    {
+      "date": "2020-11-25",
+      "active_energy": 423.67,
+      "flights": 22.72,
+      "steps": 6054.82,
+      "walk_run_mi": 5.5,
+      "basal_energy": 555.5,
+      "resting_hr": 75,
+      "hr_avg": 136
+    },
+    {
+      "date": "2020-11-29",
+      "resting_hr": 36.9,
+      "walking_speed": 1.81
+    },
+    {
+      "date": "2020-12-02",
+      "active_energy": 288.93,
+      "flights": 25.05,
+      "steps": 4260.6,
+      "walk_run_mi": 8.39,
+      "basal_energy": 710.3,
+      "resting_hr": 28,
+      "hr_avg": 117
+    },
+    {
+      "date": "2020-12-06",
+      "resting_hr": 46.9,
+      "walking_speed": 3.5
+    },
+    {
+      "date": "2020-12-09",
+      "active_energy": 11.46,
+      "flights": 9.32,
+      "steps": 1898.51,
+      "walk_run_mi": 1.88,
+      "basal_energy": 97.4,
+      "resting_hr": 42,
+      "hr_avg": 123
+    },
+    {
+      "date": "2020-12-13",
+      "resting_hr": 45.2,
+      "walking_speed": 3.5
+    },
+    {
+      "date": "2020-12-16",
+      "active_energy": 75.52,
+      "flights": 25.61,
+      "steps": 5333.6,
+      "walk_run_mi": 6.89,
+      "basal_energy": 780.11,
+      "resting_hr": 78,
+      "hr_avg": 63
+    },
+    {
+      "date": "2020-12-20",
+      "resting_hr": 39.0,
+      "walking_speed": 3.42
+    },
+    {
+      "date": "2020-12-23",
+      "active_energy": 46.94,
+      "flights": 13.36,
+      "steps": 13758.37,
+      "walk_run_mi": 3.97,
+      "basal_energy": 298.86,
+      "resting_hr": 47,
+      "hr_avg": 54
+    },
+    {
+      "date": "2020-12-27",
+      "resting_hr": 93.0,
+      "walking_speed": 1.46
+    },
+    {
+      "date": "2020-12-30",
+      "active_energy": 110.19,
+      "flights": 13.49,
+      "steps": 1820.83,
+      "walk_run_mi": 1.36,
+      "basal_energy": 635.9,
+      "resting_hr": 79,
+      "hr_avg": 49
+    },
+    {
+      "date": "2021-01-01",
+      "active_energy": 121.8,
+      "flights": 9.93,
+      "steps": 5074.0,
+      "walk_run_mi": 8.55,
+      "basal_energy": 545.03,
+      "resting_hr": 75,
+      "hr_avg": 62
+    },
+    {
+      "date": "2021-01-03",
+      "resting_hr": 37.85,
+      "walking_speed": 1.63
+    },
+    {
+      "date": "2021-01-08",
+      "active_energy": 757.36,
+      "flights": 25.21,
+      "steps": 5370.55,
+      "walk_run_mi": 5.59,
+      "basal_energy": 1086.27,
+      "resting_hr": 29,
+      "hr_avg": 109
+    },
+    {
+      "date": "2021-01-10",
+      "resting_hr": 76.52,
+      "walking_speed": 1.6
+    },
+    {
+      "date": "2021-01-15",
+      "active_energy": 954.6,
+      "flights": 19.68,
+      "steps": 12943.75,
+      "walk_run_mi": 7.74,
+      "basal_energy": 694.09,
+      "resting_hr": 75,
+      "hr_avg": 136
+    },
+    {
+      "date": "2021-01-17",
+      "resting_hr": 100.4,
+      "walking_speed": 3.2
+    },
+    {
+      "date": "2021-01-22",
+      "active_energy": 1232.0,
+      "flights": 36.92,
+      "steps": 5727.2,
+      "walk_run_mi": 6.89,
+      "basal_energy": 1054.44,
+      "resting_hr": 35,
+      "hr_avg": 130
+    },
+    {
+      "date": "2021-01-24",
+      "resting_hr": 84.72,
+      "walking_speed": 1.5
+    },
+    {
+      "date": "2021-01-29",
+      "active_energy": 584.92,
+      "flights": 54.9,
+      "steps": 5195.66,
+      "walk_run_mi": 8.06,
+      "basal_energy": 1755.02,
+      "resting_hr": 69,
+      "hr_avg": 125
+    },
+    {
+      "date": "2021-01-31",
+      "resting_hr": 84.9,
+      "walking_speed": 3.4
+    },
+    {
+      "date": "2021-02-05",
+      "active_energy": 755.4,
+      "flights": 44.2,
+      "steps": 14033.06,
+      "walk_run_mi": 8.39,
+      "basal_energy": 1300.93,
+      "resting_hr": 27,
+      "hr_avg": 66
+    },
+    {
+      "date": "2021-02-07",
+      "resting_hr": 81.2,
+      "walking_speed": 3.25
+    },
+    {
+      "date": "2021-02-12",
+      "active_energy": 186.84,
+      "flights": 15.68,
+      "steps": 8951.61,
+      "walk_run_mi": 7.82,
+      "basal_energy": 2516.4,
+      "resting_hr": 73,
+      "hr_avg": 98
+    },
+    {
+      "date": "2021-02-14",
+      "resting_hr": 87.56,
+      "walking_speed": 3.55
+    },
+    {
+      "date": "2021-02-19",
+      "active_energy": 519.8,
+      "flights": 39.38,
+      "steps": 11968.25,
+      "walk_run_mi": 9.09,
+      "basal_energy": 1011.29,
+      "resting_hr": 40,
+      "hr_avg": 105
+    },
+    {
+      "date": "2021-02-21",
+      "resting_hr": 44.3,
+      "walking_speed": 1.62
+    },
+    {
+      "date": "2021-02-26",
+      "active_energy": 327.11,
+      "flights": 25.22,
+      "steps": 9478.57,
+      "walk_run_mi": 8.1,
+      "basal_energy": 2129.34,
+      "resting_hr": 35,
+      "hr_avg": 101
+    },
+    {
+      "date": "2021-02-28",
+      "resting_hr": 44.84,
+      "walking_speed": 3.31
+    },
+    {
+      "date": "2021-03-05",
+      "active_energy": 177.02,
+      "flights": 42.36,
+      "steps": 5240.48,
+      "walk_run_mi": 7.32,
+      "basal_energy": 466.96,
+      "resting_hr": 35,
+      "hr_avg": 137
+    },
+    {
+      "date": "2021-03-07",
+      "resting_hr": 80.6,
+      "walking_speed": 3.68
+    },
+    {
+      "date": "2021-03-12",
+      "active_energy": 158.93,
+      "flights": 72.03,
+      "steps": 5020.2,
+      "walk_run_mi": 2.49,
+      "basal_energy": 314.23,
+      "resting_hr": 73,
+      "hr_avg": 51
+    },
+    {
+      "date": "2021-03-14",
+      "resting_hr": 33.0,
+      "walking_speed": 1.76
+    },
+    {
+      "date": "2021-03-19",
+      "flights": 10.77,
+      "steps": 8827.7,
+      "walk_run_mi": 2.03
+    },
+    {
+      "date": "2021-03-21",
+      "resting_hr": 52.6,
+      "walking_speed": 3.49
+    },
+    {
+      "date": "2021-03-26",
+      "active_energy": 317.78,
+      "flights": 40.4,
+      "steps": 6765.0,
+      "walk_run_mi": 4.68,
+      "basal_energy": 1478.63,
+      "resting_hr": 74,
+      "hr_avg": 118
+    },
+    {
+      "date": "2021-03-28",
+      "resting_hr": 40.6,
+      "walking_speed": 1.79
+    },
+    {
+      "date": "2021-04-02",
+      "active_energy": 152.52,
+      "flights": 61.06,
+      "steps": 8353.04,
+      "walk_run_mi": 2.21,
+      "basal_energy": 626.56,
+      "resting_hr": 43,
+      "hr_avg": 66
+    },
+    {
+      "date": "2021-04-04",
+      "resting_hr": 90.5,
+      "walking_speed": 1.72
+    },
+    {
+      "date": "2021-04-09",
+      "active_energy": 89.3,
+      "flights": 39.38,
+      "steps": 7171.11,
+      "walk_run_mi": 8.09,
+      "basal_energy": 874.6,
+      "resting_hr": 89,
+      "hr_avg": 59
+    },
+    {
+      "date": "2021-04-11",
+      "resting_hr": 86.5,
+      "walking_speed": 1.5
+    },
+    {
+      "date": "2021-04-16",
+      "active_energy": 393.59,
+      "flights": 66.66,
+      "steps": 5002.0,
+      "walk_run_mi": 7.44,
+      "basal_energy": 532.4,
+      "resting_hr": 36,
+      "hr_avg": 117
+    },
+    {
+      "date": "2021-04-18",
+      "resting_hr": 42.2,
+      "walking_speed": 3.55
+    },
+    {
+      "date": "2021-04-23",
+      "active_energy": 301.63,
+      "flights": 121.76,
+      "steps": 8821.33,
+      "walk_run_mi": 11.55,
+      "basal_energy": 1718.6,
+      "resting_hr": 42,
+      "hr_avg": 59
+    },
+    {
+      "date": "2021-04-25",
+      "resting_hr": 101.76,
+      "walking_speed": 1.74
+    },
+    {
+      "date": "2021-04-30",
+      "active_energy": 84.2,
+      "flights": 14.72,
+      "steps": 11150.42,
+      "walk_run_mi": 5.8,
+      "basal_energy": 261.76,
+      "resting_hr": 82,
+      "hr_avg": 75
+    },
+    {
+      "date": "2021-05-02",
+      "resting_hr": 45.34,
+      "walking_speed": 1.82
+    },
+    {
+      "date": "2021-05-07",
+      "active_energy": 568.1,
+      "flights": 13.36,
+      "steps": 13290.36,
+      "walk_run_mi": 4.24,
+      "basal_energy": 770.8,
+      "resting_hr": 35,
+      "hr_avg": 130
+    },
+    {
+      "date": "2021-05-09",
+      "resting_hr": 40.99,
+      "walking_speed": 1.64
+    },
+    {
+      "date": "2021-05-14",
+      "active_energy": 364.97,
+      "flights": 47.3,
+      "steps": 14258.6,
+      "walk_run_mi": 7.78,
+      "basal_energy": 898.71,
+      "resting_hr": 35,
+      "hr_avg": 130
+    },
+    {
+      "date": "2021-05-16",
+      "resting_hr": 92.9,
+      "walking_speed": 3.16
+    },
+    {
+      "date": "2021-05-21",
+      "active_energy": 200.73,
+      "flights": 5.54,
+      "steps": 14198.5,
+      "walk_run_mi": 11.22,
+      "basal_energy": 852.24,
+      "resting_hr": 99,
+      "hr_avg": 197
+    },
+    {
+      "date": "2021-05-23",
+      "resting_hr": 48.8,
+      "walking_speed": 1.63
+    },
+    {
+      "date": "2021-05-28",
+      "active_energy": 371.3,
+      "flights": 26.37,
+      "steps": 6330.0,
+      "walk_run_mi": 7.71,
+      "basal_energy": 2028.61,
+      "resting_hr": 81,
+      "hr_avg": 147
+    },
+    {
+      "date": "2021-05-30",
+      "resting_hr": 49.18,
+      "walking_speed": 3.35
+    },
+    {
+      "date": "2021-06-04",
+      "active_energy": 901.46,
+      "flights": 14.8,
+      "steps": 16344.35,
+      "walk_run_mi": 8.4,
+      "basal_energy": 762.18,
+      "resting_hr": 27,
+      "hr_avg": 55
+    },
+    {
+      "date": "2021-06-06",
+      "resting_hr": 40.54,
+      "walking_speed": 3.01
+    },
+    {
+      "date": "2021-06-11",
+      "active_energy": 1942.35,
+      "flights": 15.13,
+      "steps": 19292.04,
+      "walk_run_mi": 8.09,
+      "basal_energy": 1167.43,
+      "resting_hr": 29,
+      "hr_avg": 65
+    },
+    {
+      "date": "2021-06-13",
+      "weight_kg": 59.06,
+      "resting_hr": 46.46,
+      "walking_speed": 1.4
+    },
+    {
+      "date": "2021-06-18",
+      "active_energy": 1019.29,
+      "flights": 29.48,
+      "steps": 16425.5,
+      "walk_run_mi": 6.62,
+      "basal_energy": 1575.46,
+      "resting_hr": 76,
+      "hr_avg": 128
+    },
+    {
+      "date": "2021-06-20",
+      "resting_hr": 48.4,
+      "walking_speed": 1.8
+    },
+    {
+      "date": "2021-06-25",
+      "active_energy": 596.9,
+      "flights": 23.04,
+      "steps": 18791.0,
+      "walk_run_mi": 6.93,
+      "basal_energy": 1059.53,
+      "resting_hr": 32,
+      "hr_avg": 117
+    },
+    {
+      "date": "2021-06-27",
+      "resting_hr": 82.5,
+      "walking_speed": 1.63
+    },
+    {
+      "date": "2021-07-02",
+      "active_energy": 181.69,
+      "flights": 10.18,
+      "steps": 6006.91,
+      "walk_run_mi": 7.11,
+      "basal_energy": 402.88,
+      "resting_hr": 74,
+      "hr_avg": 48
+    },
+    {
+      "date": "2021-07-04",
+      "resting_hr": 46.8,
+      "walking_speed": 3.03
+    },
+    {
+      "date": "2021-07-09",
+      "active_energy": 903.92,
+      "flights": 42.46,
+      "steps": 18519.31,
+      "walk_run_mi": 6.61,
+      "basal_energy": 2529.5,
+      "resting_hr": 70,
+      "hr_avg": 122
+    },
+    {
+      "date": "2021-07-11",
+      "resting_hr": 79.29,
+      "walking_speed": 3.1
+    },
+    {
+      "date": "2021-07-16",
+      "active_energy": 389.11,
+      "flights": 36.92,
+      "steps": 19127.57,
+      "walk_run_mi": 16.76,
+      "basal_energy": 1716.43,
+      "resting_hr": 61,
+      "hr_avg": 57
+    },
+    {
+      "date": "2021-07-18",
+      "resting_hr": 90.65,
+      "walking_speed": 1.72
+    },
+    {
+      "date": "2021-07-23",
+      "active_energy": 1348.76,
+      "flights": 69.4,
+      "steps": 13292.2,
+      "walk_run_mi": 21.68,
+      "basal_energy": 2346.5,
+      "resting_hr": 38,
+      "hr_avg": 124
+    },
+    {
+      "date": "2021-07-25",
+      "resting_hr": 46.8,
+      "walking_speed": 2.95
+    },
+    {
+      "date": "2021-07-30",
+      "active_energy": 352.0,
+      "flights": 16.5,
+      "steps": 6754.7,
+      "walk_run_mi": 5.3,
+      "basal_energy": 2168.21,
+      "resting_hr": 58,
+      "hr_avg": 121
+    },
+    {
+      "date": "2021-08-01",
+      "resting_hr": 81.45,
+      "walking_speed": 3.15
+    },
+    {
+      "date": "2021-08-06",
+      "active_energy": 237.86,
+      "flights": 60.03,
+      "steps": 14137.0,
+      "walk_run_mi": 3.66,
+      "basal_energy": 588.3,
+      "resting_hr": 32,
+      "hr_avg": 50
+    },
+    {
+      "date": "2021-08-08",
+      "resting_hr": 97.61,
+      "walking_speed": 1.48
+    },
+    {
+      "date": "2021-08-13",
+      "active_energy": 577.9,
+      "flights": 37.91,
+      "steps": 16053.67,
+      "walk_run_mi": 10.93,
+      "basal_energy": 859.6,
+      "resting_hr": 79,
+      "hr_avg": 64
+    },
+    {
+      "date": "2021-08-15",
+      "resting_hr": 93.2,
+      "walking_speed": 3.15
+    },
+    {
+      "date": "2021-08-20",
+      "active_energy": 123.6,
+      "flights": 17.0,
+      "steps": 8891.26,
+      "walk_run_mi": 3.56,
+      "basal_energy": 2139.77,
+      "resting_hr": 27,
+      "hr_avg": 149
+    },
+    {
+      "date": "2021-08-22",
+      "resting_hr": 49.02,
+      "walking_speed": 1.44
+    },
+    {
+      "date": "2021-08-27",
+      "active_energy": 167.36,
+      "flights": 22.57,
+      "steps": 4838.03,
+      "walk_run_mi": 3.3,
+      "basal_energy": 972.64,
+      "resting_hr": 64,
+      "hr_avg": 75
+    },
+    {
+      "date": "2021-08-29",
+      "resting_hr": 39.0,
+      "walking_speed": 1.41
+    },
+    {
+      "date": "2021-09-03",
+      "active_energy": 410.6,
+      "flights": 17.35,
+      "steps": 5202.77,
+      "walk_run_mi": 4.19,
+      "basal_energy": 842.7,
+      "resting_hr": 40,
+      "hr_avg": 123
+    },
+    {
+      "date": "2021-09-05",
+      "resting_hr": 42.9,
+      "walking_speed": 3.34
+    },
+    {
+      "date": "2021-09-10",
+      "active_energy": 641.52,
+      "flights": 13.7,
+      "steps": 5402.8,
+      "walk_run_mi": 8.83,
+      "basal_energy": 1941.98,
+      "resting_hr": 28,
+      "hr_avg": 53
+    },
+    {
+      "date": "2021-09-12",
+      "resting_hr": 87.6,
+      "walking_speed": 2.97
+    },
+    {
+      "date": "2021-09-17",
+      "active_energy": 326.57,
+      "flights": 6.51,
+      "steps": 3967.4,
+      "walk_run_mi": 5.61,
+      "basal_energy": 2344.14,
+      "resting_hr": 26,
+      "hr_avg": 125
+    },
+    {
+      "date": "2021-09-19",
+      "resting_hr": 93.5,
+      "walking_speed": 3.42
+    },
+    {
+      "date": "2021-09-24",
+      "active_energy": 235.51,
+      "flights": 8.44,
+      "steps": 17168.34,
+      "walk_run_mi": 4.54,
+      "basal_energy": 901.75,
+      "resting_hr": 30,
+      "hr_avg": 112
+    },
+    {
+      "date": "2021-09-26",
+      "resting_hr": 87.7,
+      "walking_speed": 3.43
+    },
+    {
+      "date": "2021-10-01",
+      "active_energy": 548.71,
+      "flights": 11.27,
+      "steps": 8263.6,
+      "walk_run_mi": 6.03,
+      "basal_energy": 917.92,
+      "resting_hr": 35,
+      "hr_avg": 118
+    },
+    {
+      "date": "2021-10-03",
+      "resting_hr": 45.08,
+      "walking_speed": 3.45
+    },
+    {
+      "date": "2021-10-08",
+      "active_energy": 303.76,
+      "flights": 20.96,
+      "steps": 17537.27,
+      "walk_run_mi": 14.14,
+      "basal_energy": 2453.09,
+      "resting_hr": 76,
+      "hr_avg": 63
+    },
+    {
+      "date": "2021-10-10",
+      "resting_hr": 95.9,
+      "walking_speed": 1.65
+    },
+    {
+      "date": "2021-10-15",
+      "active_energy": 1009.46,
+      "flights": 21.43,
+      "steps": 7364.3,
+      "walk_run_mi": 4.61,
+      "basal_energy": 1118.57,
+      "resting_hr": 84,
+      "hr_avg": 122
+    },
+    {
+      "date": "2021-10-17",
+      "resting_hr": 50.3,
+      "walking_speed": 1.86
+    },
+    {
+      "date": "2021-10-22",
+      "active_energy": 373.21,
+      "flights": 14.82,
+      "steps": 18602.42,
+      "walk_run_mi": 4.93,
+      "basal_energy": 1269.2,
+      "resting_hr": 73,
+      "hr_avg": 129
+    },
+    {
+      "date": "2021-10-24",
+      "resting_hr": 48.9,
+      "walking_speed": 1.37
+    },
+    {
+      "date": "2021-10-29",
+      "active_energy": 146.65,
+      "flights": 26.41,
+      "steps": 8838.35,
+      "walk_run_mi": 4.99,
+      "basal_energy": 1413.26,
+      "resting_hr": 86,
+      "hr_avg": 58
+    },
+    {
+      "date": "2021-10-31",
+      "resting_hr": 42.5,
+      "walking_speed": 3.54
+    },
+    {
+      "date": "2021-11-05",
+      "active_energy": 420.6,
+      "flights": 42.93,
+      "steps": 8182.72,
+      "walk_run_mi": 11.64,
+      "basal_energy": 1757.5,
+      "resting_hr": 75,
+      "hr_avg": 50
+    },
+    {
+      "date": "2021-11-07",
+      "resting_hr": 82.5,
+      "walking_speed": 1.84
+    },
+    {
+      "date": "2021-11-12",
+      "active_energy": 355.39,
+      "flights": 10.35,
+      "steps": 9306.8,
+      "walk_run_mi": 5.7,
+      "basal_energy": 1916.39,
+      "resting_hr": 81,
+      "hr_avg": 112
+    },
+    {
+      "date": "2021-11-14",
+      "resting_hr": 90.9,
+      "walking_speed": 3.33
+    },
+    {
+      "date": "2021-11-19",
+      "active_energy": 884.83,
+      "flights": 25.37,
+      "steps": 13885.15,
+      "walk_run_mi": 5.73,
+      "basal_energy": 2252.27,
+      "resting_hr": 82,
+      "hr_avg": 66
+    },
+    {
+      "date": "2021-11-21",
+      "resting_hr": 84.87,
+      "walking_speed": 3.21
+    },
+    {
+      "date": "2021-11-26",
+      "active_energy": 907.48,
+      "flights": 39.59,
+      "steps": 15105.3,
+      "walk_run_mi": 8.97,
+      "basal_energy": 1077.48,
+      "resting_hr": 45,
+      "hr_avg": 123
+    },
+    {
+      "date": "2021-11-28",
+      "resting_hr": 41.5,
+      "walking_speed": 3.74
+    },
+    {
+      "date": "2021-12-03",
+      "active_energy": 1309.48,
+      "flights": 10.3,
+      "steps": 10185.9,
+      "walk_run_mi": 6.19,
+      "basal_energy": 936.68,
+      "resting_hr": 41,
+      "hr_avg": 67
+    },
+    {
+      "date": "2021-12-05",
+      "resting_hr": 88.8,
+      "walking_speed": 3.8
+    },
+    {
+      "date": "2021-12-10",
+      "active_energy": 226.96,
+      "flights": 9.53,
+      "steps": 7047.04,
+      "walk_run_mi": 7.35,
+      "basal_energy": 1120.61,
+      "resting_hr": 41,
+      "hr_avg": 118
+    },
+    {
+      "date": "2021-12-12",
+      "weight_kg": 62.97,
+      "resting_hr": 88.8,
+      "walking_speed": 3.79
+    },
+    {
+      "date": "2021-12-17",
+      "active_energy": 569.84,
+      "flights": 19.63,
+      "steps": 6498.31,
+      "walk_run_mi": 8.5,
+      "basal_energy": 1106.4,
+      "resting_hr": 80,
+      "hr_avg": 68
+    },
+    {
+      "date": "2021-12-19",
+      "resting_hr": 46.24,
+      "walking_speed": 1.59
+    },
+    {
+      "date": "2021-12-24",
+      "active_energy": 86.59,
+      "flights": 67.65,
+      "steps": 19061.99,
+      "walk_run_mi": 9.84,
+      "basal_energy": 456.05,
+      "resting_hr": 44,
+      "hr_avg": 62
+    },
+    {
+      "date": "2021-12-26",
+      "resting_hr": 90.94,
+      "walking_speed": 1.41
+    },
+    {
+      "date": "2021-12-31",
+      "active_energy": 48.6,
+      "flights": 6.78,
+      "steps": 1457.83,
+      "walk_run_mi": 0.53,
+      "basal_energy": 112.16,
+      "resting_hr": 32,
+      "hr_avg": 61
+    },
+    {
+      "date": "2022-01-01",
+      "active_energy": 282.34,
+      "flights": 19.94,
+      "steps": 13375.0,
+      "walk_run_mi": 10.41,
+      "basal_energy": 1940.11,
+      "resting_hr": 30,
+      "hr_avg": 112
+    },
+    {
+      "date": "2022-01-02",
+      "resting_hr": 95.1,
+      "walking_speed": 3.54
+    },
+    {
+      "date": "2022-01-08",
+      "active_energy": 831.03,
+      "flights": 35.97,
+      "steps": 15747.82,
+      "walk_run_mi": 5.52,
+      "basal_energy": 963.88,
+      "resting_hr": 36,
+      "hr_avg": 60
+    },
+    {
+      "date": "2022-01-09",
+      "resting_hr": 39.52,
+      "walking_speed": 1.49
+    },
+    {
+      "date": "2022-01-15",
+      "active_energy": 126.68,
+      "flights": 37.9,
+      "steps": 9230.7,
+      "walk_run_mi": 4.61,
+      "basal_energy": 651.31,
+      "resting_hr": 68,
+      "hr_avg": 103
+    },
+    {
+      "date": "2022-01-16",
+      "resting_hr": 68.6,
+      "walking_speed": 3.4
+    },
+    {
+      "date": "2022-01-22",
+      "flights": 59.8,
+      "steps": 7611.74,
+      "walk_run_mi": 6.2
+    },
+    {
+      "date": "2022-01-23",
+      "walking_speed": 3.1
+    },
+    {
+      "date": "2022-01-29",
+      "active_energy": 245.82,
+      "cycling_mi": 1.9,
+      "flights": 32.2,
+      "steps": 13119.67,
+      "walk_run_mi": 2.8,
+      "resting_hr": 81,
+      "hr_avg": 169
+    },
+    {
+      "date": "2022-01-30",
+      "walking_speed": 1.4
+    },
+    {
+      "date": "2022-02-05",
+      "active_energy": 118.03,
+      "cycling_mi": 1.4,
+      "flights": 25.4,
+      "steps": 15894.51,
+      "walk_run_mi": 3.44,
+      "resting_hr": 110,
+      "hr_avg": 93
+    },
+    {
+      "date": "2022-02-06",
+      "walking_speed": 3.37
+    },
+    {
+      "date": "2022-02-12",
+      "flights": 43.36,
+      "steps": 10312.33,
+      "walk_run_mi": 2.11
+    },
+    {
+      "date": "2022-02-13",
+      "walking_speed": 2.99
+    },
+    {
+      "date": "2022-02-19",
+      "flights": 8.5,
+      "steps": 14305.29,
+      "walk_run_mi": 6.06
+    },
+    {
+      "date": "2022-02-20",
+      "walking_speed": 1.46
+    },
+    {
+      "date": "2022-02-26",
+      "active_energy": 253.8,
+      "cycling_mi": 2.31,
+      "flights": 4.0,
+      "steps": 4422.86,
+      "walk_run_mi": 1.8,
+      "resting_hr": 57,
+      "hr_avg": 207
+    },
+    {
+      "date": "2022-02-27",
+      "walking_speed": 1.66
+    },
+    {
+      "date": "2022-03-05",
+      "flights": 4.8,
+      "steps": 4572.55,
+      "walk_run_mi": 4.7
+    },
+    {
+      "date": "2022-03-06",
+      "walking_speed": 1.36
+    },
+    {
+      "date": "2022-03-12",
+      "flights": 7.74,
+      "steps": 4706.84,
+      "walk_run_mi": 3.6
+    },
+    {
+      "date": "2022-03-13",
+      "walking_speed": 1.67
+    },
+    {
+      "date": "2022-03-19",
+      "flights": 14.46,
+      "steps": 6321.44,
+      "walk_run_mi": 6.05
+    },
+    {
+      "date": "2022-03-20",
+      "walking_speed": 3.46
+    },
+    {
+      "date": "2022-03-26",
+      "flights": 12.14,
+      "steps": 12932.16,
+      "walk_run_mi": 2.65
+    },
+    {
+      "date": "2022-03-27",
+      "walking_speed": 3.33
+    },
+    {
+      "date": "2022-04-02",
+      "flights": 3.91,
+      "steps": 5533.37,
+      "walk_run_mi": 5.69
+    },
+    {
+      "date": "2022-04-03",
+      "walking_speed": 3.16
+    },
+    {
+      "date": "2022-04-09",
+      "active_energy": 40.48,
+      "cycling_mi": 1.77,
+      "flights": 6.13,
+      "steps": 9751.26,
+      "walk_run_mi": 3.76,
+      "resting_hr": 57,
+      "hr_avg": 104
+    },
+    {
+      "date": "2022-04-10",
+      "walking_speed": 1.53
+    },
+    {
+      "date": "2022-04-16",
+      "active_energy": 88.08,
+      "cycling_mi": 2.19,
+      "flights": 9.3,
+      "steps": 9360.42,
+      "walk_run_mi": 1.76,
+      "resting_hr": 36,
+      "hr_avg": 97
+    },
+    {
+      "date": "2022-04-17",
+      "walking_speed": 3.31
+    },
+    {
+      "date": "2022-04-23",
+      "flights": 2.65,
+      "steps": 4386.77,
+      "walk_run_mi": 1.81
+    },
+    {
+      "date": "2022-04-24",
+      "walking_speed": 1.69
+    },
+    {
+      "date": "2022-04-30",
+      "active_energy": 84.8,
+      "cycling_mi": 1.0,
+      "flights": 35.9,
+      "steps": 13987.74,
+      "walk_run_mi": 6.78,
+      "basal_energy": 98.19,
+      "resting_hr": 40,
+      "hr_avg": 194
+    },
+    {
+      "date": "2022-05-01",
+      "resting_hr": 108.7,
+      "walking_speed": 2.93
+    },
+    {
+      "date": "2022-05-07",
+      "active_energy": 64.21,
+      "cycling_mi": 1.52,
+      "flights": 3.43,
+      "steps": 4515.63,
+      "walk_run_mi": 2.08,
+      "resting_hr": 34,
+      "hr_avg": 193
+    },
+    {
+      "date": "2022-05-08",
+      "walking_speed": 2.99
+    },
+    {
+      "date": "2022-05-14",
+      "active_energy": 254.8,
+      "cycling_mi": 2.86,
+      "flights": 4.26,
+      "steps": 5697.4,
+      "walk_run_mi": 5.81,
+      "basal_energy": 82.72,
+      "resting_hr": 108,
+      "hr_avg": 81
+    },
+    {
+      "date": "2022-05-15",
+      "weight_kg": 63.46,
+      "resting_hr": 200.7,
+      "walking_speed": 1.47
+    },
+    {
+      "date": "2022-05-21",
+      "active_energy": 671.1,
+      "cycling_mi": 7.18,
+      "flights": 4.08,
+      "steps": 12416.79,
+      "walk_run_mi": 6.28,
+      "resting_hr": 45,
+      "hr_avg": 99
+    },
+    {
+      "date": "2022-05-22",
+      "weight_kg": 132.3,
+      "walking_speed": 3.11
+    },
+    {
+      "date": "2022-05-28",
+      "active_energy": 172.6,
+      "cycling_mi": 0.32,
+      "flights": 5.1,
+      "steps": 13731.81,
+      "walk_run_mi": 6.66,
+      "resting_hr": 64,
+      "hr_avg": 71
+    },
+    {
+      "date": "2022-05-29",
+      "weight_kg": 142.64,
+      "walking_speed": 1.46
+    },
+    {
+      "date": "2022-06-04",
+      "active_energy": 217.09,
+      "flights": 9.98,
+      "steps": 5917.91,
+      "walk_run_mi": 8.25,
+      "basal_energy": 578.67,
+      "resting_hr": 42,
+      "hr_avg": 80
+    },
+    {
+      "date": "2022-06-05",
+      "weight_kg": 128.96,
+      "resting_hr": 54.9,
+      "walking_speed": 3.17
+    },
+    {
+      "date": "2022-06-11",
+      "active_energy": 397.79,
+      "flights": 8.23,
+      "steps": 13349.96,
+      "walk_run_mi": 3.5,
+      "basal_energy": 1632.34,
+      "resting_hr": 40,
+      "hr_avg": 74
+    },
+    {
+      "date": "2022-06-12",
+      "weight_kg": 60.08,
+      "resting_hr": 65.1,
+      "walking_speed": 1.43
+    },
+    {
+      "date": "2022-06-18",
+      "active_energy": 520.26,
+      "flights": 8.64,
+      "steps": 4857.32,
+      "walk_run_mi": 2.92,
+      "basal_energy": 1148.26,
+      "resting_hr": 67,
+      "hr_avg": 120
+    },
+    {
+      "date": "2022-06-19",
+      "weight_kg": 63.39,
+      "resting_hr": 50.3,
+      "walking_speed": 3.19
+    },
+    {
+      "date": "2022-06-25",
+      "active_energy": 747.05,
+      "flights": 23.04,
+      "steps": 15303.02,
+      "walk_run_mi": 8.03,
+      "basal_energy": 674.48,
+      "resting_hr": 70,
+      "hr_avg": 110
+    },
+    {
+      "date": "2022-06-26",
+      "weight_kg": 126.06,
+      "resting_hr": 38.24,
+      "walking_speed": 3.45
+    },
+    {
+      "date": "2022-07-02",
+      "active_energy": 319.1,
+      "flights": 48.18,
+      "steps": 5700.03,
+      "walk_run_mi": 7.66,
+      "basal_energy": 793.8,
+      "resting_hr": 92,
+      "hr_avg": 131
+    },
+    {
+      "date": "2022-07-03",
+      "resting_hr": 52.9,
+      "walking_speed": 3.35
+    },
+    {
+      "date": "2022-07-09",
+      "active_energy": 568.0,
+      "flights": 14.95,
+      "steps": 14843.56,
+      "walk_run_mi": 4.47,
+      "basal_energy": 2079.3,
+      "resting_hr": 36,
+      "hr_avg": 120
+    },
+    {
+      "date": "2022-07-10",
+      "resting_hr": 105.6,
+      "walking_speed": 3.25
+    },
+    {
+      "date": "2022-07-16",
+      "active_energy": 194.92,
+      "flights": 14.39,
+      "steps": 12922.8,
+      "walk_run_mi": 3.09,
+      "basal_energy": 1594.28,
+      "resting_hr": 41,
+      "hr_avg": 113
+    },
+    {
+      "date": "2022-07-17",
+      "weight_kg": 141.88,
+      "resting_hr": 47.7,
+      "walking_speed": 3.3
+    },
+    {
+      "date": "2022-07-23",
+      "active_energy": 750.7,
+      "flights": 49.19,
+      "steps": 6241.71,
+      "walk_run_mi": 13.31,
+      "basal_energy": 1447.65,
+      "resting_hr": 33,
+      "hr_avg": 62
+    },
+    {
+      "date": "2022-07-24",
+      "weight_kg": 68.82,
+      "resting_hr": 56.8,
+      "walking_speed": 1.35
+    },
+    {
+      "date": "2022-07-30",
+      "active_energy": 1704.49,
+      "flights": 35.23,
+      "steps": 16694.49,
+      "walk_run_mi": 6.32,
+      "basal_energy": 1742.55,
+      "resting_hr": 69,
+      "hr_avg": 131
+    },
+    {
+      "date": "2022-07-31",
+      "weight_kg": 57.12,
+      "resting_hr": 124.58,
+      "walking_speed": 3.1
+    },
+    {
+      "date": "2022-08-06",
+      "active_energy": 852.8,
+      "flights": 13.18,
+      "steps": 14094.47,
+      "walk_run_mi": 7.22,
+      "basal_energy": 786.69,
+      "resting_hr": 82,
+      "hr_avg": 146
+    },
+    {
+      "date": "2022-08-07",
+      "weight_kg": 128.2,
+      "resting_hr": 130.31,
+      "walking_speed": 3.1
+    },
+    {
+      "date": "2022-08-13",
+      "active_energy": 1349.11,
+      "flights": 71.02,
+      "steps": 9894.7,
+      "walk_run_mi": 6.08,
+      "basal_energy": 712.1,
+      "resting_hr": 26,
+      "hr_avg": 125
+    },
+    {
+      "date": "2022-08-14",
+      "weight_kg": 58.84,
+      "resting_hr": 51.6,
+      "walking_speed": 3.26
+    },
+    {
+      "date": "2022-08-20",
+      "active_energy": 938.21,
+      "flights": 48.58,
+      "steps": 8619.22,
+      "walk_run_mi": 4.37,
+      "basal_energy": 914.85,
+      "resting_hr": 38,
+      "hr_avg": 63
+    },
+    {
+      "date": "2022-08-21",
+      "weight_kg": 62.56,
+      "resting_hr": 92.9,
+      "walking_speed": 1.64
+    },
+    {
+      "date": "2022-08-27",
+      "active_energy": 756.88,
+      "flights": 10.72,
+      "steps": 7141.31,
+      "walk_run_mi": 10.6,
+      "basal_energy": 790.8,
+      "resting_hr": 75,
+      "hr_avg": 56
+    },
+    {
+      "date": "2022-08-28",
+      "resting_hr": 109.2,
+      "walking_speed": 1.5
+    },
+    {
+      "date": "2022-09-03",
+      "active_energy": 114.27,
+      "flights": 10.28,
+      "steps": 6394.59,
+      "walk_run_mi": 3.21,
+      "resting_hr": 111,
+      "hr_avg": 138
+    },
+    {
+      "date": "2022-09-04",
+      "weight_kg": 70.48,
+      "walking_speed": 1.68
+    },
+    {
+      "date": "2022-09-10",
+      "active_energy": 106.35,
+      "flights": 2.64,
+      "steps": 8732.8,
+      "walk_run_mi": 8.27,
+      "basal_energy": 658.44
+    },
+    {
+      "date": "2022-09-11",
+      "walking_speed": 3.44
+    },
+    {
+      "date": "2022-09-17",
+      "active_energy": 228.91,
+      "flights": 3.39,
+      "steps": 5721.51,
+      "walk_run_mi": 4.99,
+      "basal_energy": 2493.44
+    },
+    {
+      "date": "2022-09-18",
+      "walking_speed": 3.49
+    },
+    {
+      "date": "2022-09-24",
+      "active_energy": 195.99,
+      "cycling_mi": 2.79,
+      "flights": 6.55,
+      "steps": 5359.39,
+      "walk_run_mi": 4.34,
+      "basal_energy": 1261.24,
+      "resting_hr": 58,
+      "hr_avg": 185
+    },
+    {
+      "date": "2022-09-25",
+      "weight_kg": 65.49,
+      "resting_hr": 83.8,
+      "walking_speed": 3.21
+    },
+    {
+      "date": "2022-10-01",
+      "active_energy": 896.83,
+      "flights": 6.78,
+      "steps": 12427.14,
+      "walk_run_mi": 7.42,
+      "basal_energy": 1219.44,
+      "resting_hr": 38,
+      "hr_avg": 58
+    },
+    {
+      "date": "2022-10-02",
+      "weight_kg": 67.43,
+      "resting_hr": 61.71,
+      "walking_speed": 1.43
+    },
+    {
+      "date": "2022-10-08",
+      "active_energy": 676.3,
+      "flights": 9.67,
+      "steps": 5842.51,
+      "walk_run_mi": 3.59,
+      "basal_energy": 2759.33,
+      "resting_hr": 80,
+      "hr_avg": 105
+    },
+    {
+      "date": "2022-10-09",
+      "weight_kg": 63.5,
+      "resting_hr": 55.2,
+      "walking_speed": 1.68
+    },
+    {
+      "date": "2022-10-15",
+      "active_energy": 342.8,
+      "flights": 12.4,
+      "steps": 17171.59,
+      "walk_run_mi": 7.11,
+      "basal_energy": 2625.84,
+      "resting_hr": 93,
+      "hr_avg": 129
+    },
+    {
+      "date": "2022-10-16",
+      "weight_kg": 58.1,
+      "resting_hr": 110.25,
+      "walking_speed": 1.39
+    },
+    {
+      "date": "2022-10-22",
+      "active_energy": 730.04,
+      "flights": 28.37,
+      "steps": 6781.4,
+      "walk_run_mi": 7.4,
+      "basal_energy": 2906.8,
+      "resting_hr": 54,
+      "hr_avg": 65
+    },
+    {
+      "date": "2022-10-23",
+      "weight_kg": 132.63,
+      "resting_hr": 54.8,
+      "walking_speed": 1.52
+    },
+    {
+      "date": "2022-10-29",
+      "active_energy": 725.29,
+      "flights": 7.04,
+      "steps": 15693.94,
+      "walk_run_mi": 3.72,
+      "basal_energy": 2735.92,
+      "resting_hr": 80,
+      "hr_avg": 124
+    },
+    {
+      "date": "2022-10-30",
+      "weight_kg": 59.5,
+      "walking_speed": 1.33
+    },
+    {
+      "date": "2022-11-05",
+      "active_energy": 217.55,
+      "flights": 8.42,
+      "steps": 11877.39,
+      "walk_run_mi": 2.71,
+      "basal_energy": 2801.1
+    },
+    {
+      "date": "2022-11-06",
+      "weight_kg": 75.6,
+      "walking_speed": 3.0
+    },
+    {
+      "date": "2022-11-12",
+      "active_energy": 2165.89,
+      "flights": 46.06,
+      "steps": 19285.8,
+      "walk_run_mi": 5.47,
+      "basal_energy": 1286.67,
+      "resting_hr": 82,
+      "hr_avg": 128
+    },
+    {
+      "date": "2022-11-13",
+      "weight_kg": 136.64,
+      "resting_hr": 120.2,
+      "walking_speed": 1.62
+    },
+    {
+      "date": "2022-11-19",
+      "active_energy": 746.15,
+      "flights": 18.38,
+      "steps": 9738.51,
+      "walk_run_mi": 6.12,
+      "basal_energy": 1191.4,
+      "resting_hr": 28,
+      "hr_avg": 59
+    },
+    {
+      "date": "2022-11-20",
+      "weight_kg": 136.47,
+      "resting_hr": 93.1,
+      "walking_speed": 2.95
+    },
+    {
+      "date": "2022-11-26",
+      "active_energy": 513.47,
+      "flights": 3.49,
+      "steps": 5358.7,
+      "walk_run_mi": 5.44,
+      "basal_energy": 2689.57
+    },
+    {
+      "date": "2022-11-27",
+      "weight_kg": 142.75,
+      "walking_speed": 1.69
+    },
+    {
+      "date": "2022-12-03",
+      "active_energy": 1347.06,
+      "flights": 27.4,
+      "steps": 16641.5,
+      "walk_run_mi": 11.55,
+      "basal_energy": 2599.55,
+      "resting_hr": 89,
+      "hr_avg": 60
+    },
+    {
+      "date": "2022-12-04",
+      "weight_kg": 136.49,
+      "resting_hr": 62.25,
+      "walking_speed": 1.48
+    },
+    {
+      "date": "2022-12-10",
+      "active_energy": 921.63,
+      "flights": 13.05,
+      "steps": 15523.67,
+      "walk_run_mi": 8.59,
+      "basal_energy": 1268.27,
+      "resting_hr": 39,
+      "hr_avg": 74
+    },
+    {
+      "date": "2022-12-11",
+      "weight_kg": 138.64,
+      "resting_hr": 119.0,
+      "walking_speed": 3.09
+    },
+    {
+      "date": "2022-12-17",
+      "active_energy": 384.38,
+      "flights": 8.44,
+      "steps": 16107.43,
+      "walk_run_mi": 3.14,
+      "basal_energy": 2717.07,
+      "resting_hr": 59,
+      "hr_avg": 73
+    },
+    {
+      "date": "2022-12-18",
+      "weight_kg": 131.96,
+      "walking_speed": 1.32
+    },
+    {
+      "date": "2022-12-24",
+      "active_energy": 754.72,
+      "flights": 5.72,
+      "steps": 17509.8,
+      "walk_run_mi": 3.86,
+      "basal_energy": 1364.13
+    },
+    {
+      "date": "2022-12-25",
+      "weight_kg": 143.03,
+      "walking_speed": 3.12
+    },
+    {
+      "date": "2022-12-31",
+      "active_energy": 72.1,
+      "flights": 0.59,
+      "steps": 2325.67,
+      "walk_run_mi": 0.85,
+      "basal_energy": 397.45,
+      "resting_hr": 39,
+      "hr_avg": 43
+    },
+    {
+      "date": "2023-01-01",
+      "active_energy": 218.55,
+      "flights": 15.2,
+      "weight_kg": 61.47,
+      "steps": 13088.34,
+      "walk_run_mi": 5.76,
+      "resting_hr": 38.4,
+      "basal_energy": 2786.33,
+      "walking_speed": 3.05,
+      "hr_avg": 52
+    },
+    {
+      "date": "2023-01-08",
+      "active_energy": 339.01,
+      "flights": 4.15,
+      "weight_kg": 139.01,
+      "steps": 5859.57,
+      "walk_run_mi": 4.62,
+      "resting_hr": 95.1,
+      "basal_energy": 2811.58,
+      "walking_speed": 3.07,
+      "hr_avg": 96
+    },
+    {
+      "date": "2023-01-15",
+      "active_energy": 724.95,
+      "flights": 62.04,
+      "steps": 16056.08,
+      "walk_run_mi": 7.34,
+      "resting_hr": 41.2,
+      "basal_energy": 2606.1,
+      "walking_speed": 3.32,
+      "hr_avg": 139
+    },
+    {
+      "date": "2023-01-22",
+      "active_energy": 507.62,
+      "cycling_mi": 0.17,
+      "flights": 11.47,
+      "weight_kg": 55.88,
+      "steps": 7896.2,
+      "walk_run_mi": 2.89,
+      "resting_hr": 44.6,
+      "basal_energy": 2668.43,
+      "walking_speed": 1.51,
+      "hr_avg": 50
+    },
+    {
+      "date": "2023-01-29",
+      "active_energy": 334.8,
+      "cycling_mi": 1.4,
+      "flights": 14.45,
+      "weight_kg": 134.91,
+      "steps": 15395.86,
+      "walk_run_mi": 7.32,
+      "resting_hr": 43.73,
+      "basal_energy": 1180.57,
+      "walking_speed": 1.5,
+      "hr_avg": 104
+    },
+    {
+      "date": "2023-02-05",
+      "active_energy": 313.33,
+      "flights": 1.34,
+      "weight_kg": 142.1,
+      "steps": 5083.21,
+      "walk_run_mi": 2.2,
+      "basal_energy": 2521.1,
+      "walking_speed": 1.33
+    },
+    {
+      "date": "2023-02-12",
+      "active_energy": 413.34,
+      "flights": 10.2,
+      "weight_kg": 69.97,
+      "steps": 11449.28,
+      "walk_run_mi": 2.11,
+      "basal_energy": 1333.71,
+      "walking_speed": 1.61
+    },
+    {
+      "date": "2023-02-19",
+      "active_energy": 536.56,
+      "flights": 6.9,
+      "weight_kg": 73.6,
+      "steps": 6663.28,
+      "walk_run_mi": 5.72,
+      "basal_energy": 2810.26,
+      "walking_speed": 3.1,
+      "resting_hr": 100,
+      "hr_avg": 143
+    },
+    {
+      "date": "2023-02-26",
+      "active_energy": 155.09,
+      "cycling_mi": 4.47,
+      "flights": 2.7,
+      "weight_kg": 71.09,
+      "steps": 7704.64,
+      "walk_run_mi": 3.48,
+      "basal_energy": 1321.08,
+      "walking_speed": 2.95,
+      "resting_hr": 56,
+      "hr_avg": 101
+    },
+    {
+      "date": "2023-03-05",
+      "active_energy": 152.4,
+      "cycling_mi": 2.48,
+      "flights": 7.33,
+      "weight_kg": 65.3,
+      "steps": 7243.15,
+      "walk_run_mi": 1.49,
+      "basal_energy": 2774.27,
+      "walking_speed": 1.24,
+      "resting_hr": 51,
+      "hr_avg": 78
+    },
+    {
+      "date": "2023-03-12",
+      "active_energy": 276.24,
+      "flights": 8.17,
+      "weight_kg": 57.15,
+      "steps": 4343.08,
+      "walk_run_mi": 1.73,
+      "basal_energy": 2730.3,
+      "walking_speed": 2.9
+    },
+    {
+      "date": "2023-03-19",
+      "active_energy": 127.12,
+      "flights": 9.07,
+      "weight_kg": 70.71,
+      "steps": 9248.43,
+      "walk_run_mi": 1.72,
+      "basal_energy": 1276.2,
+      "walking_speed": 1.47
+    },
+    {
+      "date": "2023-03-26",
+      "active_energy": 234.35,
+      "flights": 3.88,
+      "weight_kg": 121.31,
+      "steps": 4008.2,
+      "walk_run_mi": 1.6,
+      "basal_energy": 1187.47,
+      "walking_speed": 1.38
+    },
+    {
+      "date": "2023-04-02",
+      "active_energy": 282.56,
+      "flights": 7.44,
+      "weight_kg": 61.9,
+      "steps": 5144.71,
+      "walk_run_mi": 1.64,
+      "basal_energy": 1467.63,
+      "walking_speed": 3.2
+    },
+    {
+      "date": "2023-04-09",
+      "active_energy": 165.9,
+      "flights": 11.74,
+      "weight_kg": 120.82,
+      "steps": 9595.5,
+      "walk_run_mi": 1.9,
+      "basal_energy": 2706.22,
+      "walking_speed": 3.0
+    },
+    {
+      "date": "2023-04-16",
+      "active_energy": 126.63,
+      "flights": 5.67,
+      "weight_kg": 137.89,
+      "steps": 7157.66,
+      "walk_run_mi": 3.02,
+      "basal_energy": 2689.12,
+      "walking_speed": 1.3
+    },
+    {
+      "date": "2023-04-23",
+      "active_energy": 472.61,
+      "cycling_mi": 0.51,
+      "flights": 24.62,
+      "weight_kg": 132.49,
+      "steps": 15435.6,
+      "walk_run_mi": 7.84,
+      "resting_hr": 44.84,
+      "basal_energy": 1205.01,
+      "walking_speed": 1.5,
+      "hr_avg": 108
+    },
+    {
+      "date": "2023-04-30",
+      "active_energy": 193.43,
+      "flights": 6.48,
+      "weight_kg": 132.49,
+      "steps": 9889.51,
+      "walk_run_mi": 2.03,
+      "basal_energy": 2528.5,
+      "walking_speed": 3.19
+    },
+    {
+      "date": "2023-05-07",
+      "active_energy": 216.18,
+      "cycling_mi": 1.89,
+      "flights": 7.86,
+      "weight_kg": 66.8,
+      "steps": 10982.86,
+      "walk_run_mi": 5.04,
+      "basal_energy": 1099.19,
+      "walking_speed": 3.0,
+      "resting_hr": 55,
+      "hr_avg": 173
+    },
+    {
+      "date": "2023-05-14",
+      "active_energy": 297.49,
+      "cycling_mi": 0.88,
+      "flights": 7.5,
+      "weight_kg": 134.82,
+      "steps": 13979.35,
+      "walk_run_mi": 5.32,
+      "basal_energy": 1342.64,
+      "walking_speed": 1.71,
+      "resting_hr": 73,
+      "hr_avg": 92
+    },
+    {
+      "date": "2023-05-21",
+      "active_energy": 280.66,
+      "flights": 8.7,
+      "weight_kg": 122.33,
+      "steps": 6702.71,
+      "walk_run_mi": 2.47,
+      "basal_energy": 1162.94,
+      "walking_speed": 1.47
+    },
+    {
+      "date": "2023-05-28",
+      "active_energy": 479.47,
+      "flights": 65.57,
+      "weight_kg": 131.4,
+      "steps": 8351.27,
+      "walk_run_mi": 3.71,
+      "resting_hr": 49.3,
+      "basal_energy": 1213.16,
+      "walking_speed": 1.68,
+      "hr_avg": 55
+    },
+    {
+      "date": "2023-06-04",
+      "active_energy": 661.27,
+      "flights": 15.65,
+      "weight_kg": 137.64,
+      "steps": 14227.7,
+      "walk_run_mi": 6.34,
+      "resting_hr": 45.9,
+      "basal_energy": 2555.98,
+      "walking_speed": 2.94,
+      "hr_avg": 59
+    },
+    {
+      "date": "2023-06-11",
+      "active_energy": 383.14,
+      "flights": 17.17,
+      "weight_kg": 122.76,
+      "steps": 12763.92,
+      "walk_run_mi": 3.6,
+      "resting_hr": 108.4,
+      "basal_energy": 1312.7,
+      "walking_speed": 1.36,
+      "hr_avg": 54
+    },
+    {
+      "date": "2023-06-18",
+      "active_energy": 519.45,
+      "cycling_mi": 0.32,
+      "flights": 9.35,
+      "weight_kg": 70.48,
+      "steps": 17517.6,
+      "walk_run_mi": 4.91,
+      "resting_hr": 118.79,
+      "basal_energy": 1361.0,
+      "walking_speed": 1.55,
+      "hr_avg": 51
+    },
+    {
+      "date": "2023-06-25",
+      "active_energy": 1350.67,
+      "cycling_mi": 4.73,
+      "flights": 18.37,
+      "steps": 10603.72,
+      "walk_run_mi": 5.09,
+      "resting_hr": 56.48,
+      "basal_energy": 2531.22,
+      "walking_speed": 1.32,
+      "hr_avg": 127
+    },
+    {
+      "date": "2023-07-02",
+      "active_energy": 799.54,
+      "cycling_mi": 0.75,
+      "flights": 54.62,
+      "weight_kg": 63.69,
+      "steps": 12845.53,
+      "walk_run_mi": 6.43,
+      "resting_hr": 56.32,
+      "basal_energy": 1195.5,
+      "walking_speed": 2.99,
+      "hr_avg": 56
+    },
+    {
+      "date": "2023-07-09",
+      "active_energy": 539.81,
+      "cycling_mi": 1.77,
+      "flights": 35.48,
+      "weight_kg": 63.41,
+      "steps": 17091.25,
+      "walk_run_mi": 9.29,
+      "resting_hr": 104.57,
+      "basal_energy": 1323.89,
+      "walking_speed": 3.2,
+      "hr_avg": 133
+    },
+    {
+      "date": "2023-07-16",
+      "active_energy": 396.48,
+      "cycling_mi": 1.21,
+      "flights": 8.38,
+      "weight_kg": 139.72,
+      "steps": 7480.04,
+      "walk_run_mi": 3.94,
+      "resting_hr": 59.57,
+      "basal_energy": 2620.93,
+      "walking_speed": 3.33,
+      "hr_avg": 136
+    },
+    {
+      "date": "2023-07-23",
+      "active_energy": 613.19,
+      "cycling_mi": 0.3,
+      "flights": 20.93,
+      "weight_kg": 63.32,
+      "steps": 18435.55,
+      "walk_run_mi": 8.49,
+      "resting_hr": 122.5,
+      "basal_energy": 1449.58,
+      "walking_speed": 3.16,
+      "hr_avg": 183
+    },
+    {
+      "date": "2023-07-30",
+      "active_energy": 493.65,
+      "flights": 7.2,
+      "weight_kg": 56.8,
+      "steps": 4857.04,
+      "walk_run_mi": 5.55,
+      "basal_energy": 1269.25,
+      "walking_speed": 1.6
+    },
+    {
+      "date": "2023-08-06",
+      "active_energy": 325.04,
+      "flights": 25.99,
+      "weight_kg": 57.28,
+      "steps": 12893.26,
+      "walk_run_mi": 2.55,
+      "basal_energy": 2487.79,
+      "walking_speed": 3.1
+    },
+    {
+      "date": "2023-08-13",
+      "active_energy": 584.42,
+      "flights": 11.83,
+      "weight_kg": 65.08,
+      "steps": 12529.05,
+      "walk_run_mi": 2.67,
+      "basal_energy": 2605.13,
+      "walking_speed": 3.01
+    },
+    {
+      "date": "2023-08-20",
+      "active_energy": 412.98,
+      "flights": 10.85,
+      "weight_kg": 59.29,
+      "steps": 6552.3,
+      "walk_run_mi": 3.67,
+      "basal_energy": 1132.36,
+      "walking_speed": 2.96
+    },
+    {
+      "date": "2023-08-27",
+      "active_energy": 172.46,
+      "flights": 3.63,
+      "weight_kg": 60.37,
+      "steps": 4310.6,
+      "walk_run_mi": 4.0,
+      "basal_energy": 2540.65,
+      "walking_speed": 3.0
+    },
+    {
+      "date": "2023-09-03",
+      "active_energy": 273.35,
+      "cycling_mi": 0.17,
+      "flights": 11.73,
+      "weight_kg": 58.31,
+      "steps": 15535.02,
+      "walk_run_mi": 3.32,
+      "resting_hr": 154.6,
+      "basal_energy": 2568.28,
+      "walking_speed": 1.43,
+      "hr_avg": 88
+    },
+    {
+      "date": "2023-09-10",
+      "active_energy": 441.24,
+      "cycling_mi": 1.11,
+      "flights": 27.49,
+      "weight_kg": 63.37,
+      "steps": 5942.23,
+      "walk_run_mi": 6.84,
+      "resting_hr": 100.3,
+      "basal_energy": 2752.63,
+      "walking_speed": 3.14,
+      "hr_avg": 142
+    },
+    {
+      "date": "2023-09-17",
+      "active_energy": 225.39,
+      "cycling_mi": 0.74,
+      "flights": 7.99,
+      "weight_kg": 63.78,
+      "steps": 11430.5,
+      "walk_run_mi": 2.5,
+      "resting_hr": 106.9,
+      "basal_energy": 1358.97,
+      "walking_speed": 1.26,
+      "hr_avg": 52
+    },
+    {
+      "date": "2023-09-24",
+      "active_energy": 1189.27,
+      "cycling_mi": 4.35,
+      "flights": 11.38,
+      "weight_kg": 136.01,
+      "steps": 15534.5,
+      "walk_run_mi": 4.52,
+      "resting_hr": 110.0,
+      "basal_energy": 2522.47,
+      "walking_speed": 3.07,
+      "hr_avg": 54
+    },
+    {
+      "date": "2023-10-01",
+      "active_energy": 386.97,
+      "cycling_mi": 0.83,
+      "flights": 17.04,
+      "weight_kg": 126.85,
+      "steps": 13526.9,
+      "walk_run_mi": 3.5,
+      "resting_hr": 101.9,
+      "basal_energy": 2633.72,
+      "walking_speed": 1.45,
+      "hr_avg": 125
+    },
+    {
+      "date": "2023-10-08",
+      "active_energy": 519.3,
+      "cycling_mi": 2.77,
+      "flights": 25.78,
+      "weight_kg": 128.91,
+      "steps": 14910.8,
+      "walk_run_mi": 4.34,
+      "resting_hr": 53.4,
+      "basal_energy": 1306.4,
+      "walking_speed": 3.16,
+      "hr_avg": 131
+    },
+    {
+      "date": "2023-10-15",
+      "active_energy": 593.26,
+      "flights": 30.2,
+      "weight_kg": 71.85,
+      "steps": 10336.74,
+      "walk_run_mi": 9.4,
+      "basal_energy": 1478.48,
+      "walking_speed": 1.6,
+      "resting_hr": 38,
+      "hr_avg": 56
+    },
+    {
+      "date": "2023-10-22",
+      "active_energy": 157.58,
+      "flights": 7.28,
+      "weight_kg": 142.11,
+      "steps": 3753.8,
+      "walk_run_mi": 2.0,
+      "resting_hr": 94.2,
+      "basal_energy": 1448.88,
+      "walking_speed": 1.32,
+      "hr_avg": 57
+    },
+    {
+      "date": "2023-10-29",
+      "active_energy": 674.56,
+      "cycling_mi": 2.4,
+      "flights": 6.3,
+      "steps": 13932.03,
+      "walk_run_mi": 2.76,
+      "resting_hr": 58.8,
+      "basal_energy": 2629.19,
+      "walking_speed": 1.58,
+      "hr_avg": 61
+    },
+    {
+      "date": "2023-11-05",
+      "active_energy": 418.37,
+      "flights": 33.17,
+      "steps": 16310.7,
+      "walk_run_mi": 7.26,
+      "basal_energy": 1317.74,
+      "walking_speed": 1.72
+    },
+    {
+      "date": "2023-11-12",
+      "active_energy": 415.9,
+      "cycling_mi": 0.2,
+      "flights": 7.17,
+      "weight_kg": 130.57,
+      "steps": 11727.79,
+      "walk_run_mi": 2.56,
+      "resting_hr": 58.1,
+      "basal_energy": 2646.17,
+      "walking_speed": 2.91,
+      "hr_avg": 60
+    },
+    {
+      "date": "2023-11-19",
+      "active_energy": 688.66,
+      "flights": 9.92,
+      "steps": 16221.58,
+      "walk_run_mi": 6.41,
+      "basal_energy": 1512.88,
+      "walking_speed": 1.26
+    },
+    {
+      "date": "2023-11-26",
+      "active_energy": 546.55,
+      "flights": 26.81,
+      "weight_kg": 74.18,
+      "steps": 6115.39,
+      "walk_run_mi": 2.64,
+      "basal_energy": 2868.0,
+      "walking_speed": 1.23
+    },
+    {
+      "date": "2023-12-03",
+      "active_energy": 533.52,
+      "cycling_mi": 0.29,
+      "flights": 6.05,
+      "weight_kg": 56.59,
+      "steps": 12736.54,
+      "walk_run_mi": 2.93,
+      "resting_hr": 82.6,
+      "basal_energy": 1510.66,
+      "walking_speed": 1.61,
+      "hr_avg": 118
+    },
+    {
+      "date": "2023-12-10",
+      "active_energy": 387.41,
+      "cycling_mi": 1.44,
+      "flights": 29.27,
+      "weight_kg": 125.31,
+      "steps": 14886.8,
+      "walk_run_mi": 6.53,
+      "resting_hr": 119.2,
+      "basal_energy": 1494.18,
+      "walking_speed": 1.4,
+      "hr_avg": 138
+    },
+    {
+      "date": "2023-12-17",
+      "active_energy": 932.36,
+      "flights": 18.34,
+      "weight_kg": 141.18,
+      "steps": 16065.1,
+      "walk_run_mi": 7.69,
+      "basal_energy": 1348.73,
+      "walking_speed": 3.34
+    },
+    {
+      "date": "2023-12-24",
+      "active_energy": 546.57,
+      "cycling_mi": 0.51,
+      "flights": 5.37,
+      "weight_kg": 67.61,
+      "steps": 6379.94,
+      "walk_run_mi": 6.09,
+      "resting_hr": 45.9,
+      "basal_energy": 1292.68,
+      "walking_speed": 1.2,
+      "hr_avg": 110
+    },
+    {
+      "date": "2023-12-31",
+      "active_energy": 214.65,
+      "flights": 15.5,
+      "weight_kg": 126.27,
+      "steps": 1696.89,
+      "walk_run_mi": 1.36,
+      "basal_energy": 192.63,
+      "walking_speed": 1.26,
+      "resting_hr": 104,
+      "hr_avg": 132
+    },
+    {
+      "date": "2024-01-01",
+      "active_energy": 237.17,
+      "flights": 10.56,
+      "steps": 6792.49,
+      "walk_run_mi": 5.64,
+      "basal_energy": 2774.93
+    },
+    {
+      "date": "2024-01-07",
+      "weight_kg": 64.52,
+      "resting_hr": 101.5,
+      "walking_speed": 2.84
+    },
+    {
+      "date": "2024-01-08",
+      "active_energy": 594.9,
+      "cycling_mi": 1.3,
+      "flights": 5.74,
+      "steps": 14868.58,
+      "walk_run_mi": 6.0,
+      "basal_energy": 2659.83,
+      "resting_hr": 41,
+      "hr_avg": 58
+    },
+    {
+      "date": "2024-01-14",
+      "weight_kg": 67.91,
+      "resting_hr": 53.6,
+      "walking_speed": 1.58
+    },
+    {
+      "date": "2024-01-15",
+      "active_energy": 375.95,
+      "cycling_mi": 1.7,
+      "flights": 22.0,
+      "steps": 15628.12,
+      "walk_run_mi": 3.92,
+      "basal_energy": 2592.82,
+      "resting_hr": 68,
+      "hr_avg": 105
+    },
+    {
+      "date": "2024-01-21",
+      "weight_kg": 127.06,
+      "resting_hr": 121.47,
+      "walking_speed": 1.56
+    },
+    {
+      "date": "2024-01-22",
+      "active_energy": 606.76,
+      "cycling_mi": 1.32,
+      "flights": 10.9,
+      "steps": 4968.72,
+      "walk_run_mi": 5.71,
+      "basal_energy": 2830.04,
+      "resting_hr": 92,
+      "hr_avg": 138
+    },
+    {
+      "date": "2024-01-28",
+      "weight_kg": 63.41,
+      "walking_speed": 1.47
+    },
+    {
+      "date": "2024-01-29",
+      "active_energy": 294.01,
+      "flights": 9.41,
+      "steps": 13047.24,
+      "walk_run_mi": 6.1,
+      "basal_energy": 1108.62,
+      "resting_hr": 85,
+      "hr_avg": 66
+    },
+    {
+      "date": "2024-02-04",
+      "weight_kg": 129.0,
+      "walking_speed": 1.24
+    },
+    {
+      "date": "2024-02-05",
+      "active_energy": 423.22,
+      "flights": 3.5,
+      "steps": 7928.57,
+      "walk_run_mi": 5.68,
+      "basal_energy": 1229.86
+    },
+    {
+      "date": "2024-02-11",
+      "weight_kg": 134.65,
+      "resting_hr": 46.04,
+      "walking_speed": 3.06
+    },
+    {
+      "date": "2024-02-12",
+      "active_energy": 719.83,
+      "flights": 36.6,
+      "steps": 19474.3,
+      "walk_run_mi": 8.62,
+      "basal_energy": 1285.46,
+      "resting_hr": 72,
+      "hr_avg": 108
+    },
+    {
+      "date": "2024-02-18",
+      "weight_kg": 71.25,
+      "resting_hr": 88.86,
+      "walking_speed": 1.5
+    },
+    {
+      "date": "2024-02-19",
+      "active_energy": 1012.46,
+      "cycling_mi": 2.93,
+      "flights": 11.17,
+      "steps": 22965.67,
+      "walk_run_mi": 4.84,
+      "basal_energy": 2656.85,
+      "resting_hr": 24,
+      "hr_avg": 113
+    },
+    {
+      "date": "2024-02-25",
+      "weight_kg": 61.0,
+      "resting_hr": 48.5,
+      "walking_speed": 1.27
+    },
+    {
+      "date": "2024-02-26",
+      "active_energy": 843.97,
+      "cycling_mi": 1.22,
+      "flights": 9.49,
+      "steps": 10468.02,
+      "walk_run_mi": 4.33,
+      "basal_energy": 2871.47,
+      "resting_hr": 56,
+      "hr_avg": 47
+    },
+    {
+      "date": "2024-03-03",
+      "weight_kg": 68.09,
+      "resting_hr": 79.3,
+      "walking_speed": 1.51
+    },
+    {
+      "date": "2024-03-04",
+      "active_energy": 419.0,
+      "cycling_mi": 1.26,
+      "flights": 16.01,
+      "steps": 11535.81,
+      "walk_run_mi": 9.47,
+      "basal_energy": 1156.22,
+      "resting_hr": 34,
+      "hr_avg": 114
+    },
+    {
+      "date": "2024-03-10",
+      "weight_kg": 69.32,
+      "walking_speed": 1.52
+    },
+    {
+      "date": "2024-03-11",
+      "active_energy": 394.82,
+      "flights": 11.2,
+      "steps": 11486.91,
+      "walk_run_mi": 5.4,
+      "basal_energy": 1442.22
+    },
+    {
+      "date": "2024-03-17",
+      "weight_kg": 116.7,
+      "resting_hr": 84.23,
+      "walking_speed": 1.7
+    },
+    {
+      "date": "2024-03-18",
+      "active_energy": 711.4,
+      "cycling_mi": 1.82,
+      "flights": 56.11,
+      "steps": 11945.27,
+      "walk_run_mi": 13.69,
+      "basal_energy": 2823.5,
+      "resting_hr": 31,
+      "hr_avg": 106
+    },
+    {
+      "date": "2024-03-24",
+      "weight_kg": 54.69,
+      "resting_hr": 96.15,
+      "walking_speed": 1.64
+    },
+    {
+      "date": "2024-03-25",
+      "active_energy": 502.1,
+      "cycling_mi": 2.6,
+      "flights": 40.81,
+      "steps": 21968.68,
+      "walk_run_mi": 5.22,
+      "basal_energy": 1099.51,
+      "resting_hr": 34,
+      "hr_avg": 118
+    },
+    {
+      "date": "2024-03-31",
+      "weight_kg": 121.09,
+      "resting_hr": 94.6,
+      "walking_speed": 1.55
+    },
+    {
+      "date": "2024-04-01",
+      "active_energy": 1195.06,
+      "cycling_mi": 4.42,
+      "flights": 43.66,
+      "steps": 11291.24,
+      "walk_run_mi": 5.18,
+      "basal_energy": 1386.5,
+      "resting_hr": 30,
+      "hr_avg": 121
+    },
+    {
+      "date": "2024-04-07",
+      "resting_hr": 86.4,
+      "walking_speed": 1.5
+    },
+    {
+      "date": "2024-04-08",
+      "active_energy": 864.68,
+      "flights": 25.3,
+      "steps": 9141.99,
+      "walk_run_mi": 4.82,
+      "basal_energy": 1140.99,
+      "resting_hr": 81,
+      "hr_avg": 55
+    },
+    {
+      "date": "2024-04-14",
+      "weight_kg": 70.59,
+      "resting_hr": 76.2,
+      "walking_speed": 3.2
+    },
+    {
+      "date": "2024-04-15",
+      "active_energy": 561.1,
+      "flights": 17.62,
+      "steps": 17368.93,
+      "walk_run_mi": 9.18,
+      "basal_energy": 1101.78,
+      "resting_hr": 68,
+      "hr_avg": 51
+    },
+    {
+      "date": "2024-04-21",
+      "weight_kg": 128.53,
+      "resting_hr": 99.74,
+      "walking_speed": 2.98
+    },
+    {
+      "date": "2024-04-22",
+      "active_energy": 1234.22,
+      "cycling_mi": 1.34,
+      "flights": 30.83,
+      "steps": 27953.08,
+      "walk_run_mi": 5.36,
+      "basal_energy": 1300.49,
+      "resting_hr": 81,
+      "hr_avg": 105
+    },
+    {
+      "date": "2024-04-28",
+      "weight_kg": 68.68,
+      "resting_hr": 45.6,
+      "walking_speed": 2.93
+    },
+    {
+      "date": "2024-04-29",
+      "active_energy": 302.97,
+      "flights": 1.34,
+      "steps": 10243.89,
+      "walk_run_mi": 8.37,
+      "basal_energy": 1200.51,
+      "resting_hr": 68,
+      "hr_avg": 70
+    },
+    {
+      "date": "2024-05-05",
+      "walking_speed": 2.82
+    },
+    {
+      "date": "2024-05-06",
+      "active_energy": 199.0,
+      "flights": 0.4,
+      "steps": 13789.12,
+      "walk_run_mi": 2.55,
+      "basal_energy": 1345.37
+    },
+    {
+      "date": "2024-05-12",
+      "resting_hr": 53.55,
+      "walking_speed": 2.91
+    },
+    {
+      "date": "2024-05-13",
+      "active_energy": 353.53,
+      "flights": 10.22,
+      "steps": 10023.4,
+      "walk_run_mi": 4.79,
+      "basal_energy": 2747.37,
+      "resting_hr": 42,
+      "hr_avg": 116
+    },
+    {
+      "date": "2024-05-19",
+      "resting_hr": 60.3,
+      "walking_speed": 1.77
+    },
+    {
+      "date": "2024-05-20",
+      "active_energy": 1594.08,
+      "flights": 37.05,
+      "steps": 11749.8,
+      "walk_run_mi": 13.49,
+      "basal_energy": 2820.78,
+      "resting_hr": 44,
+      "hr_avg": 129
+    },
+    {
+      "date": "2024-05-26",
+      "weight_kg": 134.36,
+      "resting_hr": 89.3,
+      "walking_speed": 3.0
+    },
+    {
+      "date": "2024-05-27",
+      "active_energy": 795.72,
+      "cycling_mi": 1.5,
+      "flights": 26.68,
+      "steps": 10959.47,
+      "walk_run_mi": 13.85,
+      "basal_energy": 1374.5,
+      "resting_hr": 66,
+      "hr_avg": 49
+    },
+    {
+      "date": "2024-06-02",
+      "weight_kg": 54.7,
+      "walking_speed": 1.57
+    },
+    {
+      "date": "2024-06-03",
+      "active_energy": 272.87,
+      "flights": 6.25,
+      "steps": 8614.46,
+      "walk_run_mi": 7.92,
+      "basal_energy": 2848.3,
+      "resting_hr": 40,
+      "hr_avg": 94
+    },
+    {
+      "date": "2024-06-09",
+      "weight_kg": 122.12,
+      "resting_hr": 108.37,
+      "walking_speed": 3.0
+    },
+    {
+      "date": "2024-06-10",
+      "active_energy": 1259.76,
+      "flights": 23.86,
+      "steps": 23706.42,
+      "walk_run_mi": 12.08,
+      "basal_energy": 2888.47,
+      "resting_hr": 66,
+      "hr_avg": 58
+    },
+    {
+      "date": "2024-06-16",
+      "weight_kg": 136.18,
+      "resting_hr": 106.3,
+      "walking_speed": 3.08
+    },
+    {
+      "date": "2024-06-17",
+      "active_energy": 1659.5,
+      "cycling_mi": 4.26,
+      "flights": 121.95,
+      "steps": 26209.17,
+      "walk_run_mi": 12.66,
+      "basal_energy": 1376.77,
+      "resting_hr": 28,
+      "hr_avg": 110
+    },
+    {
+      "date": "2024-06-23",
+      "resting_hr": 47.3,
+      "walking_speed": 3.0
+    },
+    {
+      "date": "2024-06-24",
+      "active_energy": 1445.68,
+      "cycling_mi": 1.67,
+      "flights": 32.3,
+      "steps": 24919.7,
+      "walk_run_mi": 12.06,
+      "basal_energy": 1171.46,
+      "resting_hr": 82,
+      "hr_avg": 81
+    },
+    {
+      "date": "2024-06-30",
+      "weight_kg": 122.33,
+      "resting_hr": 91.2,
+      "walking_speed": 1.65
+    },
+    {
+      "date": "2024-07-01",
+      "active_energy": 886.0,
+      "cycling_mi": 0.15,
+      "flights": 16.78,
+      "steps": 7698.6,
+      "walk_run_mi": 3.8,
+      "basal_energy": 2832.04,
+      "resting_hr": 78,
+      "hr_avg": 147
+    },
+    {
+      "date": "2024-07-07",
+      "weight_kg": 70.9,
+      "resting_hr": 63.7,
+      "walking_speed": 1.41
+    },
+    {
+      "date": "2024-07-08",
+      "active_energy": 883.5,
+      "flights": 20.22,
+      "steps": 17069.17,
+      "walk_run_mi": 3.96,
+      "basal_energy": 2679.87,
+      "resting_hr": 36,
+      "hr_avg": 63
+    },
+    {
+      "date": "2024-07-14",
+      "weight_kg": 59.07,
+      "resting_hr": 57.76,
+      "walking_speed": 1.59
+    },
+    {
+      "date": "2024-07-15",
+      "active_energy": 898.92,
+      "cycling_mi": 0.24,
+      "flights": 21.35,
+      "steps": 7546.46,
+      "walk_run_mi": 8.9,
+      "basal_energy": 1188.16,
+      "resting_hr": 34,
+      "hr_avg": 73
+    },
+    {
+      "date": "2024-07-21",
+      "weight_kg": 122.24,
+      "resting_hr": 45.5,
+      "walking_speed": 3.39
+    },
+    {
+      "date": "2024-07-22",
+      "active_energy": 981.33,
+      "cycling_mi": 1.5,
+      "flights": 13.27,
+      "steps": 9982.6,
+      "walk_run_mi": 9.34,
+      "basal_energy": 1110.8,
+      "resting_hr": 71,
+      "hr_avg": 129
+    },
+    {
+      "date": "2024-07-28",
+      "weight_kg": 135.18,
+      "resting_hr": 57.4,
+      "walking_speed": 1.31
+    },
+    {
+      "date": "2024-07-29",
+      "active_energy": 836.51,
+      "cycling_mi": 1.4,
+      "flights": 14.5,
+      "steps": 16796.17,
+      "walk_run_mi": 7.6,
+      "basal_energy": 1461.1,
+      "resting_hr": 75,
+      "hr_avg": 112
+    },
+    {
+      "date": "2024-08-04",
+      "weight_kg": 65.56,
+      "resting_hr": 101.5,
+      "walking_speed": 3.1
+    },
+    {
+      "date": "2024-08-05",
+      "active_energy": 413.5,
+      "flights": 32.9,
+      "steps": 9959.87,
+      "walk_run_mi": 4.2,
+      "basal_energy": 2738.63,
+      "resting_hr": 77,
+      "hr_avg": 123
+    },
+    {
+      "date": "2024-08-11",
+      "weight_kg": 122.34,
+      "walking_speed": 1.31
+    },
+    {
+      "date": "2024-08-12",
+      "active_energy": 344.64,
+      "flights": 9.05,
+      "steps": 8508.2,
+      "walk_run_mi": 7.55,
+      "basal_energy": 1093.1
+    },
+    {
+      "date": "2024-08-18",
+      "weight_kg": 128.42,
+      "walking_speed": 3.19
+    },
+    {
+      "date": "2024-08-19",
+      "active_energy": 738.1,
+      "flights": 23.7,
+      "steps": 15706.0,
+      "walk_run_mi": 6.76,
+      "basal_energy": 2534.99
+    },
+    {
+      "date": "2024-08-25",
+      "resting_hr": 93.5,
+      "walking_speed": 3.2
+    },
+    {
+      "date": "2024-08-26",
+      "active_energy": 941.7,
+      "cycling_mi": 5.1,
+      "flights": 24.3,
+      "steps": 10111.4,
+      "walk_run_mi": 4.34,
+      "basal_energy": 2509.48,
+      "resting_hr": 75,
+      "hr_avg": 110
+    },
+    {
+      "date": "2024-09-01",
+      "weight_kg": 113.61,
+      "resting_hr": 51.8,
+      "walking_speed": 3.21
+    },
+    {
+      "date": "2024-09-02",
+      "active_energy": 525.76,
+      "flights": 11.17,
+      "steps": 22606.5,
+      "walk_run_mi": 10.67,
+      "basal_energy": 2618.5
+    },
+    {
+      "date": "2024-09-08",
+      "weight_kg": 125.78,
+      "resting_hr": 119.5,
+      "walking_speed": 1.33
+    },
+    {
+      "date": "2024-09-09",
+      "active_energy": 555.27,
+      "cycling_mi": 3.3,
+      "flights": 49.03,
+      "steps": 11507.35,
+      "walk_run_mi": 10.5,
+      "basal_energy": 1387.4,
+      "resting_hr": 71,
+      "hr_avg": 135
+    },
+    {
+      "date": "2024-09-15",
+      "weight_kg": 52.41,
+      "resting_hr": 46.2,
+      "walking_speed": 2.93
+    },
+    {
+      "date": "2024-09-16",
+      "active_energy": 660.57,
+      "flights": 7.72,
+      "steps": 7545.49,
+      "walk_run_mi": 7.48,
+      "basal_energy": 2546.09
+    },
+    {
+      "date": "2024-09-22",
+      "weight_kg": 65.06,
+      "walking_speed": 1.5
+    },
+    {
+      "date": "2024-09-23",
+      "active_energy": 699.47,
+      "flights": 3.68,
+      "steps": 8511.0,
+      "walk_run_mi": 3.77,
+      "basal_energy": 1077.52
+    },
+    {
+      "date": "2024-09-29",
+      "weight_kg": 51.31,
+      "resting_hr": 42.67,
+      "walking_speed": 3.19
+    },
+    {
+      "date": "2024-09-30",
+      "active_energy": 955.85,
+      "cycling_mi": 6.72,
+      "flights": 37.91,
+      "steps": 18297.44,
+      "walk_run_mi": 8.14,
+      "basal_energy": 2707.13,
+      "resting_hr": 32,
+      "hr_avg": 59
+    },
+    {
+      "date": "2024-10-06",
+      "weight_kg": 63.5,
+      "resting_hr": 41.4,
+      "walking_speed": 2.89
+    },
+    {
+      "date": "2024-10-07",
+      "active_energy": 748.31,
+      "flights": 12.91,
+      "steps": 8708.74,
+      "walk_run_mi": 7.84,
+      "basal_energy": 1067.39,
+      "resting_hr": 70,
+      "hr_avg": 61
+    },
+    {
+      "date": "2024-10-13",
+      "resting_hr": 103.09,
+      "walking_speed": 1.24
+    },
+    {
+      "date": "2024-10-14",
+      "active_energy": 344.8,
+      "cycling_mi": 9.73,
+      "flights": 18.29,
+      "steps": 7121.93,
+      "walk_run_mi": 6.3,
+      "basal_energy": 2490.78,
+      "resting_hr": 63,
+      "hr_avg": 118
+    },
+    {
+      "date": "2024-10-20",
+      "walking_speed": 1.42
+    },
+    {
+      "date": "2024-10-21",
+      "active_energy": 921.46,
+      "flights": 34.52,
+      "steps": 9043.5,
+      "walk_run_mi": 8.53,
+      "basal_energy": 1388.4
+    },
+    {
+      "date": "2024-10-27",
+      "weight_kg": 66.1,
+      "resting_hr": 102.4,
+      "walking_speed": 2.65
+    },
+    {
+      "date": "2024-10-28",
+      "active_energy": 251.34,
+      "cycling_mi": 4.07,
+      "flights": 19.44,
+      "steps": 7580.44,
+      "walk_run_mi": 2.7,
+      "basal_energy": 1188.3,
+      "resting_hr": 74,
+      "hr_avg": 47
+    },
+    {
+      "date": "2024-11-03",
+      "resting_hr": 115.6,
+      "walking_speed": 1.38
+    },
+    {
+      "date": "2024-11-04",
+      "active_energy": 939.49,
+      "cycling_mi": 4.82,
+      "flights": 44.89,
+      "steps": 8768.48,
+      "walk_run_mi": 3.75,
+      "basal_energy": 2548.29,
+      "resting_hr": 89,
+      "hr_avg": 73
+    },
+    {
+      "date": "2024-11-10",
+      "weight_kg": 55.06,
+      "resting_hr": 39.62,
+      "walking_speed": 1.66
+    },
+    {
+      "date": "2024-11-11",
+      "active_energy": 346.41,
+      "cycling_mi": 5.09,
+      "flights": 13.92,
+      "steps": 7269.49,
+      "walk_run_mi": 2.84,
+      "basal_energy": 1067.33,
+      "resting_hr": 37,
+      "hr_avg": 137
+    },
+    {
+      "date": "2024-11-17",
+      "weight_kg": 118.75,
+      "resting_hr": 101.5,
+      "walking_speed": 2.96
+    },
+    {
+      "date": "2024-11-18",
+      "active_energy": 384.72,
+      "cycling_mi": 1.33,
+      "flights": 20.82,
+      "steps": 16151.31,
+      "walk_run_mi": 8.1,
+      "basal_energy": 1264.32,
+      "resting_hr": 35,
+      "hr_avg": 53
+    },
+    {
+      "date": "2024-11-24",
+      "weight_kg": 128.68,
+      "walking_speed": 2.86
+    },
+    {
+      "date": "2024-11-25",
+      "active_energy": 615.97,
+      "flights": 32.5,
+      "steps": 21972.72,
+      "walk_run_mi": 5.01,
+      "basal_energy": 1347.63
+    },
+    {
+      "date": "2024-12-01",
+      "walking_speed": 1.62
+    },
+    {
+      "date": "2024-12-02",
+      "active_energy": 537.87,
+      "flights": 24.0,
+      "steps": 21800.79,
+      "walk_run_mi": 10.26,
+      "basal_energy": 1314.8
+    },
+    {
+      "date": "2024-12-08",
+      "weight_kg": 56.41,
+      "walking_speed": 3.1
+    },
+    {
+      "date": "2024-12-09",
+      "active_energy": 341.07,
+      "flights": 21.14,
+      "steps": 8187.89,
+      "walk_run_mi": 3.21,
+      "basal_energy": 2420.21,
+      "resting_hr": 38,
+      "hr_avg": 57
+    },
+    {
+      "date": "2024-12-15",
+      "weight_kg": 65.58,
+      "resting_hr": 41.7,
+      "walking_speed": 1.47
+    },
+    {
+      "date": "2024-12-16",
+      "active_energy": 465.0,
+      "flights": 18.12,
+      "steps": 16317.5,
+      "walk_run_mi": 9.19,
+      "basal_energy": 1108.12,
+      "resting_hr": 62,
+      "hr_avg": 101
+    },
+    {
+      "date": "2024-12-22",
+      "weight_kg": 65.76,
+      "resting_hr": 78.26,
+      "walking_speed": 1.33
+    },
+    {
+      "date": "2024-12-23",
+      "active_energy": 322.18,
+      "flights": 14.69,
+      "steps": 19419.37,
+      "walk_run_mi": 4.8,
+      "basal_energy": 1153.52,
+      "resting_hr": 61,
+      "hr_avg": 103
+    },
+    {
+      "date": "2024-12-29",
+      "weight_kg": 65.66,
+      "walking_speed": 2.9
+    },
+    {
+      "date": "2024-12-30",
+      "active_energy": 243.72,
+      "flights": 4.24,
+      "steps": 2867.82,
+      "walk_run_mi": 1.17,
+      "basal_energy": 775.26
+    },
+    {
+      "date": "2025-01-01",
+      "active_energy": 662.04,
+      "flights": 9.35,
+      "steps": 14106.7,
+      "walk_run_mi": 6.82,
+      "basal_energy": 1259.79
+    },
+    {
+      "date": "2025-01-05",
+      "resting_hr": 43.8,
+      "walking_speed": 1.52
+    },
+    {
+      "date": "2025-01-08",
+      "active_energy": 812.5,
+      "cycling_mi": 2.65,
+      "flights": 24.7,
+      "steps": 8452.8,
+      "walk_run_mi": 7.74,
+      "basal_energy": 1179.88,
+      "resting_hr": 71,
+      "hr_avg": 113
+    },
+    {
+      "date": "2025-01-12",
+      "resting_hr": 45.1,
+      "walking_speed": 1.41
+    },
+    {
+      "date": "2025-01-15",
+      "active_energy": 466.34,
+      "cycling_mi": 1.35,
+      "flights": 18.11,
+      "steps": 12313.97,
+      "walk_run_mi": 2.89,
+      "basal_energy": 1208.72,
+      "resting_hr": 31,
+      "hr_avg": 50
+    },
+    {
+      "date": "2025-01-19",
+      "resting_hr": 51.8,
+      "walking_speed": 1.4
+    },
+    {
+      "date": "2025-01-22",
+      "active_energy": 583.39,
+      "cycling_mi": 1.33,
+      "flights": 11.77,
+      "steps": 13740.88,
+      "walk_run_mi": 5.6,
+      "basal_energy": 1360.54,
+      "resting_hr": 41,
+      "hr_avg": 138
+    },
+    {
+      "date": "2025-01-26",
+      "walking_speed": 1.11
+    },
+    {
+      "date": "2025-01-29",
+      "active_energy": 350.44,
+      "cycling_mi": 0.0,
+      "flights": 3.88,
+      "steps": 6116.5,
+      "walk_run_mi": 2.12,
+      "basal_energy": 1319.06
+    },
+    {
+      "date": "2025-02-02",
+      "walking_speed": 1.48
+    },
+    {
+      "date": "2025-02-05",
+      "active_energy": 338.8,
+      "flights": 3.21,
+      "steps": 9321.98,
+      "walk_run_mi": 4.27,
+      "basal_energy": 1054.08,
+      "resting_hr": 107,
+      "hr_avg": 82
+    },
+    {
+      "date": "2025-02-09",
+      "walking_speed": 1.62
+    },
+    {
+      "date": "2025-02-12",
+      "active_energy": 398.4,
+      "flights": 4.43,
+      "steps": 6471.68,
+      "walk_run_mi": 2.52,
+      "basal_energy": 2442.89
+    },
+    {
+      "date": "2025-02-16",
+      "weight_kg": 128.37,
+      "walking_speed": 1.3
+    },
+    {
+      "date": "2025-02-19",
+      "active_energy": 308.88,
+      "flights": 9.46,
+      "steps": 14114.26,
+      "walk_run_mi": 3.66,
+      "basal_energy": 1101.11
+    },
+    {
+      "date": "2025-02-23",
+      "resting_hr": 94.12,
+      "walking_speed": 1.57
+    },
+    {
+      "date": "2025-02-26",
+      "active_energy": 860.67,
+      "flights": 21.86,
+      "steps": 21462.28,
+      "walk_run_mi": 12.1,
+      "basal_energy": 2528.89,
+      "resting_hr": 75,
+      "hr_avg": 120
+    },
+    {
+      "date": "2025-03-02",
+      "resting_hr": 44.6,
+      "walking_speed": 3.37
+    },
+    {
+      "date": "2025-03-05",
+      "active_energy": 450.69,
+      "flights": 13.12,
+      "steps": 8569.41,
+      "walk_run_mi": 4.57,
+      "basal_energy": 2467.23,
+      "resting_hr": 41,
+      "hr_avg": 123
+    },
+    {
+      "date": "2025-03-09",
+      "weight_kg": 126.14,
+      "walking_speed": 2.85
+    },
+    {
+      "date": "2025-03-12",
+      "active_energy": 221.01,
+      "flights": 2.32,
+      "steps": 11475.36,
+      "walk_run_mi": 5.78,
+      "basal_energy": 2730.0
+    },
+    {
+      "date": "2025-03-16",
+      "walking_speed": 1.48
+    },
+    {
+      "date": "2025-03-19",
+      "active_energy": 284.93,
+      "flights": 4.9,
+      "steps": 5139.56,
+      "walk_run_mi": 1.93,
+      "basal_energy": 1078.73
+    },
+    {
+      "date": "2025-03-23",
+      "walking_speed": 2.79
+    },
+    {
+      "date": "2025-03-26",
+      "active_energy": 330.94,
+      "flights": 4.47,
+      "steps": 4413.28,
+      "walk_run_mi": 2.0,
+      "basal_energy": 2722.77
+    },
+    {
+      "date": "2025-03-30",
+      "weight_kg": 134.46,
+      "walking_speed": 2.66
+    },
+    {
+      "date": "2025-04-02",
+      "active_energy": 344.07,
+      "flights": 2.96,
+      "steps": 11169.0,
+      "walk_run_mi": 2.36,
+      "basal_energy": 1401.0
+    },
+    {
+      "date": "2025-04-06",
+      "weight_kg": 61.48,
+      "walking_speed": 1.5
+    },
+    {
+      "date": "2025-04-09",
+      "active_energy": 379.91,
+      "flights": 5.51,
+      "steps": 11823.21,
+      "walk_run_mi": 5.18,
+      "basal_energy": 1286.4
+    },
+    {
+      "date": "2025-04-13",
+      "weight_kg": 56.79,
+      "walking_speed": 1.3
+    },
+    {
+      "date": "2025-04-16",
+      "active_energy": 350.43,
+      "flights": 4.1,
+      "steps": 6236.62,
+      "walk_run_mi": 2.26,
+      "basal_energy": 1205.91
+    },
+    {
+      "date": "2025-04-20",
+      "weight_kg": 122.0,
+      "walking_speed": 3.0
+    },
+    {
+      "date": "2025-04-23",
+      "active_energy": 260.8,
+      "flights": 8.17,
+      "steps": 7104.71,
+      "walk_run_mi": 3.08,
+      "basal_energy": 2606.61
+    },
+    {
+      "date": "2025-04-27",
+      "weight_kg": 58.92,
+      "walking_speed": 2.79
+    },
+    {
+      "date": "2025-04-30",
+      "active_energy": 776.93,
+      "cycling_mi": 0.44,
+      "flights": 14.19,
+      "steps": 17278.07,
+      "walk_run_mi": 3.58,
+      "basal_energy": 1418.13,
+      "resting_hr": 102,
+      "hr_avg": 57
+    },
+    {
+      "date": "2025-05-04",
+      "resting_hr": 49.6,
+      "walking_speed": 2.85
+    },
+    {
+      "date": "2025-05-07",
+      "active_energy": 441.77,
+      "cycling_mi": 2.66,
+      "flights": 20.55,
+      "steps": 16820.43,
+      "walk_run_mi": 10.18,
+      "basal_energy": 1365.23,
+      "resting_hr": 84,
+      "hr_avg": 55
+    },
+    {
+      "date": "2025-05-11",
+      "resting_hr": 106.1,
+      "walking_speed": 3.23
+    },
+    {
+      "date": "2025-05-14",
+      "active_energy": 994.73,
+      "cycling_mi": 3.45,
+      "flights": 37.26,
+      "steps": 9413.06,
+      "walk_run_mi": 4.63,
+      "basal_energy": 2800.1,
+      "resting_hr": 40,
+      "hr_avg": 50
+    },
+    {
+      "date": "2025-05-18",
+      "resting_hr": 91.4,
+      "walking_speed": 3.04
+    },
+    {
+      "date": "2025-05-21",
+      "active_energy": 808.87,
+      "cycling_mi": 8.63,
+      "flights": 32.3,
+      "steps": 13833.2,
+      "walk_run_mi": 7.47,
+      "basal_energy": 1113.4,
+      "resting_hr": 65,
+      "hr_avg": 117
+    },
+    {
+      "date": "2025-05-25",
+      "resting_hr": 80.4,
+      "walking_speed": 3.14
+    },
+    {
+      "date": "2025-05-28",
+      "active_energy": 323.13,
+      "flights": 6.36,
+      "steps": 6096.24,
+      "walk_run_mi": 3.77,
+      "basal_energy": 2595.69
+    },
+    {
+      "date": "2025-06-01",
+      "walking_speed": 3.14
+    },
+    {
+      "date": "2025-06-04",
+      "active_energy": 666.63,
+      "flights": 27.59,
+      "steps": 11284.8,
+      "walk_run_mi": 9.45,
+      "basal_energy": 2531.66,
+      "resting_hr": 86,
+      "hr_avg": 61
+    },
+    {
+      "date": "2025-06-08",
+      "resting_hr": 106.0,
+      "walking_speed": 3.13
+    },
+    {
+      "date": "2025-06-11",
+      "active_energy": 593.38,
+      "cycling_mi": 3.06,
+      "flights": 26.06,
+      "steps": 11376.44,
+      "walk_run_mi": 4.62,
+      "basal_energy": 2577.62,
+      "resting_hr": 34,
+      "hr_avg": 140
+    },
+    {
+      "date": "2025-06-15",
+      "resting_hr": 111.2,
+      "walking_speed": 1.27
+    },
+    {
+      "date": "2025-06-18",
+      "active_energy": 742.5,
+      "cycling_mi": 7.65,
+      "flights": 69.28,
+      "steps": 22979.88,
+      "walk_run_mi": 6.6,
+      "basal_energy": 2830.63,
+      "resting_hr": 36,
+      "hr_avg": 121
+    },
+    {
+      "date": "2025-06-22",
+      "resting_hr": 54.66,
+      "walking_speed": 1.35
+    },
+    {
+      "date": "2025-06-25",
+      "active_energy": 2099.15,
+      "cycling_mi": 18.2,
+      "flights": 104.9,
+      "steps": 28305.73,
+      "walk_run_mi": 15.41,
+      "basal_energy": 1352.88,
+      "resting_hr": 80,
+      "hr_avg": 63
+    },
+    {
+      "date": "2025-06-29",
+      "resting_hr": 50.4,
+      "walking_speed": 1.6
+    },
+    {
+      "date": "2025-07-02",
+      "active_energy": 1311.1,
+      "cycling_mi": 6.28,
+      "flights": 32.25,
+      "steps": 22102.5,
+      "walk_run_mi": 5.59,
+      "basal_energy": 1345.0,
+      "resting_hr": 41,
+      "hr_avg": 59
+    },
+    {
+      "date": "2025-07-06",
+      "resting_hr": 51.56,
+      "walking_speed": 3.22
+    },
+    {
+      "date": "2025-07-09",
+      "active_energy": 1386.4,
+      "cycling_mi": 5.45,
+      "flights": 61.94,
+      "steps": 9359.87,
+      "walk_run_mi": 10.07,
+      "basal_energy": 2490.11,
+      "resting_hr": 74,
+      "hr_avg": 136
+    },
+    {
+      "date": "2025-07-13",
+      "resting_hr": 53.4,
+      "walking_speed": 3.11
+    },
+    {
+      "date": "2025-07-16",
+      "active_energy": 738.94,
+      "cycling_mi": 3.46,
+      "flights": 70.97,
+      "steps": 10033.47,
+      "walk_run_mi": 5.63,
+      "basal_energy": 2771.51,
+      "resting_hr": 70,
+      "hr_avg": 49
+    },
+    {
+      "date": "2025-07-20",
+      "resting_hr": 40.65,
+      "walking_speed": 1.8
+    },
+    {
+      "date": "2025-07-23",
+      "active_energy": 1703.44,
+      "cycling_mi": 1.42,
+      "flights": 77.88,
+      "steps": 23047.11,
+      "walk_run_mi": 12.82,
+      "basal_energy": 1342.92,
+      "resting_hr": 69,
+      "hr_avg": 59
+    },
+    {
+      "date": "2025-07-27",
+      "resting_hr": 39.04,
+      "walking_speed": 1.68
+    },
+    {
+      "date": "2025-07-30",
+      "active_energy": 1518.88,
+      "cycling_mi": 17.19,
+      "flights": 61.71,
+      "steps": 9657.4,
+      "walk_run_mi": 11.13,
+      "basal_energy": 1302.53,
+      "resting_hr": 37,
+      "hr_avg": 61
+    },
+    {
+      "date": "2025-08-03",
+      "resting_hr": 46.23,
+      "walking_speed": 3.09
+    },
+    {
+      "date": "2025-08-06",
+      "active_energy": 787.3,
+      "cycling_mi": 15.48,
+      "flights": 48.52,
+      "steps": 19260.8,
+      "walk_run_mi": 8.81,
+      "basal_energy": 1246.92,
+      "resting_hr": 78,
+      "hr_avg": 142
+    },
+    {
+      "date": "2025-08-10",
+      "resting_hr": 95.0,
+      "walking_speed": 1.66
+    },
+    {
+      "date": "2025-08-13",
+      "active_energy": 1390.7,
+      "cycling_mi": 7.76,
+      "flights": 26.2,
+      "steps": 21460.28,
+      "walk_run_mi": 11.71,
+      "basal_energy": 2789.02,
+      "resting_hr": 32,
+      "hr_avg": 56
+    },
+    {
+      "date": "2025-08-17",
+      "resting_hr": 42.34,
+      "walking_speed": 1.42
+    },
+    {
+      "date": "2025-08-20",
+      "active_energy": 795.1,
+      "cycling_mi": 7.0,
+      "flights": 57.0,
+      "steps": 12184.77,
+      "walk_run_mi": 6.5,
+      "basal_energy": 2825.3,
+      "resting_hr": 64,
+      "hr_avg": 113
+    },
+    {
+      "date": "2025-08-24",
+      "resting_hr": 98.4,
+      "walking_speed": 1.48
+    },
+    {
+      "date": "2025-08-27",
+      "active_energy": 1379.06,
+      "cycling_mi": 5.4,
+      "flights": 47.36,
+      "steps": 19452.67,
+      "walk_run_mi": 9.89,
+      "basal_energy": 1102.62,
+      "resting_hr": 35,
+      "hr_avg": 120
+    },
+    {
+      "date": "2025-08-31",
+      "resting_hr": 90.79,
+      "walking_speed": 1.63
+    },
+    {
+      "date": "2025-09-03",
+      "active_energy": 730.59,
+      "cycling_mi": 22.97,
+      "flights": 45.67,
+      "steps": 12034.2,
+      "walk_run_mi": 10.8,
+      "basal_energy": 2778.35,
+      "resting_hr": 29,
+      "hr_avg": 112
+    },
+    {
+      "date": "2025-09-07",
+      "resting_hr": 91.22,
+      "walking_speed": 3.07
+    },
+    {
+      "date": "2025-09-10",
+      "active_energy": 713.68,
+      "cycling_mi": 12.12,
+      "flights": 49.69,
+      "steps": 19347.86,
+      "walk_run_mi": 4.41,
+      "basal_energy": 2500.85,
+      "resting_hr": 36,
+      "hr_avg": 53
+    },
+    {
+      "date": "2025-09-14",
+      "resting_hr": 54.55,
+      "walking_speed": 1.3
+    },
+    {
+      "date": "2025-09-17",
+      "active_energy": 1862.53,
+      "cycling_mi": 20.21,
+      "flights": 112.56,
+      "steps": 11266.84,
+      "walk_run_mi": 12.92,
+      "basal_energy": 2615.37,
+      "resting_hr": 25,
+      "hr_avg": 123
+    },
+    {
+      "date": "2025-09-21",
+      "resting_hr": 41.7,
+      "walking_speed": 1.4,
+      "respiratory": 9.68
+    },
+    {
+      "date": "2025-09-24",
+      "active_energy": 454.95,
+      "cycling_mi": 11.8,
+      "flights": 22.63,
+      "steps": 8764.2,
+      "walk_run_mi": 8.44,
+      "basal_energy": 1292.7,
+      "resting_hr": 32,
+      "hr_avg": 39
+    },
+    {
+      "date": "2025-09-28",
+      "resting_hr": 40.6,
+      "walking_speed": 1.27,
+      "respiratory": 8.81
+    },
+    {
+      "date": "2025-10-01",
+      "active_energy": 1118.16,
+      "cycling_mi": 2.91,
+      "flights": 25.13,
+      "steps": 20888.2,
+      "walk_run_mi": 4.74,
+      "basal_energy": 1419.27,
+      "resting_hr": 30,
+      "hr_avg": 89
+    },
+    {
+      "date": "2025-10-05",
+      "walking_speed": 3.09,
+      "respiratory": 20.95
+    },
+    {
+      "date": "2025-10-08",
+      "active_energy": 465.58,
+      "flights": 46.73,
+      "steps": 10192.4,
+      "walk_run_mi": 4.1,
+      "basal_energy": 1137.82,
+      "resting_hr": 64,
+      "hr_avg": 38
+    },
+    {
+      "date": "2025-10-12",
+      "walking_speed": 3.0,
+      "respiratory": 10.63
+    },
+    {
+      "date": "2025-10-15",
+      "active_energy": 1236.02,
+      "cycling_mi": 7.36,
+      "flights": 24.29,
+      "steps": 18249.79,
+      "walk_run_mi": 8.64,
+      "basal_energy": 2488.01,
+      "resting_hr": 30,
+      "hr_avg": 86
+    },
+    {
+      "date": "2025-10-19",
+      "resting_hr": 62.76,
+      "walking_speed": 1.3,
+      "respiratory": 20.04
+    },
+    {
+      "date": "2025-10-22",
+      "active_energy": 1240.9,
+      "cycling_mi": 2.26,
+      "flights": 38.9,
+      "steps": 9768.7,
+      "walk_run_mi": 9.6,
+      "basal_energy": 1141.07,
+      "resting_hr": 65,
+      "hr_avg": 92
+    },
+    {
+      "date": "2025-10-26",
+      "resting_hr": 57.1,
+      "walking_speed": 1.4,
+      "respiratory": 19.8
+    },
+    {
+      "date": "2025-10-29",
+      "active_energy": 928.69,
+      "flights": 24.07,
+      "steps": 8313.2,
+      "walk_run_mi": 2.7,
+      "basal_energy": 1177.7,
+      "resting_hr": 66,
+      "hr_avg": 90
+    },
+    {
+      "date": "2025-11-02",
+      "walking_speed": 1.57,
+      "respiratory": 11.57
+    },
+    {
+      "date": "2025-11-05",
+      "active_energy": 535.86,
+      "flights": 24.45,
+      "steps": 19574.17,
+      "walk_run_mi": 8.11,
+      "basal_energy": 2689.87,
+      "resting_hr": 31,
+      "hr_avg": 45
+    },
+    {
+      "date": "2025-11-09",
+      "walking_speed": 1.37,
+      "respiratory": 19.26
+    },
+    {
+      "date": "2025-11-12",
+      "active_energy": 461.87,
+      "cycling_mi": 2.6,
+      "flights": 74.46,
+      "steps": 17403.92,
+      "walk_run_mi": 7.9,
+      "basal_energy": 2490.51,
+      "resting_hr": 27,
+      "hr_avg": 88
+    },
+    {
+      "date": "2025-11-16",
+      "weight_kg": 56.56,
+      "walking_speed": 2.84,
+      "respiratory": 20.71
+    },
+    {
+      "date": "2025-11-19",
+      "active_energy": 955.58,
+      "flights": 10.63,
+      "steps": 17575.0,
+      "walk_run_mi": 3.72,
+      "basal_energy": 1303.18,
+      "resting_hr": 35,
+      "hr_avg": 79
+    },
+    {
+      "date": "2025-11-23",
+      "resting_hr": 45.5,
+      "walking_speed": 3.17,
+      "respiratory": 8.63
+    },
+    {
+      "date": "2025-11-26",
+      "active_energy": 1084.29,
+      "cycling_mi": 7.73,
+      "flights": 24.99,
+      "steps": 10448.5,
+      "walk_run_mi": 4.33,
+      "basal_energy": 2693.09,
+      "resting_hr": 66,
+      "hr_avg": 38
+    },
+    {
+      "date": "2025-11-30",
+      "resting_hr": 49.7,
+      "walking_speed": 1.42,
+      "respiratory": 21.0
+    },
+    {
+      "date": "2025-12-03",
+      "active_energy": 457.41,
+      "cycling_mi": 3.35,
+      "flights": 35.97,
+      "steps": 19011.1,
+      "walk_run_mi": 7.79,
+      "basal_energy": 2579.91,
+      "resting_hr": 31,
+      "hr_avg": 90
+    },
+    {
+      "date": "2025-12-07",
+      "resting_hr": 118.5,
+      "walking_speed": 2.79,
+      "respiratory": 19.41
+    },
+    {
+      "date": "2025-12-10",
+      "active_energy": 758.29,
+      "cycling_mi": 2.11,
+      "flights": 13.28,
+      "steps": 7757.6,
+      "walk_run_mi": 5.0,
+      "basal_energy": 1181.17,
+      "resting_hr": 31,
+      "hr_avg": 86
+    },
+    {
+      "date": "2025-12-14",
+      "resting_hr": 92.12,
+      "walking_speed": 1.36,
+      "respiratory": 19.09
+    },
+    {
+      "date": "2025-12-17",
+      "active_energy": 377.65,
+      "cycling_mi": 0.9,
+      "flights": 31.09,
+      "steps": 17004.27,
+      "walk_run_mi": 4.01,
+      "basal_energy": 1384.97,
+      "resting_hr": 68,
+      "hr_avg": 86
+    },
+    {
+      "date": "2025-12-21",
+      "resting_hr": 96.82,
+      "walking_speed": 1.4,
+      "respiratory": 20.9
+    },
+    {
+      "date": "2025-12-24",
+      "active_energy": 756.03,
+      "flights": 11.49,
+      "steps": 20016.29,
+      "walk_run_mi": 3.23,
+      "basal_energy": 1358.69,
+      "resting_hr": 65,
+      "hr_avg": 88
+    },
+    {
+      "date": "2025-12-28",
+      "weight_kg": 74.18,
+      "walking_speed": 3.09,
+      "respiratory": 19.64
+    },
+    {
+      "date": "2025-12-31",
+      "active_energy": 35.5,
+      "flights": 1.56,
+      "steps": 863.68,
+      "walk_run_mi": 0.74,
+      "basal_energy": 356.95,
+      "resting_hr": 73,
+      "hr_avg": 96
+    },
+    {
+      "date": "2026-01-01",
+      "active_energy": 257.56,
+      "flights": 3.07,
+      "steps": 6773.32,
+      "walk_run_mi": 6.5,
+      "basal_energy": 2833.21,
+      "resting_hr": 61,
+      "hr_avg": 44
+    },
+    {
+      "date": "2026-01-04",
+      "resting_hr": 52.1,
+      "walking_speed": 2.79,
+      "respiratory": 18.53
+    },
+    {
+      "date": "2026-01-08",
+      "active_energy": 438.25,
+      "cycling_mi": 13.8,
+      "flights": 22.29,
+      "steps": 14281.6,
+      "walk_run_mi": 3.49,
+      "basal_energy": 2798.24,
+      "resting_hr": 31,
+      "hr_avg": 83
+    },
+    {
+      "date": "2026-01-11",
+      "resting_hr": 48.74,
+      "walking_speed": 2.96,
+      "respiratory": 18.5
+    },
+    {
+      "date": "2026-01-15",
+      "active_energy": 836.75,
+      "cycling_mi": 5.41,
+      "flights": 9.12,
+      "steps": 14746.82,
+      "walk_run_mi": 6.67,
+      "basal_energy": 2508.1,
+      "resting_hr": 64,
+      "hr_avg": 85
+    },
+    {
+      "date": "2026-01-18",
+      "resting_hr": 104.81,
+      "walking_speed": 1.37,
+      "respiratory": 10.47
+    },
+    {
+      "date": "2026-01-22",
+      "active_energy": 1393.47,
+      "flights": 101.78,
+      "steps": 18360.78,
+      "walk_run_mi": 4.5,
+      "basal_energy": 2713.93,
+      "resting_hr": 65,
+      "hr_avg": 36
+    },
+    {
+      "date": "2026-01-25",
+      "walking_speed": 1.46,
+      "respiratory": 18.94
+    },
+    {
+      "date": "2026-01-29",
+      "active_energy": 692.77,
+      "flights": 19.14,
+      "steps": 7696.39,
+      "walk_run_mi": 3.07,
+      "basal_energy": 1206.98,
+      "resting_hr": 60,
+      "hr_avg": 72
+    },
+    {
+      "date": "2026-02-01",
+      "walking_speed": 1.55,
+      "respiratory": 19.0
+    },
+    {
+      "date": "2026-02-05",
+      "active_energy": 711.11,
+      "flights": 10.9,
+      "steps": 16361.88,
+      "walk_run_mi": 3.2,
+      "basal_energy": 2519.15,
+      "resting_hr": 30,
+      "hr_avg": 78
+    },
+    {
+      "date": "2026-02-08",
+      "walking_speed": 2.92,
+      "respiratory": 18.73
+    },
+    {
+      "date": "2026-02-12",
+      "active_energy": 320.53,
+      "flights": 11.42,
+      "steps": 14307.27,
+      "walk_run_mi": 2.72,
+      "basal_energy": 2559.24,
+      "resting_hr": 33,
+      "hr_avg": 37
+    },
+    {
+      "date": "2026-02-15",
+      "walking_speed": 1.7,
+      "respiratory": 10.32
+    },
+    {
+      "date": "2026-02-19",
+      "active_energy": 258.9,
+      "flights": 9.5,
+      "steps": 15134.46,
+      "walk_run_mi": 6.33,
+      "basal_energy": 1452.45,
+      "resting_hr": 28,
+      "hr_avg": 48
+    },
+    {
+      "date": "2026-02-22",
+      "walking_speed": 3.07,
+      "respiratory": 9.32
+    },
+    {
+      "date": "2026-02-26",
+      "active_energy": 611.54,
+      "cycling_mi": 1.25,
+      "flights": 61.35,
+      "steps": 9726.33,
+      "walk_run_mi": 8.83,
+      "basal_energy": 2820.12,
+      "resting_hr": 32,
+      "hr_avg": 96
+    },
+    {
+      "date": "2026-03-01",
+      "resting_hr": 44.7,
+      "walking_speed": 3.3,
+      "respiratory": 9.65
+    },
+    {
+      "date": "2026-03-05",
+      "active_energy": 1878.81,
+      "cycling_mi": 9.0,
+      "flights": 30.81,
+      "steps": 22368.28,
+      "walk_run_mi": 5.8,
+      "basal_energy": 1255.72,
+      "resting_hr": 68,
+      "hr_avg": 99
+    },
+    {
+      "date": "2026-03-08",
+      "resting_hr": 95.27,
+      "walking_speed": 1.41,
+      "respiratory": 21.9
+    },
+    {
+      "date": "2026-03-12",
+      "active_energy": 660.44,
+      "cycling_mi": 12.39,
+      "flights": 60.42,
+      "steps": 9738.49,
+      "walk_run_mi": 4.46,
+      "basal_energy": 1343.13,
+      "resting_hr": 27,
+      "hr_avg": 81
+    },
+    {
+      "date": "2026-03-15",
+      "resting_hr": 35.7,
+      "walking_speed": 1.31,
+      "respiratory": 20.91
+    },
+    {
+      "date": "2026-03-19",
+      "active_energy": 872.03,
+      "cycling_mi": 0.51,
+      "flights": 19.3,
+      "steps": 15875.36,
+      "walk_run_mi": 3.8,
+      "basal_energy": 2639.78,
+      "resting_hr": 29,
+      "hr_avg": 80
+    },
+    {
+      "date": "2026-03-22",
+      "walking_speed": 1.68,
+      "respiratory": 8.2
+    },
+    {
+      "date": "2026-03-26",
+      "active_energy": 1105.74,
+      "cycling_mi": 3.18,
+      "flights": 13.97,
+      "steps": 8876.55,
+      "walk_run_mi": 7.53,
+      "basal_energy": 1138.55,
+      "resting_hr": 64,
+      "hr_avg": 77
+    },
+    {
+      "date": "2026-03-29",
+      "walking_speed": 1.25,
+      "respiratory": 18.98
+    },
+    {
+      "date": "2026-04-02",
+      "active_energy": 637.21,
+      "cycling_mi": 1.89,
+      "flights": 18.39,
+      "steps": 7700.1,
+      "walk_run_mi": 5.38,
+      "basal_energy": 1305.21,
+      "resting_hr": 67,
+      "hr_avg": 54
+    },
+    {
+      "date": "2026-04-05",
+      "resting_hr": 44.6,
+      "walking_speed": 3.02
+    },
+    {
+      "date": "2026-04-09",
+      "active_energy": 1436.03,
+      "cycling_mi": 0.94,
+      "flights": 56.0,
+      "steps": 23781.72,
+      "walk_run_mi": 12.94,
+      "basal_energy": 2611.62,
+      "resting_hr": 27,
+      "hr_avg": 41
+    },
+    {
+      "date": "2026-04-12",
+      "resting_hr": 86.4,
+      "walking_speed": 1.68,
+      "respiratory": 9.34
+    },
+    {
+      "date": "2026-04-16",
+      "active_energy": 830.4,
+      "cycling_mi": 0.96,
+      "flights": 7.35,
+      "steps": 6488.06,
+      "walk_run_mi": 6.17,
+      "basal_energy": 1297.85,
+      "resting_hr": 26,
+      "hr_avg": 50
+    },
+    {
+      "date": "2026-04-19",
+      "walking_speed": 3.15,
+      "respiratory": 21.22
+    },
+    {
+      "date": "2026-04-23",
+      "active_energy": 763.16,
+      "flights": 23.36,
+      "steps": 13411.75,
+      "walk_run_mi": 6.26,
+      "basal_energy": 2929.36,
+      "resting_hr": 29,
+      "hr_avg": 80
+    },
+    {
+      "date": "2026-04-26",
+      "walking_speed": 3.02,
+      "respiratory": 9.71
+    },
+    {
+      "date": "2026-04-30",
+      "active_energy": 1151.17,
+      "flights": 19.8,
+      "steps": 20085.5,
+      "walk_run_mi": 8.8,
+      "basal_energy": 1260.86,
+      "resting_hr": 28,
+      "hr_avg": 76
+    },
+    {
+      "date": "2026-05-03",
+      "walking_speed": 3.09,
+      "respiratory": 8.8
+    },
+    {
+      "date": "2026-05-07",
+      "active_energy": 1170.13,
+      "cycling_mi": 4.06,
+      "flights": 62.1,
+      "steps": 9068.71,
+      "walk_run_mi": 3.77,
+      "basal_energy": 2822.73,
+      "resting_hr": 29,
+      "hr_avg": 46
+    },
+    {
+      "date": "2026-05-10",
+      "walking_speed": 1.6,
+      "respiratory": 20.28
+    },
+    {
+      "date": "2026-05-14",
+      "active_energy": 828.71,
+      "flights": 65.45,
+      "steps": 9934.8,
+      "walk_run_mi": 4.57,
+      "basal_energy": 2602.8,
+      "resting_hr": 33,
+      "hr_avg": 47
+    },
+    {
+      "date": "2026-05-17",
+      "walking_speed": 1.47,
+      "respiratory": 8.54
+    },
+    {
+      "date": "2026-05-21",
+      "active_energy": 585.95,
+      "flights": 58.83,
+      "steps": 15670.71,
+      "walk_run_mi": 7.53,
+      "basal_energy": 1409.58,
+      "resting_hr": 71,
+      "hr_avg": 95
+    },
+    {
+      "date": "2026-05-24",
+      "walking_speed": 1.6,
+      "respiratory": 23.21
+    },
+    {
+      "date": "2026-05-28",
+      "active_energy": 726.01,
+      "cycling_mi": 1.26,
+      "flights": 25.6,
+      "steps": 15388.88,
+      "walk_run_mi": 6.29,
+      "basal_energy": 2786.64,
+      "resting_hr": 36,
+      "hr_avg": 86
+    },
+    {
+      "date": "2026-05-31",
+      "resting_hr": 94.0,
+      "walking_speed": 3.0,
+      "respiratory": 18.55
+    },
+    {
+      "date": "2026-06-04",
+      "active_energy": 554.78,
+      "cycling_mi": 5.71,
+      "flights": 67.72,
+      "steps": 17607.2,
+      "walk_run_mi": 9.39,
+      "basal_energy": 2527.1,
+      "resting_hr": 59,
+      "hr_avg": 39
+    },
+    {
+      "date": "2026-06-07",
+      "resting_hr": 41.9,
+      "walking_speed": 3.09,
+      "respiratory": 8.54
+    },
+    {
+      "date": "2026-06-11",
+      "active_energy": 801.55,
+      "cycling_mi": 18.55,
+      "flights": 127.74,
+      "steps": 17178.57,
+      "walk_run_mi": 9.2,
+      "basal_energy": 2788.85,
+      "resting_hr": 32,
+      "hr_avg": 40
+    },
+    {
+      "date": "2026-06-14",
+      "resting_hr": 95.94,
+      "walking_speed": 1.44,
+      "respiratory": 10.2
+    },
+    {
+      "date": "2026-06-18",
+      "active_energy": 687.53,
+      "flights": 82.17,
+      "steps": 16973.65,
+      "walk_run_mi": 7.07,
+      "basal_energy": 1208.15,
+      "resting_hr": 65,
+      "hr_avg": 40
+    },
+    {
+      "date": "2026-06-21",
+      "active_energy": 1168.05,
+      "flights": 9.6,
+      "steps": 14462.8,
+      "walk_run_mi": 6.18,
+      "basal_energy": 1164.5,
+      "walking_speed": 2.88,
+      "respiratory": 9.11,
+      "resting_hr": 78,
+      "hr_avg": 103
+    },
+    {
+      "date": "2026-06-22",
+      "active_energy": 969.15,
+      "flights": 69.1,
+      "steps": 7357.3,
+      "walk_run_mi": 7.4,
+      "basal_energy": 2577.52,
+      "walking_speed": 2.92,
+      "respiratory": 20.28,
+      "resting_hr": 62,
+      "hr_avg": 37
+    },
+    {
+      "date": "2026-06-23",
+      "active_energy": 1258.0,
+      "flights": 35.5,
+      "steps": 8645.0,
+      "walk_run_mi": 3.48,
+      "basal_energy": 2665.95,
+      "walking_speed": 1.41,
+      "respiratory": 19.5,
+      "resting_hr": 36,
+      "hr_avg": 86
+    },
+    {
+      "date": "2026-06-24",
+      "active_energy": 147.67,
+      "flights": 3.0,
+      "steps": 1630.8,
+      "walk_run_mi": 1.51,
+      "basal_energy": 1390.5,
+      "walking_speed": 1.36,
+      "respiratory": 18.26,
+      "resting_hr": 33,
+      "hr_avg": 75
+    }
+  ]
+}

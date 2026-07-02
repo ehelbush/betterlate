@@ -1,0 +1,198 @@
+{
+  "patient": {
+    "name": "Demo User",
+    "dob": "1985-06-15",
+    "sex": "M"
+  },
+  "_notes": "Demo data \u2014 synthetic values for illustration.",
+  "panels": [
+    {
+      "date": "2020-08-28",
+      "source": "Labcorp CBC + Lipid + A1c",
+      "total_chol": 305,
+      "ldl_c": 165,
+      "hdl_c": 89,
+      "triglycerides": 66,
+      "vldl_c": 13,
+      "glucose": 67,
+      "a1c": 6.5,
+      "homocysteine": 15.0,
+      "hemoglobin": 18.4
+    },
+    {
+      "date": "2022-08-30",
+      "source": "Boston Heart Panel",
+      "total_chol": 157,
+      "ldl_c": 88,
+      "hdl_c": 31,
+      "triglycerides": 271,
+      "non_hdl_c": 141,
+      "vldl_c": 81,
+      "apob": 143,
+      "apoa1": 101.4,
+      "sdldl_c": 20,
+      "pct_sdldl": 15,
+      "hs_crp": 1.0,
+      "a1c": 2.9,
+      "glucose": 51,
+      "insulin": 3,
+      "homocysteine": 12.0,
+      "omega3_index": 4.63,
+      "tc_hdl_ratio": 5.8
+    },
+    {
+      "date": "2023-05-18",
+      "source": "Labcorp NMR LipoProfile",
+      "total_chol": 121,
+      "ldl_c": 75,
+      "hdl_c": 55,
+      "triglycerides": 278,
+      "ldl_p": 1551,
+      "small_ldl_p": 892,
+      "ldl_size": 14.0,
+      "hdl_p": 18.7,
+      "large_vldl_p": 4.4
+    },
+    {
+      "date": "2024-02-21",
+      "source": "Cleveland HeartLab advanced markers",
+      "lp_a": 209.2,
+      "hs_crp": 3.44,
+      "homocysteine": 5.4,
+      "lp_pla2": 223,
+      "omega3_total_pct": 9.0,
+      "epa_pct": 1.8,
+      "dha_pct": 5.1,
+      "omega6_omega3_ratio": 3.5
+    },
+    {
+      "date": "2024-04-02",
+      "source": "Labcorp Lipid Panel",
+      "total_chol": 377,
+      "ldl_c": 95,
+      "hdl_c": 100,
+      "triglycerides": 253,
+      "vldl_c": 47
+    },
+    {
+      "date": "2024-09-06",
+      "source": "Labcorp Lipid Panel",
+      "total_chol": 138,
+      "ldl_c": 102,
+      "hdl_c": 85,
+      "triglycerides": 53,
+      "vldl_c": 8
+    },
+    {
+      "date": "2025-06-13",
+      "source": "ExamOne / State Farm",
+      "total_chol": 131,
+      "ldl_c": 81,
+      "hdl_c": 45,
+      "triglycerides": 121,
+      "glucose": 117,
+      "a1c": 7.7,
+      "gfr": 166,
+      "alt": 39,
+      "ast": 18,
+      "ggt": 15,
+      "bun": 13,
+      "creatinine": 0.5,
+      "tc_hdl_ratio": 2.1
+    },
+    {
+      "date": "2026-01-14",
+      "source": "Quest / Oura Health Panel (most recent)",
+      "total_chol": 156,
+      "ldl_c": 200,
+      "hdl_c": 71,
+      "triglycerides": 108,
+      "non_hdl_c": 125,
+      "apob": 145,
+      "lp_a": 313,
+      "glucose": 68,
+      "a1c": 7.3,
+      "insulin": 3.8,
+      "gfr": 132,
+      "creatinine": 0.66,
+      "tc_hdl_ratio": 2.5,
+      "weight_kg": 60.1
+    }
+  ],
+  "liver_enzymes": {
+    "_note": "Demo data \u2014 synthetic values for illustration.",
+    "series": [
+      {
+        "date": "2011-08",
+        "alt": 69,
+        "ggt": 17,
+        "flag": "ALT high (>44)"
+      },
+      {
+        "date": "2012-05",
+        "alt": 39,
+        "ggt": 12
+      },
+      {
+        "date": "2012-08",
+        "alt": 41,
+        "ggt": 15
+      },
+      {
+        "date": "2014-01",
+        "alt": 21,
+        "ggt": 25
+      },
+      {
+        "date": "2016-03",
+        "alt": 13,
+        "ast": 29,
+        "ggt": 14,
+        "alp": 98,
+        "bilirubin_total": 1.7
+      },
+      {
+        "date": "2025-06",
+        "alt": 40,
+        "ast": 31,
+        "ggt": 28
+      }
+    ]
+  },
+  "reference_ranges": {
+    "total_chol": {
+      "optimal": "<200",
+      "high": ">=240"
+    },
+    "ldl_c": {
+      "optimal": "<100",
+      "borderline": "130-159",
+      "high": ">=160"
+    },
+    "hdl_c": {
+      "low": "<40",
+      "good": ">=60"
+    },
+    "triglycerides": {
+      "optimal": "<100",
+      "high": ">=150"
+    },
+    "a1c": {
+      "normal": "<5.7",
+      "prediabetes": "5.7-6.4"
+    },
+    "hs_crp": {
+      "low_risk": "<1.0",
+      "intermediate": "1.0-3.0",
+      "high": ">3.0"
+    },
+    "lp_a": {
+      "normal": "<75",
+      "elevated": ">=75"
+    },
+    "apob": {
+      "optimal": "<90",
+      "high": ">=100"
+    }
+  }
+}

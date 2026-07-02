@@ -1,0 +1,2158 @@
+{
+  "generated": "2026-06-20",
+  "n_activities": 2457,
+  "date_range": [
+    "2012-01-14",
+    "2026-05-08"
+  ],
+  "hrmax_observed": 145,
+  "hrmax_age_predicted": 102,
+  "zones": {
+    "z2_lower_bpm": 77,
+    "vigorous_lower_bpm": 89,
+    "source": "Strava athlete zones (real)"
+  },
+  "annual": [
+    {
+      "year": "2012",
+      "hours": 106,
+      "dist_km": 937,
+      "count": 33,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "partial": true,
+      "top_types": [
+        {
+          "type": "Ride",
+          "hours": 97
+        }
+      ]
+    },
+    {
+      "year": "2013",
+      "hours": 197,
+      "dist_km": 1723,
+      "count": 44,
+      "load": 2021,
+      "mod_vig_min_per_wk": 67,
+      "partial": false,
+      "top_types": [
+        {
+          "type": "Ride",
+          "hours": 102
+        }
+      ]
+    },
+    {
+      "year": "2014",
+      "hours": 140,
+      "dist_km": 5562,
+      "count": 113,
+      "load": 4674,
+      "mod_vig_min_per_wk": 249,
+      "partial": false,
+      "top_types": [
+        {
+          "type": "Ride",
+          "hours": 93
+        },
+        {
+          "type": "Run",
+          "hours": 36
+        },
+        {
+          "type": "Hike",
+          "hours": 17
+        },
+        {
+          "type": "Swim",
+          "hours": 7
+        },
+        {
+          "type": "Workout",
+          "hours": 0
+        }
+      ]
+    },
+    {
+      "year": "2015",
+      "hours": 106,
+      "dist_km": 3745,
+      "count": 44,
+      "load": 3371,
+      "mod_vig_min_per_wk": 68,
+      "partial": false,
+      "top_types": [
+        {
+          "type": "Ride",
+          "hours": 62
+        },
+        {
+          "type": "Hike",
+          "hours": 30
+        },
+        {
+          "type": "Run",
+          "hours": 5
+        },
+        {
+          "type": "Swim",
+          "hours": 1
+        }
+      ]
+    },
+    {
+      "year": "2016",
+      "hours": 157,
+      "dist_km": 4983,
+      "count": 218,
+      "load": 6430,
+      "mod_vig_min_per_wk": 176,
+      "partial": false,
+      "top_types": [
+        {
+          "type": "Ride",
+          "hours": 196
+        },
+        {
+          "type": "Hike",
+          "hours": 74
+        },
+        {
+          "type": "Run",
+          "hours": 46
+        },
+        {
+          "type": "Swim",
+          "hours": 4
+        },
+        {
+          "type": "Walk",
+          "hours": 9
+        }
+      ]
+    },
+    {
+      "year": "2017",
+      "hours": 180,
+      "dist_km": 4658,
+      "count": 259,
+      "load": 13651,
+      "mod_vig_min_per_wk": 146,
+      "partial": false,
+      "top_types": [
+        {
+          "type": "Ride",
+          "hours": 185
+        },
+        {
+          "type": "Hike",
+          "hours": 122
+        },
+        {
+          "type": "Run",
+          "hours": 27
+        },
+        {
+          "type": "Walk",
+          "hours": 25
+        },
+        {
+          "type": "Kayaking",
+          "hours": 8
+        }
+      ]
+    },
+    {
+      "year": "2018",
+      "hours": 363,
+      "dist_km": 5308,
+      "count": 275,
+      "load": 24443,
+      "mod_vig_min_per_wk": 282,
+      "partial": false,
+      "top_types": [
+        {
+          "type": "Ride",
+          "hours": 219
+        },
+        {
+          "type": "Hike",
+          "hours": 31
+        },
+        {
+          "type": "Run",
+          "hours": 25
+        },
+        {
+          "type": "Walk",
+          "hours": 8
+        },
+        {
+          "type": "E-Bike Ride",
+          "hours": 7
+        }
+      ]
+    },
+    {
+      "year": "2019",
+      "hours": 414,
+      "dist_km": 2266,
+      "count": 338,
+      "load": 13138,
+      "mod_vig_min_per_wk": 138,
+      "partial": false,
+      "top_types": [
+        {
+          "type": "Ride",
+          "hours": 94
+        },
+        {
+          "type": "Hike",
+          "hours": 74
+        },
+        {
+          "type": "Run",
+          "hours": 55
+        },
+        {
+          "type": "Walk",
+          "hours": 20
+        },
+        {
+          "type": "Swim",
+          "hours": 7
+        }
+      ]
+    },
+    {
+      "year": "2020",
+      "hours": 267,
+      "dist_km": 3910,
+      "count": 448,
+      "load": 34009,
+      "mod_vig_min_per_wk": 364,
+      "partial": false,
+      "top_types": [
+        {
+          "type": "Ride",
+          "hours": 297
+        },
+        {
+          "type": "Hike",
+          "hours": 83
+        },
+        {
+          "type": "Run",
+          "hours": 33
+        },
+        {
+          "type": "Walk",
+          "hours": 40
+        },
+        {
+          "type": "Virtual Ride",
+          "hours": 15
+        }
+      ]
+    },
+    {
+      "year": "2021",
+      "hours": 602,
+      "dist_km": 5824,
+      "count": 680,
+      "load": 15761,
+      "mod_vig_min_per_wk": 224,
+      "partial": false,
+      "top_types": [
+        {
+          "type": "Ride",
+          "hours": 182
+        },
+        {
+          "type": "Walk",
+          "hours": 69
+        },
+        {
+          "type": "Surfing",
+          "hours": 31
+        },
+        {
+          "type": "Run",
+          "hours": 58
+        },
+        {
+          "type": "Hike",
+          "hours": 60
+        }
+      ]
+    },
+    {
+      "year": "2022",
+      "hours": 365,
+      "dist_km": 3980,
+      "count": 237,
+      "load": 16228,
+      "mod_vig_min_per_wk": 74,
+      "partial": false,
+      "top_types": [
+        {
+          "type": "Ride",
+          "hours": 176
+        },
+        {
+          "type": "Walk",
+          "hours": 97
+        },
+        {
+          "type": "Hike",
+          "hours": 51
+        },
+        {
+          "type": "Run",
+          "hours": 34
+        },
+        {
+          "type": "Workout",
+          "hours": 13
+        }
+      ]
+    },
+    {
+      "year": "2023",
+      "hours": 336,
+      "dist_km": 1635,
+      "count": 213,
+      "load": 6031,
+      "mod_vig_min_per_wk": 80,
+      "partial": false,
+      "top_types": [
+        {
+          "type": "Ride",
+          "hours": 159
+        },
+        {
+          "type": "Hike",
+          "hours": 44
+        },
+        {
+          "type": "Walk",
+          "hours": 16
+        },
+        {
+          "type": "Run",
+          "hours": 37
+        },
+        {
+          "type": "Workout",
+          "hours": 15
+        }
+      ]
+    },
+    {
+      "year": "2024",
+      "hours": 611,
+      "dist_km": 5384,
+      "count": 309,
+      "load": 18463,
+      "mod_vig_min_per_wk": 204,
+      "partial": false,
+      "top_types": [
+        {
+          "type": "Walk",
+          "hours": 88
+        },
+        {
+          "type": "Ride",
+          "hours": 75
+        },
+        {
+          "type": "Hike",
+          "hours": 36
+        },
+        {
+          "type": "E-Bike Ride",
+          "hours": 39
+        },
+        {
+          "type": "Run",
+          "hours": 66
+        }
+      ]
+    },
+    {
+      "year": "2025",
+      "hours": 595,
+      "dist_km": 7446,
+      "count": 752,
+      "load": 7769,
+      "mod_vig_min_per_wk": 217,
+      "partial": false,
+      "top_types": [
+        {
+          "type": "E-Bike Ride",
+          "hours": 98
+        },
+        {
+          "type": "Ride",
+          "hours": 117
+        },
+        {
+          "type": "Walk",
+          "hours": 53
+        },
+        {
+          "type": "Run",
+          "hours": 31
+        },
+        {
+          "type": "Hike",
+          "hours": 18
+        }
+      ]
+    },
+    {
+      "year": "2026",
+      "hours": 178,
+      "dist_km": 1078,
+      "count": 80,
+      "load": 4713,
+      "mod_vig_min_per_wk": 77,
+      "partial": true,
+      "top_types": [
+        {
+          "type": "Ride",
+          "hours": 58
+        },
+        {
+          "type": "E-Bike Ride",
+          "hours": 25
+        },
+        {
+          "type": "Hike",
+          "hours": 37
+        },
+        {
+          "type": "Walk",
+          "hours": 10
+        },
+        {
+          "type": "Workout",
+          "hours": 2
+        }
+      ]
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2012-01",
+      "hours": 2.8,
+      "dist_km": 58.5,
+      "count": 2,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 548
+    },
+    {
+      "month": "2012-02",
+      "hours": 3.8,
+      "dist_km": 219.2,
+      "count": 4,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 0
+    },
+    {
+      "month": "2012-03",
+      "hours": 1.4,
+      "dist_km": 31.8,
+      "count": 1,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 0
+    },
+    {
+      "month": "2012-04",
+      "hours": 13.8,
+      "dist_km": 525.4,
+      "count": 8,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 0
+    },
+    {
+      "month": "2012-05",
+      "hours": 2.8,
+      "dist_km": 128.4,
+      "count": 2,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 0
+    },
+    {
+      "month": "2012-06",
+      "hours": 7.5,
+      "dist_km": 82.5,
+      "count": 2,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 2351
+    },
+    {
+      "month": "2012-07",
+      "hours": 5.2,
+      "dist_km": 259.1,
+      "count": 2,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 3533
+    },
+    {
+      "month": "2012-08",
+      "hours": 3.6,
+      "dist_km": 155.8,
+      "count": 2,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 5173
+    },
+    {
+      "month": "2012-09",
+      "hours": 3.0,
+      "dist_km": 59.2,
+      "count": 3,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 3744
+    },
+    {
+      "month": "2012-10",
+      "hours": 7.4,
+      "dist_km": 169.1,
+      "count": 7,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 2544
+    },
+    {
+      "month": "2012-12",
+      "hours": 11.8,
+      "dist_km": 151.9,
+      "count": 5,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 4259
+    },
+    {
+      "month": "2013-01",
+      "hours": 18.0,
+      "dist_km": 174.0,
+      "count": 5,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 4062
+    },
+    {
+      "month": "2013-02",
+      "hours": 7.3,
+      "dist_km": 355.0,
+      "count": 9,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 4425
+    },
+    {
+      "month": "2013-03",
+      "hours": 8.2,
+      "dist_km": 85.3,
+      "count": 2,
+      "load": 61,
+      "mod_vig_min_per_wk": 17,
+      "avg_hr": 88,
+      "calories": 3048
+    },
+    {
+      "month": "2013-04",
+      "hours": 19.0,
+      "dist_km": 190.3,
+      "count": 10,
+      "load": 280,
+      "mod_vig_min_per_wk": 110,
+      "avg_hr": 189,
+      "calories": 5929
+    },
+    {
+      "month": "2013-05",
+      "hours": 5.9,
+      "dist_km": 69.5,
+      "count": 4,
+      "load": 324,
+      "mod_vig_min_per_wk": 44,
+      "avg_hr": 96,
+      "calories": 4436
+    },
+    {
+      "month": "2013-06",
+      "hours": 15.8,
+      "dist_km": 375.4,
+      "count": 3,
+      "load": 428,
+      "mod_vig_min_per_wk": 101,
+      "avg_hr": 213,
+      "calories": 10653
+    },
+    {
+      "month": "2013-07",
+      "hours": 38.3,
+      "dist_km": 782.6,
+      "count": 8,
+      "load": 503,
+      "mod_vig_min_per_wk": 547,
+      "avg_hr": 98,
+      "calories": 13578
+    },
+    {
+      "month": "2013-08",
+      "hours": 4.0,
+      "dist_km": 193.2,
+      "count": 4,
+      "load": 176,
+      "mod_vig_min_per_wk": 81,
+      "avg_hr": 175,
+      "calories": 2727
+    },
+    {
+      "month": "2013-09",
+      "hours": 4.5,
+      "dist_km": 79.6,
+      "count": 3,
+      "load": 231,
+      "mod_vig_min_per_wk": 42,
+      "avg_hr": 206,
+      "calories": 5414
+    },
+    {
+      "month": "2013-10",
+      "hours": 14.8,
+      "dist_km": 162.0,
+      "count": 7,
+      "load": 693,
+      "mod_vig_min_per_wk": 98,
+      "avg_hr": 192,
+      "calories": 5430
+    },
+    {
+      "month": "2013-11",
+      "hours": 10.5,
+      "dist_km": 101.7,
+      "count": 3,
+      "load": 417,
+      "mod_vig_min_per_wk": 78,
+      "avg_hr": 202,
+      "calories": 3924
+    },
+    {
+      "month": "2013-12",
+      "hours": 6.8,
+      "dist_km": 139.8,
+      "count": 5,
+      "load": 444,
+      "mod_vig_min_per_wk": 173,
+      "avg_hr": 197,
+      "calories": 5441
+    },
+    {
+      "month": "2014-01",
+      "hours": 26.9,
+      "dist_km": 993.6,
+      "count": 28,
+      "load": 673,
+      "mod_vig_min_per_wk": 430,
+      "avg_hr": 179,
+      "calories": 18492
+    },
+    {
+      "month": "2014-02",
+      "hours": 12.0,
+      "dist_km": 441.4,
+      "count": 8,
+      "load": 387,
+      "mod_vig_min_per_wk": 100,
+      "avg_hr": 200,
+      "calories": 19670
+    },
+    {
+      "month": "2014-03",
+      "hours": 11.2,
+      "dist_km": 208.7,
+      "count": 10,
+      "load": 333,
+      "mod_vig_min_per_wk": 104,
+      "avg_hr": 107,
+      "calories": 16456
+    },
+    {
+      "month": "2014-04",
+      "hours": 8.9,
+      "dist_km": 294.8,
+      "count": 8,
+      "load": 275,
+      "mod_vig_min_per_wk": 122,
+      "avg_hr": 212,
+      "calories": 17192
+    },
+    {
+      "month": "2014-05",
+      "hours": 7.2,
+      "dist_km": 154.3,
+      "count": 7,
+      "load": 224,
+      "mod_vig_min_per_wk": 147,
+      "avg_hr": 209,
+      "calories": 13902
+    },
+    {
+      "month": "2014-06",
+      "hours": 28.1,
+      "dist_km": 436.2,
+      "count": 16,
+      "load": 567,
+      "mod_vig_min_per_wk": 212,
+      "avg_hr": 181,
+      "calories": 17217
+    },
+    {
+      "month": "2014-07",
+      "hours": 32.0,
+      "dist_km": 296.2,
+      "count": 18,
+      "load": 545,
+      "mod_vig_min_per_wk": 460,
+      "avg_hr": 92,
+      "calories": 24831
+    },
+    {
+      "month": "2014-08",
+      "hours": 12.8,
+      "dist_km": 450.1,
+      "count": 16,
+      "load": 620,
+      "mod_vig_min_per_wk": 143,
+      "avg_hr": 213,
+      "calories": 20723
+    },
+    {
+      "month": "2014-09",
+      "hours": 45.9,
+      "dist_km": 439.6,
+      "count": 22,
+      "load": 449,
+      "mod_vig_min_per_wk": 408,
+      "avg_hr": 189,
+      "calories": 12369
+    },
+    {
+      "month": "2014-10",
+      "hours": 35.0,
+      "dist_km": 199.8,
+      "count": 15,
+      "load": 523,
+      "mod_vig_min_per_wk": 170,
+      "avg_hr": 85,
+      "calories": 22388
+    },
+    {
+      "month": "2014-11",
+      "hours": 11.8,
+      "dist_km": 103.2,
+      "count": 14,
+      "load": 113,
+      "mod_vig_min_per_wk": 53,
+      "avg_hr": 125,
+      "calories": 8917
+    },
+    {
+      "month": "2014-12",
+      "hours": 6.7,
+      "dist_km": 140.6,
+      "count": 4,
+      "load": 485,
+      "mod_vig_min_per_wk": 147,
+      "avg_hr": 200,
+      "calories": 8960
+    },
+    {
+      "month": "2015-01",
+      "hours": 17.2,
+      "dist_km": 342.8,
+      "count": 9,
+      "load": 293,
+      "mod_vig_min_per_wk": 111,
+      "avg_hr": 192,
+      "calories": 12809
+    },
+    {
+      "month": "2015-03",
+      "hours": 8.1,
+      "dist_km": 302.4,
+      "count": 4,
+      "load": 79,
+      "mod_vig_min_per_wk": 22,
+      "avg_hr": 85,
+      "calories": 4211
+    },
+    {
+      "month": "2015-04",
+      "hours": 5.3,
+      "dist_km": 91.5,
+      "count": 7,
+      "load": 32,
+      "mod_vig_min_per_wk": 14,
+      "avg_hr": 91,
+      "calories": 5836
+    },
+    {
+      "month": "2015-05",
+      "hours": 11.0,
+      "dist_km": 158.8,
+      "count": 4,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 6545
+    },
+    {
+      "month": "2015-06",
+      "hours": 9.5,
+      "dist_km": 238.0,
+      "count": 10,
+      "load": 156,
+      "mod_vig_min_per_wk": 147,
+      "avg_hr": 88,
+      "calories": 5927
+    },
+    {
+      "month": "2015-07",
+      "hours": 27.5,
+      "dist_km": 250.2,
+      "count": 11,
+      "load": 141,
+      "mod_vig_min_per_wk": 57,
+      "avg_hr": 82,
+      "calories": 8303
+    },
+    {
+      "month": "2015-08",
+      "hours": 38.8,
+      "dist_km": 336.8,
+      "count": 12,
+      "load": 888,
+      "mod_vig_min_per_wk": 106,
+      "avg_hr": 170,
+      "calories": 11406
+    },
+    {
+      "month": "2015-09",
+      "hours": 5.0,
+      "dist_km": 18.8,
+      "count": 4,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 2131
+    },
+    {
+      "month": "2015-10",
+      "hours": 13.1,
+      "dist_km": 310.2,
+      "count": 5,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 6875
+    },
+    {
+      "month": "2015-11",
+      "hours": 18.3,
+      "dist_km": 131.0,
+      "count": 3,
+      "load": 51,
+      "mod_vig_min_per_wk": 19,
+      "avg_hr": 110,
+      "calories": 10417
+    },
+    {
+      "month": "2015-12",
+      "hours": 25.3,
+      "dist_km": 273.0,
+      "count": 11,
+      "load": 94,
+      "mod_vig_min_per_wk": 38,
+      "avg_hr": 81,
+      "calories": 11898
+    },
+    {
+      "month": "2016-01",
+      "hours": 9.3,
+      "dist_km": 21.8,
+      "count": 3,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 1991
+    },
+    {
+      "month": "2016-02",
+      "hours": 21.2,
+      "dist_km": 197.6,
+      "count": 3,
+      "load": 648,
+      "mod_vig_min_per_wk": 120,
+      "avg_hr": 98,
+      "calories": 14747
+    },
+    {
+      "month": "2016-03",
+      "hours": 9.4,
+      "dist_km": 195.1,
+      "count": 11,
+      "load": 168,
+      "mod_vig_min_per_wk": 61,
+      "avg_hr": 87,
+      "calories": 6676
+    },
+    {
+      "month": "2016-04",
+      "hours": 22.2,
+      "dist_km": 250.0,
+      "count": 13,
+      "load": 107,
+      "mod_vig_min_per_wk": 41,
+      "avg_hr": 182,
+      "calories": 31542
+    },
+    {
+      "month": "2016-05",
+      "hours": 17.0,
+      "dist_km": 665.4,
+      "count": 24,
+      "load": 1268,
+      "mod_vig_min_per_wk": 153,
+      "avg_hr": 91,
+      "calories": 10470
+    },
+    {
+      "month": "2016-06",
+      "hours": 14.7,
+      "dist_km": 529.0,
+      "count": 9,
+      "load": 629,
+      "mod_vig_min_per_wk": 118,
+      "avg_hr": 185,
+      "calories": 8065
+    },
+    {
+      "month": "2016-07",
+      "hours": 50.0,
+      "dist_km": 435.0,
+      "count": 34,
+      "load": 3385,
+      "mod_vig_min_per_wk": 209,
+      "avg_hr": 190,
+      "calories": 32237
+    },
+    {
+      "month": "2016-08",
+      "hours": 13.0,
+      "dist_km": 318.7,
+      "count": 7,
+      "load": 1009,
+      "mod_vig_min_per_wk": 148,
+      "avg_hr": 194,
+      "calories": 7700
+    },
+    {
+      "month": "2016-09",
+      "hours": 45.6,
+      "dist_km": 377.7,
+      "count": 10,
+      "load": 412,
+      "mod_vig_min_per_wk": 110,
+      "avg_hr": 188,
+      "calories": 12929
+    },
+    {
+      "month": "2016-10",
+      "hours": 14.8,
+      "dist_km": 207.8,
+      "count": 17,
+      "load": 658,
+      "mod_vig_min_per_wk": 77,
+      "avg_hr": 189,
+      "calories": 20024
+    },
+    {
+      "month": "2016-11",
+      "hours": 13.2,
+      "dist_km": 207.6,
+      "count": 10,
+      "load": 757,
+      "mod_vig_min_per_wk": 45,
+      "avg_hr": 202,
+      "calories": 7607
+    },
+    {
+      "month": "2016-12",
+      "hours": 14.6,
+      "dist_km": 194.2,
+      "count": 24,
+      "load": 840,
+      "mod_vig_min_per_wk": 174,
+      "avg_hr": 182,
+      "calories": 15407
+    },
+    {
+      "month": "2017-01",
+      "hours": 47.5,
+      "dist_km": 143.6,
+      "count": 10,
+      "load": 433,
+      "mod_vig_min_per_wk": 89,
+      "avg_hr": 95,
+      "calories": 24171
+    },
+    {
+      "month": "2017-02",
+      "hours": 15.4,
+      "dist_km": 161.3,
+      "count": 23,
+      "load": 1420,
+      "mod_vig_min_per_wk": 177,
+      "avg_hr": 90,
+      "calories": 21642
+    },
+    {
+      "month": "2017-03",
+      "hours": 22.3,
+      "dist_km": 820.2,
+      "count": 34,
+      "load": 3158,
+      "mod_vig_min_per_wk": 403,
+      "avg_hr": 84,
+      "calories": 15067
+    },
+    {
+      "month": "2017-04",
+      "hours": 29.8,
+      "dist_km": 156.1,
+      "count": 9,
+      "load": 529,
+      "mod_vig_min_per_wk": 138,
+      "avg_hr": 171,
+      "calories": 10267
+    },
+    {
+      "month": "2017-05",
+      "hours": 16.3,
+      "dist_km": 162.4,
+      "count": 14,
+      "load": 430,
+      "mod_vig_min_per_wk": 76,
+      "avg_hr": 155,
+      "calories": 11224
+    },
+    {
+      "month": "2017-06",
+      "hours": 35.6,
+      "dist_km": 183.1,
+      "count": 17,
+      "load": 899,
+      "mod_vig_min_per_wk": 63,
+      "avg_hr": 160,
+      "calories": 6489
+    },
+    {
+      "month": "2017-07",
+      "hours": 58.6,
+      "dist_km": 525.3,
+      "count": 21,
+      "load": 815,
+      "mod_vig_min_per_wk": 118,
+      "avg_hr": 189,
+      "calories": 14449
+    },
+    {
+      "month": "2017-08",
+      "hours": 11.0,
+      "dist_km": 77.7,
+      "count": 13,
+      "load": 821,
+      "mod_vig_min_per_wk": 52,
+      "avg_hr": 170,
+      "calories": 9039
+    },
+    {
+      "month": "2017-09",
+      "hours": 43.5,
+      "dist_km": 198.8,
+      "count": 31,
+      "load": 398,
+      "mod_vig_min_per_wk": 40,
+      "avg_hr": 91,
+      "calories": 14311
+    },
+    {
+      "month": "2017-10",
+      "hours": 17.7,
+      "dist_km": 313.7,
+      "count": 29,
+      "load": 1035,
+      "mod_vig_min_per_wk": 118,
+      "avg_hr": 104,
+      "calories": 24718
+    },
+    {
+      "month": "2017-11",
+      "hours": 11.8,
+      "dist_km": 131.5,
+      "count": 23,
+      "load": 0,
+      "mod_vig_min_per_wk": 0,
+      "avg_hr": null,
+      "calories": 11554
+    },
+    {
+      "month": "2017-12",
+      "hours": 11.8,
+      "dist_km": 179.1,
+      "count": 17,
+      "load": 1750,
+      "mod_vig_min_per_wk": 150,
+      "avg_hr": 104,
+      "calories": 4854
+    },
+    {
+      "month": "2018-01",
+      "hours": 22.0,
+      "dist_km": 153.0,
+      "count": 10,
+      "load": 494,
+      "mod_vig_min_per_wk": 73,
+      "avg_hr": 103,
+      "calories": 12331
+    },
+    {
+      "month": "2018-02",
+      "hours": 16.2,
+      "dist_km": 192.2,
+      "count": 26,
+      "load": 391,
+      "mod_vig_min_per_wk": 33,
+      "avg_hr": 167,
+      "calories": 7391
+    },
+    {
+      "month": "2018-03",
+      "hours": 7.5,
+      "dist_km": 150.4,
+      "count": 8,
+      "load": 1021,
+      "mod_vig_min_per_wk": 54,
+      "avg_hr": 98,
+      "calories": 3974
+    },
+    {
+      "month": "2018-04",
+      "hours": 13.8,
+      "dist_km": 179.4,
+      "count": 9,
+      "load": 573,
+      "mod_vig_min_per_wk": 212,
+      "avg_hr": 176,
+      "calories": 12922
+    },
+    {
+      "month": "2018-05",
+      "hours": 45.1,
+      "dist_km": 680.5,
+      "count": 18,
+      "load": 1530,
+      "mod_vig_min_per_wk": 160,
+      "avg_hr": 178,
+      "calories": 21279
+    },
+    {
+      "month": "2018-06",
+      "hours": 11.7,
+      "dist_km": 165.8,
+      "count": 18,
+      "load": 1016,
+      "mod_vig_min_per_wk": 225,
+      "avg_hr": 180,
+      "calories": 7678
+    },
+    {
+      "month": "2018-07",
+      "hours": 38.6,
+      "dist_km": 478.8,
+      "count": 20,
+      "load": 2026,
+      "mod_vig_min_per_wk": 230,
+      "avg_hr": 74,
+      "calories": 10343
+    },
+    {
+      "month": "2018-08",
+      "hours": 13.2,
+      "dist_km": 226.9,
+      "count": 18,
+      "load": 1042,
+      "mod_vig_min_per_wk": 386,
+      "avg_hr": 92,
+      "calories": 18636
+    },
+    {
+      "month": "2018-09",
+      "hours": 57.0,
+      "dist_km": 759.2,
+      "count": 20,
+      "load": 2120,
+      "mod_vig_min_per_wk": 230,
+      "avg_hr": 74,
+      "calories": 16044
+    },
+    {
+      "month": "2018-10",
+      "hours": 8.6,
+      "dist_km": 322.8,
+      "count": 15,
+      "load": 982,
+      "mod_vig_min_per_wk": 135,
+      "avg_hr": 180,
+      "calories": 6528
+    },
+    {
+      "month": "2018-11",
+      "hours": 15.0,
+      "dist_km": 176.9,
+      "count": 23,
+      "load": 1083,
+      "mod_vig_min_per_wk": 65,
+      "avg_hr": 81,
+      "calories": 4829
+    },
+    {
+      "month": "2018-12",
+      "hours": 48.9,
+      "dist_km": 854.4,
+      "count": 29,
+      "load": 1668,
+      "mod_vig_min_per_wk": 559,
+      "avg_hr": 178,
+      "calories": 28801
+    },
+    {
+      "month": "2019-01",
+      "hours": 37.0,
+      "dist_km": 265.0,
+      "count": 22,
+      "load": 1655,
+      "mod_vig_min_per_wk": 195,
+      "avg_hr": 82,
+      "calories": 10996
+    },
+    {
+      "month": "2019-02",
+      "hours": 8.8,
+      "dist_km": 134.0,
+      "count": 13,
+      "load": 766,
+      "mod_vig_min_per_wk": 96,
+      "avg_hr": 91,
+      "calories": 7045
+    },
+    {
+      "month": "2019-03",
+      "hours": 14.5,
+      "dist_km": 193.6,
+      "count": 22,
+      "load": 768,
+      "mod_vig_min_per_wk": 169,
+      "avg_hr": 166,
+      "calories": 11759
+    },
+    {
+      "month": "2019-04",
+      "hours": 18.9,
+      "dist_km": 134.6,
+      "count": 12,
+      "load": 1314,
+      "mod_vig_min_per_wk": 83,
+      "avg_hr": 189,
+      "calories": 12908
+    },
+    {
+      "month": "2019-05",
+      "hours": 49.5,
+      "dist_km": 243.5,
+      "count": 19,
+      "load": 872,
+      "mod_vig_min_per_wk": 225,
+      "avg_hr": 170,
+      "calories": 27059
+    },
+    {
+      "month": "2019-06",
+      "hours": 40.8,
+      "dist_km": 286.5,
+      "count": 28,
+      "load": 1658,
+      "mod_vig_min_per_wk": 348,
+      "avg_hr": 85,
+      "calories": 14074
+    },
+    {
+      "month": "2019-07",
+      "hours": 36.9,
+      "dist_km": 164.8,
+      "count": 11,
+      "load": 941,
+      "mod_vig_min_per_wk": 202,
+      "avg_hr": 161,
+      "calories": 21849
+    },
+    {
+      "month": "2019-08",
+      "hours": 21.8,
+      "dist_km": 697.0,
+      "count": 35,
+      "load": 3562,
+      "mod_vig_min_per_wk": 195,
+      "avg_hr": 92,
+      "calories": 14314
+    },
+    {
+      "month": "2019-09",
+      "hours": 27.4,
+      "dist_km": 626.3,
+      "count": 23,
+      "load": 1923,
+      "mod_vig_min_per_wk": 185,
+      "avg_hr": 74,
+      "calories": 17258
+    },
+    {
+      "month": "2019-10",
+      "hours": 28.1,
+      "dist_km": 106.1,
+      "count": 16,
+      "load": 1202,
+      "mod_vig_min_per_wk": 250,
+      "avg_hr": 82,
+      "calories": 9400
+    },
+    {
+      "month": "2019-11",
+      "hours": 26.3,
+      "dist_km": 610.6,
+      "count": 24,
+      "load": 944,
+      "mod_vig_min_per_wk": 131,
+      "avg_hr": 89,
+      "calories": 29356
+    },
+    {
+      "month": "2019-12",
+      "hours": 29.2,
+      "dist_km": 224.1,
+      "count": 29,
+      "load": 382,
+      "mod_vig_min_per_wk": 44,
+      "avg_hr": 64,
+      "calories": 16610
+    },
+    {
+      "month": "2020-01",
+      "hours": 22.9,
+      "dist_km": 578.5,
+      "count": 21,
+      "load": 2932,
+      "mod_vig_min_per_wk": 176,
+      "avg_hr": 160,
+      "calories": 28934
+    },
+    {
+      "month": "2020-02",
+      "hours": 18.0,
+      "dist_km": 130.0,
+      "count": 28,
+      "load": 1443,
+      "mod_vig_min_per_wk": 100,
+      "avg_hr": 155,
+      "calories": 8588
+    },
+    {
+      "month": "2020-03",
+      "hours": 18.2,
+      "dist_km": 195.1,
+      "count": 29,
+      "load": 2545,
+      "mod_vig_min_per_wk": 355,
+      "avg_hr": 170,
+      "calories": 22015
+    },
+    {
+      "month": "2020-04",
+      "hours": 27.0,
+      "dist_km": 332.8,
+      "count": 45,
+      "load": 3685,
+      "mod_vig_min_per_wk": 199,
+      "avg_hr": 90,
+      "calories": 28796
+    },
+    {
+      "month": "2020-05",
+      "hours": 29.9,
+      "dist_km": 1052.1,
+      "count": 22,
+      "load": 1800,
+      "mod_vig_min_per_wk": 711,
+      "avg_hr": 74,
+      "calories": 17300
+    },
+    {
+      "month": "2020-06",
+      "hours": 71.6,
+      "dist_km": 325.3,
+      "count": 25,
+      "load": 1992,
+      "mod_vig_min_per_wk": 160,
+      "avg_hr": 149,
+      "calories": 18226
+    },
+    {
+      "month": "2020-07",
+      "hours": 27.2,
+      "dist_km": 201.5,
+      "count": 32,
+      "load": 1676,
+      "mod_vig_min_per_wk": 78,
+      "avg_hr": 152,
+      "calories": 17912
+    },
+    {
+      "month": "2020-08",
+      "hours": 15.5,
+      "dist_km": 363.7,
+      "count": 36,
+      "load": 2019,
+      "mod_vig_min_per_wk": 338,
+      "avg_hr": 156,
+      "calories": 25690
+    },
+    {
+      "month": "2020-09",
+      "hours": 17.6,
+      "dist_km": 563.6,
+      "count": 17,
+      "load": 1776,
+      "mod_vig_min_per_wk": 392,
+      "avg_hr": 89,
+      "calories": 14823
+    },
+    {
+      "month": "2020-10",
+      "hours": 21.1,
+      "dist_km": 699.0,
+      "count": 37,
+      "load": 1596,
+      "mod_vig_min_per_wk": 144,
+      "avg_hr": 156,
+      "calories": 15801
+    },
+    {
+      "month": "2020-11",
+      "hours": 12.2,
+      "dist_km": 387.3,
+      "count": 14,
+      "load": 2383,
+      "mod_vig_min_per_wk": 214,
+      "avg_hr": 158,
+      "calories": 17754
+    },
+    {
+      "month": "2020-12",
+      "hours": 23.6,
+      "dist_km": 1010.9,
+      "count": 16,
+      "load": 1602,
+      "mod_vig_min_per_wk": 267,
+      "avg_hr": 70,
+      "calories": 18681
+    },
+    {
+      "month": "2021-01",
+      "hours": 24.4,
+      "dist_km": 595.6,
+      "count": 48,
+      "load": 1521,
+      "mod_vig_min_per_wk": 168,
+      "avg_hr": 72,
+      "calories": 31433
+    },
+    {
+      "month": "2021-02",
+      "hours": 28.4,
+      "dist_km": 286.6,
+      "count": 39,
+      "load": 1813,
+      "mod_vig_min_per_wk": 87,
+      "avg_hr": 71,
+      "calories": 8374
+    },
+    {
+      "month": "2021-03",
+      "hours": 30.6,
+      "dist_km": 135.0,
+      "count": 13,
+      "load": 1468,
+      "mod_vig_min_per_wk": 210,
+      "avg_hr": 82,
+      "calories": 19203
+    },
+    {
+      "month": "2021-04",
+      "hours": 42.3,
+      "dist_km": 348.3,
+      "count": 18,
+      "load": 2216,
+      "mod_vig_min_per_wk": 196,
+      "avg_hr": 69,
+      "calories": 33492
+    },
+    {
+      "month": "2021-05",
+      "hours": 19.8,
+      "dist_km": 99.3,
+      "count": 16,
+      "load": 764,
+      "mod_vig_min_per_wk": 76,
+      "avg_hr": 81,
+      "calories": 14978
+    },
+    {
+      "month": "2021-06",
+      "hours": 38.7,
+      "dist_km": 246.4,
+      "count": 100,
+      "load": 1581,
+      "mod_vig_min_per_wk": 153,
+      "avg_hr": 71,
+      "calories": 43170
+    },
+    {
+      "month": "2021-07",
+      "hours": 42.7,
+      "dist_km": 381.4,
+      "count": 43,
+      "load": 1606,
+      "mod_vig_min_per_wk": 151,
+      "avg_hr": 142,
+      "calories": 45578
+    },
+    {
+      "month": "2021-08",
+      "hours": 35.8,
+      "dist_km": 199.2,
+      "count": 26,
+      "load": 1627,
+      "mod_vig_min_per_wk": 94,
+      "avg_hr": 78,
+      "calories": 10134
+    },
+    {
+      "month": "2021-09",
+      "hours": 36.6,
+      "dist_km": 291.1,
+      "count": 31,
+      "load": 2284,
+      "mod_vig_min_per_wk": 154,
+      "avg_hr": 78,
+      "calories": 24339
+    },
+    {
+      "month": "2021-10",
+      "hours": 54.4,
+      "dist_km": 289.3,
+      "count": 40,
+      "load": 530,
+      "mod_vig_min_per_wk": 160,
+      "avg_hr": 75,
+      "calories": 13450
+    },
+    {
+      "month": "2021-11",
+      "hours": 21.9,
+      "dist_km": 311.4,
+      "count": 25,
+      "load": 2026,
+      "mod_vig_min_per_wk": 104,
+      "avg_hr": 152,
+      "calories": 12090
+    },
+    {
+      "month": "2021-12",
+      "hours": 27.5,
+      "dist_km": 198.3,
+      "count": 53,
+      "load": 1052,
+      "mod_vig_min_per_wk": 169,
+      "avg_hr": 73,
+      "calories": 35175
+    },
+    {
+      "month": "2022-01",
+      "hours": 60.0,
+      "dist_km": 760.0,
+      "count": 41,
+      "load": 1815,
+      "mod_vig_min_per_wk": 233,
+      "avg_hr": 158,
+      "calories": 19160
+    },
+    {
+      "month": "2022-02",
+      "hours": 12.7,
+      "dist_km": 361.4,
+      "count": 33,
+      "load": 828,
+      "mod_vig_min_per_wk": 188,
+      "avg_hr": 80,
+      "calories": 8091
+    },
+    {
+      "month": "2022-03",
+      "hours": 1.4,
+      "dist_km": 74.9,
+      "count": 4,
+      "load": 151,
+      "mod_vig_min_per_wk": 6,
+      "avg_hr": 164,
+      "calories": 925
+    },
+    {
+      "month": "2022-04",
+      "hours": 8.7,
+      "dist_km": 96.7,
+      "count": 6,
+      "load": 110,
+      "mod_vig_min_per_wk": 34,
+      "avg_hr": 180,
+      "calories": 2243
+    },
+    {
+      "month": "2022-05",
+      "hours": 7.0,
+      "dist_km": 113.5,
+      "count": 13,
+      "load": 1021,
+      "mod_vig_min_per_wk": 77,
+      "avg_hr": 182,
+      "calories": 5365
+    },
+    {
+      "month": "2022-06",
+      "hours": 16.9,
+      "dist_km": 426.7,
+      "count": 50,
+      "load": 713,
+      "mod_vig_min_per_wk": 261,
+      "avg_hr": 88,
+      "calories": 19332
+    },
+    {
+      "month": "2022-07",
+      "hours": 47.1,
+      "dist_km": 268.7,
+      "count": 70,
+      "load": 1990,
+      "mod_vig_min_per_wk": 130,
+      "avg_hr": 70,
+      "calories": 15756
+    },
+    {
+      "month": "2022-08",
+      "hours": 44.6,
+      "dist_km": 382.3,
+      "count": 87,
+      "load": 1976,
+      "mod_vig_min_per_wk": 168,
+      "avg_hr": 138,
+      "calories": 27860
+    },
+    {
+      "month": "2022-09",
+      "hours": 13.9,
+      "dist_km": 193.4,
+      "count": 19,
+      "load": 235,
+      "mod_vig_min_per_wk": 13,
+      "avg_hr": 60,
+      "calories": 7725
+    },
+    {
+      "month": "2022-10",
+      "hours": 38.6,
+      "dist_km": 441.2,
+      "count": 26,
+      "load": 483,
+      "mod_vig_min_per_wk": 66,
+      "avg_hr": 76,
+      "calories": 22617
+    },
+    {
+      "month": "2022-11",
+      "hours": 17.8,
+      "dist_km": 211.5,
+      "count": 55,
+      "load": 1976,
+      "mod_vig_min_per_wk": 142,
+      "avg_hr": 69,
+      "calories": 13324
+    },
+    {
+      "month": "2022-12",
+      "hours": 15.5,
+      "dist_km": 124.8,
+      "count": 43,
+      "load": 1366,
+      "mod_vig_min_per_wk": 134,
+      "avg_hr": 72,
+      "calories": 6615
+    },
+    {
+      "month": "2023-01",
+      "hours": 13.7,
+      "dist_km": 106.8,
+      "count": 27,
+      "load": 311,
+      "mod_vig_min_per_wk": 35,
+      "avg_hr": 68,
+      "calories": 15623
+    },
+    {
+      "month": "2023-02",
+      "hours": 6.2,
+      "dist_km": 48.4,
+      "count": 23,
+      "load": 290,
+      "mod_vig_min_per_wk": 29,
+      "avg_hr": 84,
+      "calories": 8855
+    },
+    {
+      "month": "2023-03",
+      "hours": 10.5,
+      "dist_km": 229.5,
+      "count": 7,
+      "load": 937,
+      "mod_vig_min_per_wk": 133,
+      "avg_hr": 194,
+      "calories": 2933
+    },
+    {
+      "month": "2023-04",
+      "hours": 9.5,
+      "dist_km": 232.8,
+      "count": 18,
+      "load": 847,
+      "mod_vig_min_per_wk": 116,
+      "avg_hr": 151,
+      "calories": 18599
+    },
+    {
+      "month": "2023-05",
+      "hours": 10.4,
+      "dist_km": 145.8,
+      "count": 29,
+      "load": 742,
+      "mod_vig_min_per_wk": 48,
+      "avg_hr": 75,
+      "calories": 12948
+    },
+    {
+      "month": "2023-06",
+      "hours": 41.1,
+      "dist_km": 412.6,
+      "count": 62,
+      "load": 1482,
+      "mod_vig_min_per_wk": 95,
+      "avg_hr": 148,
+      "calories": 13070
+    },
+    {
+      "month": "2023-07",
+      "hours": 16.1,
+      "dist_km": 365.3,
+      "count": 24,
+      "load": 696,
+      "mod_vig_min_per_wk": 171,
+      "avg_hr": 154,
+      "calories": 18561
+    },
+    {
+      "month": "2023-08",
+      "hours": 12.7,
+      "dist_km": 121.4,
+      "count": 15,
+      "load": 462,
+      "mod_vig_min_per_wk": 61,
+      "avg_hr": 71,
+      "calories": 7751
+    },
+    {
+      "month": "2023-09",
+      "hours": 27.9,
+      "dist_km": 193.5,
+      "count": 20,
+      "load": 650,
+      "mod_vig_min_per_wk": 160,
+      "avg_hr": 82,
+      "calories": 8443
+    },
+    {
+      "month": "2023-10",
+      "hours": 14.8,
+      "dist_km": 125.5,
+      "count": 29,
+      "load": 1486,
+      "mod_vig_min_per_wk": 71,
+      "avg_hr": 78,
+      "calories": 19747
+    },
+    {
+      "month": "2023-11",
+      "hours": 22.9,
+      "dist_km": 139.8,
+      "count": 13,
+      "load": 927,
+      "mod_vig_min_per_wk": 149,
+      "avg_hr": 155,
+      "calories": 6640
+    },
+    {
+      "month": "2023-12",
+      "hours": 41.3,
+      "dist_km": 476.9,
+      "count": 19,
+      "load": 1680,
+      "mod_vig_min_per_wk": 156,
+      "avg_hr": 147,
+      "calories": 24783
+    },
+    {
+      "month": "2024-01",
+      "hours": 38.7,
+      "dist_km": 340.3,
+      "count": 44,
+      "load": 713,
+      "mod_vig_min_per_wk": 150,
+      "avg_hr": 72,
+      "calories": 9772
+    },
+    {
+      "month": "2024-02",
+      "hours": 40.7,
+      "dist_km": 269.5,
+      "count": 50,
+      "load": 380,
+      "mod_vig_min_per_wk": 31,
+      "avg_hr": 60,
+      "calories": 7827
+    },
+    {
+      "month": "2024-03",
+      "hours": 75.2,
+      "dist_km": 253.5,
+      "count": 45,
+      "load": 1261,
+      "mod_vig_min_per_wk": 140,
+      "avg_hr": 61,
+      "calories": 19662
+    },
+    {
+      "month": "2024-04",
+      "hours": 29.2,
+      "dist_km": 199.5,
+      "count": 32,
+      "load": 994,
+      "mod_vig_min_per_wk": 43,
+      "avg_hr": 62,
+      "calories": 34499
+    },
+    {
+      "month": "2024-05",
+      "hours": 20.8,
+      "dist_km": 100.1,
+      "count": 20,
+      "load": 395,
+      "mod_vig_min_per_wk": 86,
+      "avg_hr": 76,
+      "calories": 20839
+    },
+    {
+      "month": "2024-06",
+      "hours": 30.8,
+      "dist_km": 214.8,
+      "count": 61,
+      "load": 981,
+      "mod_vig_min_per_wk": 221,
+      "avg_hr": 150,
+      "calories": 35919
+    },
+    {
+      "month": "2024-07",
+      "hours": 14.6,
+      "dist_km": 228.2,
+      "count": 23,
+      "load": 1064,
+      "mod_vig_min_per_wk": 249,
+      "avg_hr": 88,
+      "calories": 9227
+    },
+    {
+      "month": "2024-08",
+      "hours": 51.4,
+      "dist_km": 538.2,
+      "count": 68,
+      "load": 882,
+      "mod_vig_min_per_wk": 263,
+      "avg_hr": 63,
+      "calories": 33458
+    },
+    {
+      "month": "2024-09",
+      "hours": 60.9,
+      "dist_km": 263.0,
+      "count": 80,
+      "load": 2612,
+      "mod_vig_min_per_wk": 286,
+      "avg_hr": 85,
+      "calories": 35131
+    },
+    {
+      "month": "2024-10",
+      "hours": 49.1,
+      "dist_km": 607.3,
+      "count": 32,
+      "load": 426,
+      "mod_vig_min_per_wk": 190,
+      "avg_hr": 138,
+      "calories": 14676
+    },
+    {
+      "month": "2024-11",
+      "hours": 21.1,
+      "dist_km": 292.5,
+      "count": 73,
+      "load": 815,
+      "mod_vig_min_per_wk": 145,
+      "avg_hr": 160,
+      "calories": 31027
+    },
+    {
+      "month": "2024-12",
+      "hours": 21.6,
+      "dist_km": 268.3,
+      "count": 54,
+      "load": 660,
+      "mod_vig_min_per_wk": 282,
+      "avg_hr": 77,
+      "calories": 27549
+    },
+    {
+      "month": "2025-01",
+      "hours": 12.5,
+      "dist_km": 138.0,
+      "count": 42,
+      "load": 558,
+      "mod_vig_min_per_wk": 33,
+      "avg_hr": 62,
+      "calories": 15894
+    },
+    {
+      "month": "2025-02",
+      "hours": 13.5,
+      "dist_km": 136.4,
+      "count": 17,
+      "load": 311,
+      "mod_vig_min_per_wk": 65,
+      "avg_hr": 138,
+      "calories": 8339
+    },
+    {
+      "month": "2025-03",
+      "hours": 27.2,
+      "dist_km": 75.7,
+      "count": 13,
+      "load": 849,
+      "mod_vig_min_per_wk": 52,
+      "avg_hr": 68,
+      "calories": 19056
+    },
+    {
+      "month": "2025-04",
+      "hours": 5.0,
+      "dist_km": 25.8,
+      "count": 11,
+      "load": 63,
+      "mod_vig_min_per_wk": 4,
+      "avg_hr": 63,
+      "calories": 2297
+    },
+    {
+      "month": "2025-05",
+      "hours": 43.4,
+      "dist_km": 547.9,
+      "count": 72,
+      "load": 874,
+      "mod_vig_min_per_wk": 238,
+      "avg_hr": 141,
+      "calories": 27865
+    },
+    {
+      "month": "2025-06",
+      "hours": 39.5,
+      "dist_km": 475.4,
+      "count": 96,
+      "load": 2014,
+      "mod_vig_min_per_wk": 429,
+      "avg_hr": 159,
+      "calories": 16900
+    },
+    {
+      "month": "2025-07",
+      "hours": 74.1,
+      "dist_km": 961.3,
+      "count": 81,
+      "load": 1656,
+      "mod_vig_min_per_wk": 521,
+      "avg_hr": 78,
+      "calories": 39682
+    },
+    {
+      "month": "2025-08",
+      "hours": 38.3,
+      "dist_km": 1030.4,
+      "count": 32,
+      "load": 2966,
+      "mod_vig_min_per_wk": 212,
+      "avg_hr": 146,
+      "calories": 36874
+    },
+    {
+      "month": "2025-09",
+      "hours": 32.5,
+      "dist_km": 1086.4,
+      "count": 96,
+      "load": 1212,
+      "mod_vig_min_per_wk": 332,
+      "avg_hr": 71,
+      "calories": 47955
+    },
+    {
+      "month": "2025-10",
+      "hours": 46.7,
+      "dist_km": 253.1,
+      "count": 63,
+      "load": 625,
+      "mod_vig_min_per_wk": 66,
+      "avg_hr": 135,
+      "calories": 12560
+    },
+    {
+      "month": "2025-11",
+      "hours": 26.3,
+      "dist_km": 528.0,
+      "count": 25,
+      "load": 484,
+      "mod_vig_min_per_wk": 69,
+      "avg_hr": 139,
+      "calories": 29275
+    },
+    {
+      "month": "2025-12",
+      "hours": 44.7,
+      "dist_km": 267.7,
+      "count": 54,
+      "load": 1134,
+      "mod_vig_min_per_wk": 71,
+      "avg_hr": 62,
+      "calories": 23579
+    },
+    {
+      "month": "2026-01",
+      "hours": 17.7,
+      "dist_km": 297.8,
+      "count": 27,
+      "load": 1372,
+      "mod_vig_min_per_wk": 141,
+      "avg_hr": 58,
+      "calories": 21481
+    },
+    {
+      "month": "2026-02",
+      "hours": 13.8,
+      "dist_km": 268.9,
+      "count": 35,
+      "load": 235,
+      "mod_vig_min_per_wk": 4,
+      "avg_hr": 127,
+      "calories": 5778
+    },
+    {
+      "month": "2026-03",
+      "hours": 27.8,
+      "dist_km": 663.6,
+      "count": 57,
+      "load": 738,
+      "mod_vig_min_per_wk": 295,
+      "avg_hr": 70,
+      "calories": 13424
+    },
+    {
+      "month": "2026-04",
+      "hours": 41.0,
+      "dist_km": 295.9,
+      "count": 7,
+      "load": 303,
+      "mod_vig_min_per_wk": 15,
+      "avg_hr": 77,
+      "calories": 24741
+    },
+    {
+      "month": "2026-05",
+      "hours": 6.9,
+      "dist_km": 280.8,
+      "count": 7,
+      "load": 470,
+      "mod_vig_min_per_wk": 71,
+      "avg_hr": 160,
+      "calories": 9698
+    }
+  ]
+}

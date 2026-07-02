@@ -1,0 +1,34 @@
+{
+  "generated": "2026-07-02",
+  "measured_oura": 28.4,
+  "estimate_central": 63,
+  "estimate_range": [
+    20,
+    41
+  ],
+  "rating": "Good",
+  "is_measured": true,
+  "measured_source": "Garmin",
+  "methods": [
+    {
+      "method": "HR ratio (Uth-Sorensen)",
+      "value": 35,
+      "inputs": "HRmax 196 / resting 50.7",
+      "weight": 0.5
+    },
+    {
+      "method": "Cycling FTP (ACSM)",
+      "value": 59,
+      "inputs": "FTP 228W @ 93kg",
+      "weight": 0.3
+    },
+    {
+      "method": "Running VDOT (Daniels)",
+      "value": 49,
+      "inputs": "10k 56m18s",
+      "weight": 0.1,
+      "note": "Demo data \u2014 synthetic values for illustration."
+    }
+  ],
+  "note": "Demo data \u2014 synthetic values for illustration."
+}

@@ -1,0 +1,201 @@
+{
+  "generated": "2026-06-22",
+  "source": "Sutter My Health Online C-CDA export",
+  "n_docs": 85,
+  "labs_by_marker": {
+    "alp": [
+      {
+        "date": "2005-02-15",
+        "value": 108.4
+      }
+    ],
+    "alt": [
+      {
+        "date": "2005-02-15",
+        "value": 41.2
+      }
+    ],
+    "ast": [
+      {
+        "date": "2005-02-15",
+        "value": 35.4
+      }
+    ],
+    "bilirubin_total": [
+      {
+        "date": "2005-02-15",
+        "value": 1.6
+      }
+    ],
+    "creatinine": [
+      {
+        "date": "2005-02-15",
+        "value": 0.8
+      },
+      {
+        "date": "2015-01-29",
+        "value": 1.4
+      }
+    ],
+    "glucose": [
+      {
+        "date": "2005-02-15",
+        "value": 59.2
+      }
+    ],
+    "hdl_c": [
+      {
+        "date": "2005-02-15",
+        "value": 29.4
+      }
+    ],
+    "ldl_c": [
+      {
+        "date": "2005-02-15",
+        "value": 41.5
+      }
+    ],
+    "tc_hdl_ratio": [
+      {
+        "date": "2005-02-15",
+        "value": 4.6
+      }
+    ],
+    "total_chol": [
+      {
+        "date": "2005-02-15",
+        "value": 233.5
+      }
+    ],
+    "triglycerides": [
+      {
+        "date": "2005-02-15",
+        "value": 190.0
+      }
+    ]
+  },
+  "liver_enzymes": {
+    "alt": [
+      {
+        "date": "2005-02-15",
+        "value": 18.0
+      }
+    ],
+    "ast": [
+      {
+        "date": "2005-02-15",
+        "value": 37.0
+      }
+    ],
+    "ggt": [],
+    "alp": [
+      {
+        "date": "2005-02-15",
+        "value": 106.7
+      }
+    ],
+    "bilirubin_total": [
+      {
+        "date": "2005-02-15",
+        "value": 0.9
+      }
+    ]
+  },
+  "alt_elevations": [],
+  "bp_readings": 5,
+  "bp_date_range": [
+    "2009-06-10",
+    "2025-02-09"
+  ],
+  "bp_latest": {
+    "datetime": "2025-02-09T01:31:00",
+    "date": "2025-02-09",
+    "systolic": 172,
+    "diastolic": 60,
+    "pulse": 99
+  },
+  "bp_mean": {
+    "systolic": 90,
+    "diastolic": 108,
+    "category": "stage 1 hypertension"
+  },
+  "bp_max": {
+    "systolic": 216,
+    "diastolic": 55
+  },
+  "bp_recent": {
+    "systolic": 80,
+    "diastolic": 49,
+    "n": 2,
+    "since": "2022-03-09"
+  },
+  "weight_kg_range": [
+    119.9,
+    63.8
+  ],
+  "bp_series": [
+    {
+      "datetime": "2009-06-10T18:41:00",
+      "date": "2009-06-10",
+      "systolic": 165,
+      "diastolic": 58,
+      "pulse": 104
+    },
+    {
+      "datetime": "2009-07-08T18:03:00",
+      "date": "2009-07-08",
+      "systolic": 210,
+      "diastolic": 58,
+      "pulse": 45
+    },
+    {
+      "datetime": "2011-05-01T18:51:00",
+      "date": "2011-05-01",
+      "systolic": 83,
+      "diastolic": 63,
+      "pulse": 88
+    },
+    {
+      "datetime": "2011-05-08T01:46:00",
+      "date": "2011-05-08",
+      "systolic": 174,
+      "diastolic": 42,
+      "pulse": 46
+    },
+    {
+      "datetime": "2015-01-30T12:33:00",
+      "date": "2015-01-30",
+      "systolic": 190,
+      "diastolic": 91,
+      "pulse": 70
+    },
+    {
+      "datetime": "2020-02-12T16:15:00",
+      "date": "2020-02-12",
+      "systolic": 182,
+      "diastolic": 50,
+      "pulse": 45
+    },
+    {
+      "datetime": "2022-03-09T23:05:00",
+      "date": "2022-03-09",
+      "systolic": 72,
+      "diastolic": 59,
+      "pulse": 99
+    },
+    {
+      "datetime": "2023-08-29T22:24:00",
+      "date": "2023-08-29",
+      "systolic": 177,
+      "diastolic": 114,
+      "pulse": 66
+    },
+    {
+      "datetime": "2025-02-09T01:31:00",
+      "date": "2025-02-09",
+      "systolic": 79,
+      "diastolic": 117,
+      "pulse": 100
+    }
+  ]
+}

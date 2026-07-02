@@ -1,0 +1,37 @@
+{
+  "last_synced": "2026-06-20",
+  "source": "demo",
+  "profile": {
+    "weight_kg": 63.2,
+    "gender": "Man",
+    "location": "Santa Cruz, CA"
+  },
+  "hr_zones_bpm": {
+    "z1": [
+      0,
+      76
+    ],
+    "z2": [
+      68,
+      199
+    ],
+    "z3": [
+      200,
+      92
+    ],
+    "z4": [
+      205,
+      120
+    ],
+    "z5": [
+      124,
+      null
+    ]
+  },
+  "hr_zone_source": "MaxHeartRate (implies HRmax ~187)",
+  "ftp_watts": 150,
+  "ftp_estimated": true,
+  "run_zone_source": "RacePace",
+  "fastest_10k": "56m18s",
+  "recent_6wk_note": "Demo data \u2014 synthetic values for illustration."
+}

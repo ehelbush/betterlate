@@ -1,0 +1,27 @@
+# ---- Personal health data & PHI: NEVER commit ----
+data/
+report/
+deploy/
+logs/
+*.pdf
+
+# ---- Secrets / credentials ----
+**/strava_api.json
+**/token.txt
+.env
+*.secret
+
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.mypy_cache/
+
+# ---- OS / editor ----
+.DS_Store
+.idea/
+.vscode/
+
+# Note: sample/ (synthetic demo data) IS committed so the dashboard renders out of the box.

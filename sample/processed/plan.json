@@ -1,0 +1,13 @@
+{
+  "_note": "Demo data \u2014 synthetic values for illustration.",
+  "phase": "Wharf to Wharf build",
+  "weekly_targets": {
+    "active_days": 8,
+    "runs": 4,
+    "strength": 1,
+    "rides": 4,
+    "long_session": 1,
+    "swim_or_surf": 1
+  },
+  "long_session_min_minutes": 44
+}
